@@ -1,0 +1,65 @@
+2026-11-12 11:35:15 : Starting OrthoFinder v3.2
+4 thread(s) for highly parallel tasks (BLAST searches etc.)
+1 thread(s) for OrthoFinder algorithm
+
+OrthoFinder version 3.2 Copyright (C) 2014 David Emms
+
+Results directory:
+    /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov12_1/
+
+2026-11-12 11:35:15 : Checking required programs are installed
+2026-11-12 11:35:16 : Creating orthogroup profiles
+2026-11-12 11:35:16 : [Create orthogroup profiles] Started
+2026-11-12 11:35:24 : [Create orthogroup profiles] Completed
+2026-11-12 11:35:24 : [Search orthogroup profiles] Started
+2026-11-12 11:35:24 : Running diamond profiles search
+2026-11-12 11:35:29 : Done profiles search
+2026-11-12 11:35:29 : [Search orthogroup profiles] Completed
+2026-11-12 11:35:29 : [Infer clade-specific orthogroups] Started
+2026-11-12 11:35:29 : Writing orthogroups to file
+2026-11-12 11:35:30 : [Build alignments and gene trees] Started
+2026-11-12 11:35:30 : Starting MSA/Trees
+2026-11-12 11:35:30 : Inferring multiple sequence alignments and gene trees
+2026-11-12 11:35:53 : Done MSA/Trees
+2026-11-12 11:35:53 : [Build alignments and gene trees] Completed
+2026-11-12 11:35:54 : Identifying clade-specific orthogroups for the following clades:
+2026-11-12 11:35:54 : Running diamond searches for new non-core species clades
+2026-11-12 11:35:54 : [Sequence search] Started
+2026-11-12 11:35:54 : This may take some time...
+2026-11-12 11:35:55 : Search completed: Blast8_8.txt.gz (15673 bytes)
+2026-11-12 11:35:55 : Done all-versus-all sequence search
+2026-11-12 11:35:55 : [Sequence search] Completed
+2026-11-12 11:35:55 : OrthoFinder clutering on new species clade 1 of 1
+2026-11-12 11:35:55 : Running OrthoFinder algorithm for clade-specific genes
+2026-11-12 11:35:55 : Initial processing of each species
+2026-11-12 11:35:55 : Connected putative homologues
+2026-11-12 11:35:55 : Ran MCL
+2026-11-12 11:35:55 : [Infer clade-specific orthogroups] Completed
+2026-11-12 11:35:55 : Writing orthogroups to file
+2026-11-12 11:35:55 : Done orthogroups
+2026-11-12 11:35:55 : Analysing Orthogroups
+2026-11-12 11:35:55 : [Build alignments and gene trees] Started
+2026-11-12 11:35:55 : Starting MSA/Trees
+2026-11-12 11:35:55 : Inferring multiple sequence alignments and gene trees
+2026-11-12 11:35:56 : Done MSA/Trees
+2026-11-12 11:35:56 : [Build alignments and gene trees] Completed
+2026-11-12 11:35:56 : [Infer species tree] Started
+2026-11-12 11:35:56 : [Infer species tree] Completed
+2026-11-12 11:35:56 : Reconciling gene trees and species tree
+2026-11-12 11:35:56 : Starting reconciliation and orthologs
+2026-11-12 11:35:56 : [Infer orthologs] Started
+2026-11-12 11:35:56 : Inferring orthologs from gene trees
+2026-11-12 11:35:58 : Done writing orthologs
+2026-11-12 11:35:58 : Done of orthologs
+2026-11-12 11:35:58 : [Infer orthologs] Completed
+2026-11-12 11:35:58 : Writing results files
+2026-11-12 11:35:58 : Start writing hierarchical orthogroups files
+2026-11-12 11:35:58 : Converting MSA/Trees
+2026-11-12 11:35:59 : Updating MSA/Trees
+2026-11-12 11:36:02 : Done updating MSA/Trees
+2026-11-12 11:36:02 : [Infer orthologs] Started
+2026-11-12 11:36:04 : [Infer orthologs] Completed
+2026-11-12 11:36:05 : Done writing files
+2026-11-12 11:36:05 : [Process output files] Started
+2026-11-12 11:36:05 : [Process output files] Completed
+2026-11-12 11:36:05 : OrthoFinder run completed in 50.25 seconds
