@@ -1,0 +1,1373 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+DCGPKAEN_00001	tRNA	73				tRNA-Val(tac)
+DCGPKAEN_00002	tRNA	93				tRNA-Ser(gga)
+DCGPKAEN_00003	rRNA	76				5S ribosomal RNA (partial)
+DCGPKAEN_00004	rRNA	2904				23S ribosomal RNA
+DCGPKAEN_00005	tRNA	73				tRNA-Ala(tgc)
+DCGPKAEN_00006	rRNA	1550				16S ribosomal RNA
+DCGPKAEN_00007	CDS	561	gmk_1	2.7.4.8	COG0194	Guanylate kinase
+DCGPKAEN_00008	CDS	1407	yhdG_1		COG0531	putative amino acid permease YhdG
+DCGPKAEN_00009	CDS	1704	ezrA			Septation ring formation regulator EzrA
+DCGPKAEN_00010	CDS	612	rpsD		COG0522	30S ribosomal protein S4
+DCGPKAEN_00011	CDS	369	yueI		COG5506	putative protein YueI
+DCGPKAEN_00012	CDS	1299			COG2256	putative AAA domain-containing protein
+DCGPKAEN_00013	CDS	447				Putative universal stress protein
+DCGPKAEN_00014	CDS	1149	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+DCGPKAEN_00015	CDS	990				hypothetical protein
+DCGPKAEN_00016	CDS	1212	rodA	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase RodA
+DCGPKAEN_00017	CDS	210				hypothetical protein
+DCGPKAEN_00018	CDS	984	mbl		COG1077	MreB-like protein
+DCGPKAEN_00019	CDS	642				hypothetical protein
+DCGPKAEN_00020	CDS	1266	comFA	3.6.4.12	COG4098	ComF operon protein 1
+DCGPKAEN_00021	CDS	636	yigZ		COG1739	IMPACT family member YigZ
+DCGPKAEN_00022	tRNA	72				tRNA-Arg(ccg)
+DCGPKAEN_00023	CDS	576	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+DCGPKAEN_00024	CDS	1326	eno2	4.2.1.11	COG0148	Enolase 2
+DCGPKAEN_00025	CDS	777	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+DCGPKAEN_00026	CDS	336				hypothetical protein
+DCGPKAEN_00027	tRNA	89				tRNA-Leu(aag)
+DCGPKAEN_00028	CDS	720	sdh	1.1.1.276		Serine 3-dehydrogenase
+DCGPKAEN_00029	CDS	237				hypothetical protein
+DCGPKAEN_00030	tRNA	77				tRNA-Thr(cgt)
+DCGPKAEN_00031	tRNA	75				tRNA-Asn(gtt)
+DCGPKAEN_00032	CDS	1251	yjhB_1			Putative metabolite transport protein YjhB
+DCGPKAEN_00033	CDS	1260	yjhB_2			Putative metabolite transport protein YjhB
+DCGPKAEN_00034	tRNA	75				tRNA-Asn(gtt)
+DCGPKAEN_00035	CDS	1485	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase
+DCGPKAEN_00036	CDS	960	hslO			33 kDa chaperonin
+DCGPKAEN_00037	CDS	2091	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+DCGPKAEN_00038	CDS	537	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+DCGPKAEN_00039	CDS	1281	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+DCGPKAEN_00040	CDS	387	ftsL_1			Cell division protein FtsL
+DCGPKAEN_00041	CDS	276			COG1188	putative protein
+DCGPKAEN_00042	CDS	3552	mfd	3.6.4.-		Transcription-repair-coupling factor
+DCGPKAEN_00043	CDS	567	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+DCGPKAEN_00044	CDS	651				hypothetical protein
+DCGPKAEN_00045	CDS	1224	nupG_1		COG1972	Purine nucleoside transport protein NupG
+DCGPKAEN_00046	CDS	936	rbsK/rbiA_1			Bifunctional ribokinase/ribose-5-phosphate isomerase A
+DCGPKAEN_00047	CDS	699	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+DCGPKAEN_00048	CDS	648				hypothetical protein
+DCGPKAEN_00049	CDS	444				hypothetical protein
+DCGPKAEN_00050	CDS	1635	groL		COG0459	60 kDa chaperonin
+DCGPKAEN_00051	CDS	285	groS		COG0234	10 kDa chaperonin
+DCGPKAEN_00052	CDS	744	nfrA2	1.5.1.39	COG0778	FMN reductase [NAD(P)H]
+DCGPKAEN_00053	CDS	564				hypothetical protein
+DCGPKAEN_00054	CDS	468				hypothetical protein
+DCGPKAEN_00055	CDS	2964				hypothetical protein
+DCGPKAEN_00056	CDS	1767				hypothetical protein
+DCGPKAEN_00057	CDS	612				hypothetical protein
+DCGPKAEN_00058	CDS	1338				hypothetical protein
+DCGPKAEN_00059	CDS	570				hypothetical protein
+DCGPKAEN_00060	CDS	1455				hypothetical protein
+DCGPKAEN_00061	CDS	156				hypothetical protein
+DCGPKAEN_00062	CDS	678	pezT	2.7.1.176		Toxin PezT
+DCGPKAEN_00063	CDS	1362				hypothetical protein
+DCGPKAEN_00064	CDS	954				hypothetical protein
+DCGPKAEN_00065	CDS	120				hypothetical protein
+DCGPKAEN_00066	CDS	396	rpsI		COG0103	30S ribosomal protein S9
+DCGPKAEN_00067	CDS	444	rplM		COG0102	50S ribosomal protein L13
+DCGPKAEN_00068	CDS	1329	bag_1			IgA FC receptor
+DCGPKAEN_00069	CDS	153				hypothetical protein
+DCGPKAEN_00070	CDS	129				hypothetical protein
+DCGPKAEN_00071	CDS	411				hypothetical protein
+DCGPKAEN_00072	CDS	783	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+DCGPKAEN_00073	CDS	801	ecfT_1		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+DCGPKAEN_00074	CDS	909	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+DCGPKAEN_00075	CDS	822	ecfA1	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA1
+DCGPKAEN_00076	CDS	15228	ebh_1			Extracellular matrix-binding protein ebh
+DCGPKAEN_00077	CDS	417				hypothetical protein
+DCGPKAEN_00078	CDS	459				hypothetical protein
+DCGPKAEN_00079	CDS	861				hypothetical protein
+DCGPKAEN_00080	CDS	876	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+DCGPKAEN_00081	CDS	384	rplQ		COG0203	50S ribosomal protein L17
+DCGPKAEN_00082	CDS	945	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+DCGPKAEN_00083	CDS	387	rpsK		COG0100	30S ribosomal protein S11
+DCGPKAEN_00084	CDS	372	rpsM		COG0099	30S ribosomal protein S13
+DCGPKAEN_00085	CDS	120	rpmJ		COG0257	50S ribosomal protein L36
+DCGPKAEN_00086	CDS	216	infA		COG0361	Translation initiation factor IF-1
+DCGPKAEN_00087	CDS	567	adk	2.7.4.3		Adenylate kinase
+DCGPKAEN_00088	CDS	1299	secY			Protein translocase subunit SecY
+DCGPKAEN_00089	CDS	435	rplO		COG0200	50S ribosomal protein L15
+DCGPKAEN_00090	CDS	183	rpmD		COG1841	50S ribosomal protein L30
+DCGPKAEN_00091	CDS	507	rpsE			30S ribosomal protein S5
+DCGPKAEN_00092	CDS	354	rplR		COG0256	50S ribosomal protein L18
+DCGPKAEN_00093	CDS	537	rplF			50S ribosomal protein L6
+DCGPKAEN_00094	CDS	399	rpsH		COG0096	30S ribosomal protein S8
+DCGPKAEN_00095	CDS	543	rplE			50S ribosomal protein L5
+DCGPKAEN_00096	CDS	309	rplX		COG0198	50S ribosomal protein L24
+DCGPKAEN_00097	CDS	369	rplN		COG0093	50S ribosomal protein L14
+DCGPKAEN_00098	CDS	267	rpsQ		COG0186	30S ribosomal protein S17
+DCGPKAEN_00099	CDS	207	rpmC			50S ribosomal protein L29
+DCGPKAEN_00100	CDS	414	rplP		COG0197	50S ribosomal protein L16
+DCGPKAEN_00101	CDS	669	rpsC		COG0092	30S ribosomal protein S3
+DCGPKAEN_00102	CDS	357	rplV		COG0091	50S ribosomal protein L22
+DCGPKAEN_00103	CDS	276	rpsS		COG0185	30S ribosomal protein S19
+DCGPKAEN_00104	CDS	837	rplB		COG0090	50S ribosomal protein L2
+DCGPKAEN_00105	CDS	288	rplW			50S ribosomal protein L23
+DCGPKAEN_00106	CDS	624	rplD			50S ribosomal protein L4
+DCGPKAEN_00107	CDS	684	rplC		COG0087	50S ribosomal protein L3
+DCGPKAEN_00108	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+DCGPKAEN_00109	CDS	1476	bmr3			Multidrug resistance protein 3
+DCGPKAEN_00110	CDS	285	hlyU		COG0640	Transcriptional activator HlyU
+DCGPKAEN_00111	CDS	1080	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+DCGPKAEN_00112	CDS	804	ydcV			Inner membrane ABC transporter permease protein YdcV
+DCGPKAEN_00113	CDS	828	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+DCGPKAEN_00114	CDS	1155	potA	3.6.3.31		Spermidine/putrescine import ATP-binding protein PotA
+DCGPKAEN_00115	CDS	2112	fus			Elongation factor G
+DCGPKAEN_00116	CDS	471	rpsG		COG0049	30S ribosomal protein S7
+DCGPKAEN_00117	CDS	414	rpsL		COG0048	30S ribosomal protein S12
+DCGPKAEN_00118	CDS	666				hypothetical protein
+DCGPKAEN_00119	CDS	2484	clpC_1		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpC
+DCGPKAEN_00120	CDS	1119	prfB			Peptide chain release factor 2
+DCGPKAEN_00121	CDS	2412	secA		COG0653	Protein translocase subunit SecA
+DCGPKAEN_00122	CDS	1311	serS	6.1.1.11		Serine--tRNA ligase
+DCGPKAEN_00123	tRNA	77				tRNA-Ile(gat)
+DCGPKAEN_00124	tRNA	71				tRNA-Gly(tcc)
+DCGPKAEN_00125	tRNA	75				tRNA-Phe(gaa)
+DCGPKAEN_00126	tRNA	76				tRNA-Asp(gtc)
+DCGPKAEN_00127	tRNA	76				tRNA-Met(cat)
+DCGPKAEN_00128	tRNA	90				tRNA-Ser(tga)
+DCGPKAEN_00129	tRNA	74				tRNA-Met(cat)
+DCGPKAEN_00130	tRNA	76				tRNA-Met(cat)
+DCGPKAEN_00131	tRNA	74				tRNA-Pro(tgg)
+DCGPKAEN_00132	tRNA	77				tRNA-Arg(acg)
+DCGPKAEN_00133	tRNA	86				tRNA-Leu(taa)
+DCGPKAEN_00134	tRNA	72				tRNA-Gly(gcc)
+DCGPKAEN_00135	tRNA	73				tRNA-Thr(tgt)
+DCGPKAEN_00136	tRNA	75				tRNA-Val(tac)
+DCGPKAEN_00137	rRNA	76				5S ribosomal RNA (partial)
+DCGPKAEN_00138	rRNA	2904				23S ribosomal RNA
+DCGPKAEN_00139	tRNA	73				tRNA-Ala(tgc)
+DCGPKAEN_00140	rRNA	1545				16S ribosomal RNA
+DCGPKAEN_00141	CDS	1407	cysS	6.1.1.16		Cysteine--tRNA ligase
+DCGPKAEN_00142	CDS	1497	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+DCGPKAEN_00143	CDS	1368	radA	3.6.4.-	COG1066	DNA repair protein RadA
+DCGPKAEN_00144	CDS	474	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+DCGPKAEN_00145	CDS	309	yjdJ		COG2388	putative protein YjdJ
+DCGPKAEN_00146	CDS	954				hypothetical protein
+DCGPKAEN_00147	CDS	813	cysL		COG0583	HTH-type transcriptional regulator CysL
+DCGPKAEN_00148	CDS	2124	clpC_2			putative ATP-dependent Clp protease ATP-binding subunit
+DCGPKAEN_00149	CDS	252				hypothetical protein
+DCGPKAEN_00150	CDS	1179				hypothetical protein
+DCGPKAEN_00151	CDS	1449	rlmCD_1	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+DCGPKAEN_00152	CDS	708				hypothetical protein
+DCGPKAEN_00153	CDS	582	folT			Folate transporter FolT
+DCGPKAEN_00154	CDS	186				hypothetical protein
+DCGPKAEN_00155	CDS	312				hypothetical protein
+DCGPKAEN_00156	CDS	1512	prfC			Peptide chain release factor 3
+DCGPKAEN_00157	CDS	936	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+DCGPKAEN_00158	CDS	1050	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+DCGPKAEN_00159	CDS	1023	oppC		COG1173	Oligopeptide transport system permease protein OppC
+DCGPKAEN_00160	CDS	918	oppB		COG0601	Oligopeptide transport system permease protein OppB
+DCGPKAEN_00161	CDS	1641	oppA		COG4166	Oligopeptide-binding protein OppA
+DCGPKAEN_00162	CDS	1560	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+DCGPKAEN_00163	CDS	333				hypothetical protein
+DCGPKAEN_00164	tRNA	76				tRNA-Lys(ctt)
+DCGPKAEN_00165	CDS	609				hypothetical protein
+DCGPKAEN_00166	CDS	1587				hypothetical protein
+DCGPKAEN_00167	CDS	1002	yumC	1.18.1.2	COG0492	Ferredoxin--NADP reductase 2
+DCGPKAEN_00168	CDS	960	rihB	3.2.2.8	COG1957	Pyrimidine-specific ribonucleoside hydrolase RihB
+DCGPKAEN_00169	CDS	642		2.7.1.113	COG1428	Deoxyguanosine kinase
+DCGPKAEN_00170	CDS	1134	htrA_1	3.4.21.107	COG0265	Serine protease Do-like HtrA
+DCGPKAEN_00171	CDS	1845	walK	2.7.13.3		Sensor histidine kinase WalK
+DCGPKAEN_00172	CDS	714	walR		COG0745	Transcriptional regulatory protein WalR
+DCGPKAEN_00173	CDS	981	prs_1	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+DCGPKAEN_00174	CDS	813	yidA	3.1.3.23	COG0561	Sugar phosphatase YidA
+DCGPKAEN_00175	CDS	2454	xpkA	4.1.2.9		Xylulose-5-phosphate phosphoketolase
+DCGPKAEN_00176	CDS	729	gmuR		COG2188	HTH-type transcriptional regulator GmuR
+DCGPKAEN_00177	CDS	498	ybaK	4.2.-.-	COG2606	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+DCGPKAEN_00178	CDS	1485	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+DCGPKAEN_00179	CDS	453	rplI			50S ribosomal protein L9
+DCGPKAEN_00180	CDS	2025	gdpP	3.1.4.-	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+DCGPKAEN_00181	CDS	186				hypothetical protein
+DCGPKAEN_00182	CDS	303				hypothetical protein
+DCGPKAEN_00183	CDS	264	rpsR		COG0238	30S ribosomal protein S18
+DCGPKAEN_00184	CDS	531	ssb_1		COG0629	Single-stranded DNA-binding protein
+DCGPKAEN_00185	CDS	300	rpsF		COG0360	30S ribosomal protein S6
+DCGPKAEN_00186	CDS	1368	nhaC		COG1757	Na(+)/H(+) antiporter NhaC
+DCGPKAEN_00187	CDS	1248				hypothetical protein
+DCGPKAEN_00188	CDS	1461	zwf	1.1.1.363		Glucose-6-phosphate 1-dehydrogenase
+DCGPKAEN_00189	CDS	579				hypothetical protein
+DCGPKAEN_00190	CDS	687	yedJ		COG1418	putative protein YedJ
+DCGPKAEN_00191	CDS	1965	macB	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+DCGPKAEN_00192	CDS	318				hypothetical protein
+DCGPKAEN_00193	CDS	435				hypothetical protein
+DCGPKAEN_00194	CDS	495				hypothetical protein
+DCGPKAEN_00195	CDS	1845				hypothetical protein
+DCGPKAEN_00196	CDS	1134				hypothetical protein
+DCGPKAEN_00197	CDS	591				hypothetical protein
+DCGPKAEN_00198	CDS	624	spsB	3.4.21.89	COG0681	Signal peptidase IB
+DCGPKAEN_00199	CDS	345				hypothetical protein
+DCGPKAEN_00200	CDS	936	rbsK/rbiA_2			Bifunctional ribokinase/ribose-5-phosphate isomerase A
+DCGPKAEN_00201	CDS	675	rbsK/rbiA_3			Bifunctional ribokinase/ribose-5-phosphate isomerase A
+DCGPKAEN_00202	CDS	597	yfiR			putative HTH-type transcriptional regulator YfiR
+DCGPKAEN_00203	CDS	1362	yjjP		COG2966	Inner membrane protein YjjP
+DCGPKAEN_00204	CDS	1626	mleA	4.1.1.101	COG0281	Malolactic enzyme
+DCGPKAEN_00205	CDS	654	oxyR			Hydrogen peroxide-inducible genes activator
+DCGPKAEN_00206	CDS	891	fimA		COG0803	Manganese ABC transporter substrate-binding lipoprotein
+DCGPKAEN_00207	CDS	768				hypothetical protein
+DCGPKAEN_00208	CDS	678	hrtA	3.6.3.-	COG1136	Putative hemin import ATP-binding protein HrtA
+DCGPKAEN_00209	CDS	1053				hypothetical protein
+DCGPKAEN_00210	CDS	507				hypothetical protein
+DCGPKAEN_00211	CDS	1386	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+DCGPKAEN_00212	CDS	1206	argG	6.3.4.5		Argininosuccinate synthase
+DCGPKAEN_00213	CDS	744	glnQ_1			Glutamine transport ATP-binding protein GlnQ
+DCGPKAEN_00214	CDS	1464	artQ_1		COG0765	Arginine transport system permease protein ArtQ
+DCGPKAEN_00215	CDS	1179				hypothetical protein
+DCGPKAEN_00216	CDS	1662	fhs1	6.3.4.3		Formate--tetrahydrofolate ligase 1
+DCGPKAEN_00217	CDS	537				hypothetical protein
+DCGPKAEN_00218	CDS	933				hypothetical protein
+DCGPKAEN_00219	CDS	624				hypothetical protein
+DCGPKAEN_00220	CDS	1296	clcA		COG0038	H(+)/Cl(-) exchange transporter ClcA
+DCGPKAEN_00221	CDS	2373	copB	3.6.3.54		Copper-exporting P-type ATPase B
+DCGPKAEN_00222	CDS	720	aqpZ		COG0580	Aquaporin Z
+DCGPKAEN_00223	CDS	903	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+DCGPKAEN_00224	CDS	2145	ltaS1_1		COG1368	Lipoteichoic acid synthase 1
+DCGPKAEN_00225	CDS	780	yutF	3.1.3.-	COG0647	Acid sugar phosphatase
+DCGPKAEN_00226	CDS	1212				hypothetical protein
+DCGPKAEN_00227	tRNA	77				tRNA-Ile(gat)
+DCGPKAEN_00228	tRNA	71				tRNA-Gly(tcc)
+DCGPKAEN_00229	tRNA	75				tRNA-Phe(gaa)
+DCGPKAEN_00230	tRNA	76				tRNA-Asp(gtc)
+DCGPKAEN_00231	tRNA	76				tRNA-Met(cat)
+DCGPKAEN_00232	tRNA	90				tRNA-Ser(tga)
+DCGPKAEN_00233	tRNA	74				tRNA-Met(cat)
+DCGPKAEN_00234	tRNA	76				tRNA-Met(cat)
+DCGPKAEN_00235	tRNA	74				tRNA-Pro(tgg)
+DCGPKAEN_00236	tRNA	77				tRNA-Arg(acg)
+DCGPKAEN_00237	tRNA	86				tRNA-Leu(taa)
+DCGPKAEN_00238	tRNA	72				tRNA-Gly(gcc)
+DCGPKAEN_00239	tRNA	73				tRNA-Thr(tgt)
+DCGPKAEN_00240	tRNA	75				tRNA-Val(tac)
+DCGPKAEN_00241	rRNA	76				5S ribosomal RNA (partial)
+DCGPKAEN_00242	rRNA	2902				23S ribosomal RNA
+DCGPKAEN_00243	tRNA	73				tRNA-Ala(tgc)
+DCGPKAEN_00244	rRNA	1546				16S ribosomal RNA
+DCGPKAEN_00245	CDS	747	agrA		COG3279	Accessory gene regulator A
+DCGPKAEN_00246	CDS	2475	gyrA	5.99.1.3	COG0188	DNA gyrase subunit A
+DCGPKAEN_00247	CDS	2001	gyrB	5.99.1.3	COG0187	DNA gyrase subunit B
+DCGPKAEN_00248	CDS	1146	recF		COG1195	DNA replication and repair protein RecF
+DCGPKAEN_00249	CDS	393				hypothetical protein
+DCGPKAEN_00250	CDS	1134	dnaN			Beta sliding clamp
+DCGPKAEN_00251	CDS	1386	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+DCGPKAEN_00252	CDS	135	rpmH			50S ribosomal protein L34
+DCGPKAEN_00253	CDS	354	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+DCGPKAEN_00254	CDS	840	misCA		COG0706	Membrane protein insertase MisCA
+DCGPKAEN_00255	CDS	924				hypothetical protein
+DCGPKAEN_00256	CDS	510	mscL_1			Large-conductance mechanosensitive channel
+DCGPKAEN_00257	CDS	171				hypothetical protein
+DCGPKAEN_00258	CDS	897	aes	3.1.1.-		Acetyl esterase
+DCGPKAEN_00259	CDS	1890				hypothetical protein
+DCGPKAEN_00260	CDS	1248	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+DCGPKAEN_00261	CDS	915	ybhF_1		COG1131	putative multidrug ABC transporter ATP-binding protein YbhF
+DCGPKAEN_00262	CDS	765				hypothetical protein
+DCGPKAEN_00263	CDS	303				hypothetical protein
+DCGPKAEN_00264	CDS	756	opuBA		COG1125	Choline transport ATP-binding protein OpuBA
+DCGPKAEN_00265	CDS	900				hypothetical protein
+DCGPKAEN_00266	CDS	999				hypothetical protein
+DCGPKAEN_00267	CDS	600				hypothetical protein
+DCGPKAEN_00268	CDS	468	ywnA		COG1959	Putative HTH-type transcriptional regulator YwnA
+DCGPKAEN_00269	CDS	414	crcB_1		COG0239	Putative fluoride ion transporter CrcB
+DCGPKAEN_00270	CDS	360	crcB_2			Putative fluoride ion transporter CrcB
+DCGPKAEN_00271	CDS	885	degV		COG1307	Protein DegV
+DCGPKAEN_00272	CDS	348				hypothetical protein
+DCGPKAEN_00273	CDS	642				hypothetical protein
+DCGPKAEN_00274	CDS	639	cah	4.2.1.1	COG3338	Carbonic anhydrase
+DCGPKAEN_00275	CDS	1368	hsrA_1			putative transport protein HsrA
+DCGPKAEN_00276	CDS	1887	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+DCGPKAEN_00277	tRNA	85				tRNA-Tyr(gta)
+DCGPKAEN_00278	tRNA	75				tRNA-Gln(ttg)
+DCGPKAEN_00279	CDS	588				hypothetical protein
+DCGPKAEN_00280	CDS	162				hypothetical protein
+DCGPKAEN_00281	CDS	450	immR		COG1396	HTH-type transcriptional regulator ImmR
+DCGPKAEN_00282	CDS	1221	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+DCGPKAEN_00283	CDS	2376	helD	3.6.4.12	COG3973	DNA helicase IV
+DCGPKAEN_00284	CDS	705	coaA	2.7.1.33	COG1072	Pantothenate kinase
+DCGPKAEN_00285	CDS	1506	emrB_1			Multidrug export protein EmrB
+DCGPKAEN_00286	CDS	675				hypothetical protein
+DCGPKAEN_00287	CDS	201	cspLA		COG1278	Cold shock-like protein CspLA
+DCGPKAEN_00288	CDS	711	gpmA_1	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+DCGPKAEN_00289	CDS	1275	pyrP			Uracil permease
+DCGPKAEN_00290	CDS	717	atpB		COG0356	ATP synthase subunit a
+DCGPKAEN_00291	CDS	228	atpE			ATP synthase subunit c
+DCGPKAEN_00292	CDS	507	atpF		COG0711	ATP synthase subunit b
+DCGPKAEN_00293	CDS	543	atpH		COG0712	ATP synthase subunit delta
+DCGPKAEN_00294	CDS	1518	atpA	3.6.3.14	COG0056	ATP synthase subunit alpha
+DCGPKAEN_00295	CDS	918	atpG		COG0224	ATP synthase gamma chain
+DCGPKAEN_00296	CDS	1401	atpD	3.6.3.14	COG0055	ATP synthase subunit beta
+DCGPKAEN_00297	CDS	441	atpC		COG0355	ATP synthase epsilon chain
+DCGPKAEN_00298	CDS	870		3.2.1.17		Muramidase-2
+DCGPKAEN_00299	tRNA	73				tRNA-Glu(ttc)
+DCGPKAEN_00300	CDS	1125	solA	1.5.3.-	COG0665	N-methyl-L-tryptophan oxidase
+DCGPKAEN_00301	CDS	981	panE	1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+DCGPKAEN_00302	CDS	1017	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+DCGPKAEN_00303	CDS	582				hypothetical protein
+DCGPKAEN_00304	CDS	1446	lysP		COG0833	Lysine-specific permease
+DCGPKAEN_00305	CDS	453			COG3279	putative HTH-type transcriptional regulator
+DCGPKAEN_00306	CDS	447				hypothetical protein
+DCGPKAEN_00307	CDS	153				hypothetical protein
+DCGPKAEN_00308	CDS	228				hypothetical protein
+DCGPKAEN_00309	CDS	744	yfcA_1		COG0730	putative membrane transporter protein YfcA
+DCGPKAEN_00310	CDS	3630	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+DCGPKAEN_00311	CDS	3660	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+DCGPKAEN_00312	CDS	450				hypothetical protein
+DCGPKAEN_00313	CDS	420	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+DCGPKAEN_00314	CDS	753		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+DCGPKAEN_00315	CDS	564				hypothetical protein
+DCGPKAEN_00316	CDS	177	secE			Protein translocase subunit SecE
+DCGPKAEN_00317	CDS	570	nusG			Transcription termination/antitermination protein NusG
+DCGPKAEN_00318	CDS	462	rplK			50S ribosomal protein L11
+DCGPKAEN_00319	CDS	693	rplA			50S ribosomal protein L1
+DCGPKAEN_00320	CDS	522	rplJ			50S ribosomal protein L10
+DCGPKAEN_00321	CDS	366	rplL			50S ribosomal protein L7/L12
+DCGPKAEN_00322	CDS	630	rsmC	2.1.1.172	COG2813	Ribosomal RNA small subunit methyltransferase C
+DCGPKAEN_00323	CDS	543	tadA_1	3.5.4.33		tRNA-specific adenosine deaminase
+DCGPKAEN_00324	CDS	2001	dnaX	2.7.7.7	COG2812	DNA polymerase III subunit gamma/tau
+DCGPKAEN_00325	CDS	606	recR		COG0353	Recombination protein RecR
+DCGPKAEN_00326	CDS	267				hypothetical protein
+DCGPKAEN_00327	CDS	651	tmk	2.7.4.9	COG0125	Thymidylate kinase
+DCGPKAEN_00328	CDS	324	yaaQ		COG3870	putative protein YaaQ
+DCGPKAEN_00329	CDS	960				hypothetical protein
+DCGPKAEN_00330	CDS	903	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+DCGPKAEN_00331	CDS	744				hypothetical protein
+DCGPKAEN_00332	CDS	996	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+DCGPKAEN_00333	tRNA	77				tRNA-Lys(ctt)
+DCGPKAEN_00334	CDS	762	vanYB	3.4.16.4	COG1876	D-alanyl-D-alanine carboxypeptidase
+DCGPKAEN_00335	CDS	108				hypothetical protein
+DCGPKAEN_00336	CDS	480	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+DCGPKAEN_00337	CDS	648	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+DCGPKAEN_00338	CDS	330				hypothetical protein
+DCGPKAEN_00339	tRNA	89				tRNA-Ser(gct)
+DCGPKAEN_00340	CDS	558	chrR	1.6.5.2	COG0431	Quinone reductase
+DCGPKAEN_00341	CDS	357				hypothetical protein
+DCGPKAEN_00342	CDS	924		1.1.1.-		L-2-hydroxyisocaproate dehydrogenase
+DCGPKAEN_00343	CDS	843	salL	2.5.1.94	COG1912	Adenosyl-chloride synthase
+DCGPKAEN_00344	CDS	558				hypothetical protein
+DCGPKAEN_00345	CDS	1683	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+DCGPKAEN_00346	CDS	825	ecfT_2		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+DCGPKAEN_00347	tRNA	75				tRNA-Asn(gtt)
+DCGPKAEN_00348	tRNA	76				tRNA-Asn(gtt)
+DCGPKAEN_00349	CDS	738	glnQ_2			Glutamine transport ATP-binding protein GlnQ
+DCGPKAEN_00350	CDS	870	glnH		COG0834	ABC transporter glutamine-binding protein GlnH
+DCGPKAEN_00351	CDS	642	glnM_1		COG0765	putative glutamine ABC transporter permease protein GlnM
+DCGPKAEN_00352	CDS	654	glnP_1		COG0765	putative glutamine ABC transporter permease protein GlnP
+DCGPKAEN_00353	CDS	729	pnuC_1			Nicotinamide riboside transporter PnuC
+DCGPKAEN_00354	CDS	1269	nupG_2		COG1972	Purine nucleoside transport protein NupG
+DCGPKAEN_00355	CDS	417				hypothetical protein
+DCGPKAEN_00356	CDS	516				hypothetical protein
+DCGPKAEN_00357	CDS	714				hypothetical protein
+DCGPKAEN_00358	CDS	2679	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+DCGPKAEN_00359	CDS	969	fabH_1	2.3.1.180		3-oxoacyl-[acyl-carrier-protein] synthase 3
+DCGPKAEN_00360	CDS	762				hypothetical protein
+DCGPKAEN_00361	CDS	1164	brpA		COG1316	Biofilm regulatory protein A
+DCGPKAEN_00362	CDS	945	ppx	3.6.1.11	COG0248	Exopolyphosphatase
+DCGPKAEN_00363	CDS	1230	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+DCGPKAEN_00364	CDS	972				hypothetical protein
+DCGPKAEN_00365	CDS	711	cobB	3.5.1.-	COG0846	NAD-dependent protein deacetylase
+DCGPKAEN_00366	CDS	1014	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+DCGPKAEN_00367	CDS	1383	mntH			Divalent metal cation transporter MntH
+DCGPKAEN_00368	CDS	462				Putative universal stress protein
+DCGPKAEN_00369	CDS	342	nmtR			HTH-type transcriptional regulator NmtR
+DCGPKAEN_00370	tRNA	84				tRNA-Leu(caa)
+DCGPKAEN_00371	CDS	897				hypothetical protein
+DCGPKAEN_00372	CDS	735	yxeO	3.6.3.-	COG1126	putative amino-acid import ATP-binding protein YxeO
+DCGPKAEN_00373	CDS	699	tcyB		COG0765	L-cystine transport system permease protein TcyB
+DCGPKAEN_00374	CDS	795	tcyA		COG0834	L-cystine-binding protein TcyA
+DCGPKAEN_00375	CDS	2040	metG	6.1.1.10		Methionine--tRNA ligase
+DCGPKAEN_00376	CDS	1338	garB_1	1.8.1.16		Glutathione amide reductase
+DCGPKAEN_00377	CDS	489	hmpT		COG4720	Thiamine precursor transporter HmpT
+DCGPKAEN_00378	CDS	1014	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+DCGPKAEN_00379	CDS	1404				hypothetical protein
+DCGPKAEN_00380	CDS	813				hypothetical protein
+DCGPKAEN_00381	CDS	444	fabZ_1	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+DCGPKAEN_00382	CDS	471	slyA_1			Transcriptional regulator SlyA
+DCGPKAEN_00383	CDS	975	fabH_2	2.3.1.180		3-oxoacyl-[acyl-carrier-protein] synthase 3
+DCGPKAEN_00384	CDS	243	acpP_1		COG0236	Acyl carrier protein
+DCGPKAEN_00385	CDS	966		1.13.12.16	COG2070	Nitronate monooxygenase
+DCGPKAEN_00386	CDS	942	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+DCGPKAEN_00387	CDS	729	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+DCGPKAEN_00388	CDS	1251	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+DCGPKAEN_00389	CDS	480	accB			Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+DCGPKAEN_00390	CDS	432	fabZ_2	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+DCGPKAEN_00391	CDS	1377	accC	6.3.4.14	COG0439	Biotin carboxylase
+DCGPKAEN_00392	CDS	852	accD	6.4.1.2	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+DCGPKAEN_00393	CDS	798	accA	6.4.1.2	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+DCGPKAEN_00394	tmRNA	357	ssrA			transfer-messenger RNA, SsrA
+DCGPKAEN_00395	CDS	579				hypothetical protein
+DCGPKAEN_00396	CDS	198				hypothetical protein
+DCGPKAEN_00397	CDS	612				hypothetical protein
+DCGPKAEN_00398	CDS	4197				hypothetical protein
+DCGPKAEN_00399	CDS	4197				hypothetical protein
+DCGPKAEN_00400	CDS	4452				hypothetical protein
+DCGPKAEN_00401	CDS	7395	ebh_2			Extracellular matrix-binding protein ebh
+DCGPKAEN_00402	CDS	609				hypothetical protein
+DCGPKAEN_00403	CDS	615	azoR_1	1.7.-.-		FMN-dependent NADH-azoreductase
+DCGPKAEN_00404	CDS	1065	ykoT	2.4.-.-		putative glycosyltransferase YkoT
+DCGPKAEN_00405	CDS	2178				hypothetical protein
+DCGPKAEN_00406	CDS	810	menH	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+DCGPKAEN_00407	CDS	834	fliY_1		COG0834	L-cystine-binding protein FliY
+DCGPKAEN_00408	CDS	639	artM_1		COG1126	Arginine transport ATP-binding protein ArtM
+DCGPKAEN_00409	CDS	642	glnM_2		COG0765	putative glutamine ABC transporter permease protein GlnM
+DCGPKAEN_00410	CDS	1401	yhdG_2		COG0531	putative amino acid permease YhdG
+DCGPKAEN_00411	CDS	870	gltC			HTH-type transcriptional regulator GltC
+DCGPKAEN_00412	CDS	546				hypothetical protein
+DCGPKAEN_00413	CDS	1476	emrB_2			Multidrug export protein EmrB
+DCGPKAEN_00414	CDS	531				hypothetical protein
+DCGPKAEN_00415	CDS	267				hypothetical protein
+DCGPKAEN_00416	CDS	1014		1.1.1.-		D-2-hydroxyisocaproate dehydrogenase
+DCGPKAEN_00417	CDS	1074				hypothetical protein
+DCGPKAEN_00418	CDS	627	lemA		COG1704	Protein LemA
+DCGPKAEN_00419	CDS	987				hypothetical protein
+DCGPKAEN_00420	CDS	939				hypothetical protein
+DCGPKAEN_00421	CDS	906				hypothetical protein
+DCGPKAEN_00422	CDS	1530	dltA	6.2.1.-	COG1020	D-alanine--D-alanyl carrier protein ligase
+DCGPKAEN_00423	CDS	1215	patA_1	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+DCGPKAEN_00424	CDS	237	dltC		COG0236	D-alanyl carrier protein
+DCGPKAEN_00425	CDS	1293	dltD		COG3966	Protein DltD
+DCGPKAEN_00426	CDS	372	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+DCGPKAEN_00427	CDS	1146	alr	5.1.1.1		Alanine racemase
+DCGPKAEN_00428	CDS	366	ndoA	3.1.27.-	COG2337	Endoribonuclease EndoA
+DCGPKAEN_00429	CDS	699	arlR_1		COG0745	Response regulator ArlR
+DCGPKAEN_00430	CDS	1317	resE	2.7.13.3		Sensor histidine kinase ResE
+DCGPKAEN_00431	CDS	873	htrA_2	3.4.21.107	COG0265	Serine protease Do-like HtrA
+DCGPKAEN_00432	CDS	330	ydbP		COG0526	Thioredoxin-like protein YdbP
+DCGPKAEN_00433	CDS	759				hypothetical protein
+DCGPKAEN_00434	CDS	1851	plaP		COG0531	Low-affinity putrescine importer PlaP
+DCGPKAEN_00435	CDS	732	cobQ			Cobyric acid synthase
+DCGPKAEN_00436	CDS	1359	murF_1	6.3.2.10		UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+DCGPKAEN_00437	CDS	615	tdk	2.7.1.21	COG1435	Thymidine kinase
+DCGPKAEN_00438	CDS	1080	prfA		COG0216	Peptide chain release factor 1
+DCGPKAEN_00439	CDS	996	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+DCGPKAEN_00440	CDS	1026	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+DCGPKAEN_00441	CDS	270	ptsH		COG1925	Phosphocarrier protein HPr
+DCGPKAEN_00442	CDS	726	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+DCGPKAEN_00443	CDS	558	rimI_1	2.3.1.128	COG0456	Ribosomal-protein-alanine acetyltransferase
+DCGPKAEN_00444	CDS	384	rimI_2	2.3.1.128	COG0456	Ribosomal-protein-alanine acetyltransferase
+DCGPKAEN_00445	CDS	1026	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+DCGPKAEN_00446	CDS	648	rex		COG2344	Redox-sensing transcriptional repressor Rex
+DCGPKAEN_00447	CDS	1044	femX	2.3.2.10		UDP-N-acetylmuramoylpentapeptide-lysine N(6)-alanyltransferase
+DCGPKAEN_00448	CDS	834	ybiV	3.1.3.23	COG0561	Sugar phosphatase YbiV
+DCGPKAEN_00449	CDS	774				hypothetical protein
+DCGPKAEN_00450	CDS	510				hypothetical protein
+DCGPKAEN_00451	CDS	2271	ydfJ		COG2409	Membrane protein YdfJ
+DCGPKAEN_00452	tRNA	83				tRNA-Tyr(gta)
+DCGPKAEN_00453	tRNA	74				tRNA-Gln(ttg)
+DCGPKAEN_00454	CDS	1302	hflX		COG2262	GTPase HflX
+DCGPKAEN_00455	CDS	672	gpmA_2	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+DCGPKAEN_00456	CDS	1446				hypothetical protein
+DCGPKAEN_00457	CDS	231	nrdH_1		COG0695	Glutaredoxin-like protein NrdH
+DCGPKAEN_00458	CDS	2172	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase 2 subunit alpha
+DCGPKAEN_00459	CDS	441			COG1780	Putative NrdI-like protein
+DCGPKAEN_00460	CDS	969	nrdF2	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta nrdF2
+DCGPKAEN_00461	CDS	669				hypothetical protein
+DCGPKAEN_00462	CDS	144				hypothetical protein
+DCGPKAEN_00463	CDS	1044	mutY	3.2.2.-	COG1194	Adenine DNA glycosylase
+DCGPKAEN_00464	CDS	1143	yhhT		COG0628	Putative transport protein YhhT
+DCGPKAEN_00465	tRNA	85				tRNA-Leu(tag)
+DCGPKAEN_00466	tRNA	75				tRNA-Thr(agt)
+DCGPKAEN_00467	CDS	150				hypothetical protein
+DCGPKAEN_00468	CDS	966				hypothetical protein
+DCGPKAEN_00469	CDS	771				hypothetical protein
+DCGPKAEN_00470	CDS	477				hypothetical protein
+DCGPKAEN_00471	CDS	525	speG	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase
+DCGPKAEN_00472	tRNA	75				tRNA-Gln(ctg)
+DCGPKAEN_00473	CDS	699	yvoA		COG2188	HTH-type transcriptional repressor YvoA
+DCGPKAEN_00474	CDS	150				hypothetical protein
+DCGPKAEN_00475	CDS	141				hypothetical protein
+DCGPKAEN_00476	CDS	645				hypothetical protein
+DCGPKAEN_00477	CDS	645				hypothetical protein
+DCGPKAEN_00478	CDS	1185				hypothetical protein
+DCGPKAEN_00479	CDS	666				hypothetical protein
+DCGPKAEN_00480	CDS	696	metP		COG2011	Methionine import system permease protein MetP
+DCGPKAEN_00481	CDS	1080	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+DCGPKAEN_00482	CDS	840	metQ_1		COG1464	putative D-methionine-binding lipoprotein MetQ
+DCGPKAEN_00483	CDS	1329	dapE	3.5.1.18	COG0624	Succinyl-diaminopimelate desuccinylase
+DCGPKAEN_00484	CDS	837	metQ_2		COG1464	D-methionine-binding lipoprotein MetQ
+DCGPKAEN_00485	CDS	381				hypothetical protein
+DCGPKAEN_00486	CDS	654				hypothetical protein
+DCGPKAEN_00487	CDS	381				hypothetical protein
+DCGPKAEN_00488	CDS	2679		3.6.3.8		Calcium-transporting ATPase 1
+DCGPKAEN_00489	CDS	438				hypothetical protein
+DCGPKAEN_00490	CDS	3279	bag_2			IgA FC receptor
+DCGPKAEN_00491	CDS	636				hypothetical protein
+DCGPKAEN_00492	CDS	192				hypothetical protein
+DCGPKAEN_00493	CDS	504				hypothetical protein
+DCGPKAEN_00494	CDS	993	wbbI	2.4.1.-		Beta-1,6-galactofuranosyltransferase WbbI
+DCGPKAEN_00495	CDS	1449	glnP_2		COG0765	Glutamine transport system permease protein GlnP
+DCGPKAEN_00496	CDS	750	glnQ_3			Glutamine transport ATP-binding protein GlnQ
+DCGPKAEN_00497	CDS	1452	glnM_3		COG0765	putative glutamine ABC transporter permease protein GlnM
+DCGPKAEN_00498	CDS	1050	coiA		COG4469	Competence protein CoiA
+DCGPKAEN_00499	CDS	1788	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+DCGPKAEN_00500	CDS	936	ghrB	1.1.1.79	COG1052	Glyoxylate/hydroxypyruvate reductase B
+DCGPKAEN_00501	CDS	633				hypothetical protein
+DCGPKAEN_00502	CDS	1050	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+DCGPKAEN_00503	CDS	2460	pheT_1	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+DCGPKAEN_00504	CDS	1287	murA1	2.5.1.7		UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+DCGPKAEN_00505	CDS	264	rpmE2		COG0254	50S ribosomal protein L31 type B
+DCGPKAEN_00506	CDS	1389		2.1.1.-	COG2265	putative RNA methyltransferase
+DCGPKAEN_00507	CDS	1338	murF_2	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+DCGPKAEN_00508	CDS	1161	pbpX		COG1680	Putative penicillin-binding protein PbpX
+DCGPKAEN_00509	CDS	1563	cshA	3.6.4.13	COG0513	ATP-dependent RNA helicase CshA
+DCGPKAEN_00510	CDS	1224	fpgS	6.3.2.17		Folylpolyglutamate synthase
+DCGPKAEN_00511	CDS	1422	hsrA_2			putative transport protein HsrA
+DCGPKAEN_00512	CDS	618				hypothetical protein
+DCGPKAEN_00513	CDS	966			COG0391	Putative gluconeogenesis factor
+DCGPKAEN_00514	CDS	942	whiA		COG1481	Putative sporulation transcription regulator WhiA
+DCGPKAEN_00515	CDS	609	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+DCGPKAEN_00516	CDS	996	ldhA	1.1.1.28	COG1052	D-lactate dehydrogenase
+DCGPKAEN_00517	CDS	1152				hypothetical protein
+DCGPKAEN_00518	CDS	549				hypothetical protein
+DCGPKAEN_00519	CDS	507	aroK	2.7.1.71	COG0703	Shikimate kinase
+DCGPKAEN_00520	CDS	855	tyrC	1.3.1.43		Cyclohexadienyl dehydrogenase
+DCGPKAEN_00521	CDS	1272	aroA1	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase 1
+DCGPKAEN_00522	CDS	1170	aroC	4.2.3.5	COG0082	Chorismate synthase
+DCGPKAEN_00523	CDS	1446	ydiM			Inner membrane transport protein YdiM
+DCGPKAEN_00524	CDS	774	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+DCGPKAEN_00525	CDS	900	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+DCGPKAEN_00526	CDS	1461	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+DCGPKAEN_00527	CDS	609	pabA	2.6.1.85	COG0512	Aminodeoxychorismate/anthranilate synthase component 2
+DCGPKAEN_00528	CDS	1014	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+DCGPKAEN_00529	CDS	777	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+DCGPKAEN_00530	CDS	615	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+DCGPKAEN_00531	CDS	1194	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+DCGPKAEN_00532	CDS	783	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+DCGPKAEN_00533	CDS	1116				hypothetical protein
+DCGPKAEN_00534	CDS	798	tesE	4.2.1.132		2-hydroxyhexa-2,4-dienoate hydratase
+DCGPKAEN_00535	CDS	741				hypothetical protein
+DCGPKAEN_00536	CDS	507	rppH	3.6.1.-		RNA pyrophosphohydrolase
+DCGPKAEN_00537	CDS	1218	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+DCGPKAEN_00538	CDS	333				hypothetical protein
+DCGPKAEN_00539	CDS	1737			COG1132	putative ABC transporter ATP-binding protein
+DCGPKAEN_00540	CDS	1767			COG1132	putative ABC transporter ATP-binding protein
+DCGPKAEN_00541	CDS	1236		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+DCGPKAEN_00542	CDS	1125	dgs	2.4.1.208	COG0438	Processive diacylglycerol alpha-glucosyltransferase
+DCGPKAEN_00543	CDS	1029				hypothetical protein
+DCGPKAEN_00544	CDS	255	ykuJ		COG4703	putative protein YkuJ
+DCGPKAEN_00545	CDS	2115	ltaS1_2		COG1368	Lipoteichoic acid synthase 1
+DCGPKAEN_00546	CDS	2013	uvrB			UvrABC system protein B
+DCGPKAEN_00547	CDS	2880	uvrA_1			UvrABC system protein A
+DCGPKAEN_00548	CDS	1320	steT		COG0531	Serine/threonine exchanger SteT
+DCGPKAEN_00549	CDS	645				hypothetical protein
+DCGPKAEN_00550	CDS	552	gph	3.1.3.18		Phosphoglycolate phosphatase
+DCGPKAEN_00551	CDS	1167	yqeH		COG1161	putative protein YqeH
+DCGPKAEN_00552	CDS	315	yhbY		COG1534	RNA-binding protein YhbY
+DCGPKAEN_00553	CDS	591				hypothetical protein
+DCGPKAEN_00554	CDS	366	rsfS		COG0799	Ribosomal silencing factor RsfS
+DCGPKAEN_00555	CDS	762		2.1.1.156		Glycine/sarcosine N-methyltransferase
+DCGPKAEN_00556	CDS	1188				hypothetical protein
+DCGPKAEN_00557	CDS	570				hypothetical protein
+DCGPKAEN_00558	CDS	690	arlR_2		COG0745	Response regulator ArlR
+DCGPKAEN_00559	CDS	1149	arlS	2.7.13.3	COG0642	Signal transduction histidine-protein kinase ArlS
+DCGPKAEN_00560	CDS	945	misCB		COG0706	Membrane protein insertase MisCB
+DCGPKAEN_00561	CDS	774		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+DCGPKAEN_00562	CDS	237	secG		COG1314	putative protein-export membrane protein SecG
+DCGPKAEN_00563	CDS	2397	rnr	3.1.13.1	COG0557	Ribonuclease R
+DCGPKAEN_00564	CDS	465	smpB		COG0691	SsrA-binding protein
+DCGPKAEN_00565	CDS	1557	rny	3.1.-.-	COG1418	Ribonuclease Y
+DCGPKAEN_00566	CDS	384				hypothetical protein
+DCGPKAEN_00567	CDS	300				hypothetical protein
+DCGPKAEN_00568	CDS	924	rnhC	3.1.26.4	COG1039	Ribonuclease HIII
+DCGPKAEN_00569	CDS	522				hypothetical protein
+DCGPKAEN_00570	CDS	2400	mutS2	3.1.-.-		Endonuclease MutS2
+DCGPKAEN_00571	CDS	351				hypothetical protein
+DCGPKAEN_00572	CDS	1101				hypothetical protein
+DCGPKAEN_00573	CDS	321				hypothetical protein
+DCGPKAEN_00574	CDS	579				hypothetical protein
+DCGPKAEN_00575	CDS	243				hypothetical protein
+DCGPKAEN_00576	CDS	192				hypothetical protein
+DCGPKAEN_00577	CDS	600	gmk_2	2.7.4.8	COG0194	Guanylate kinase
+DCGPKAEN_00578	CDS	216	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+DCGPKAEN_00579	CDS	576		5.2.1.8		Putative peptidyl-prolyl cis-trans isomerase
+DCGPKAEN_00580	CDS	408	yugI		COG1098	General stress protein 13
+DCGPKAEN_00581	CDS	372				hypothetical protein
+DCGPKAEN_00582	rRNA	1546				16S ribosomal RNA
+DCGPKAEN_00583	tRNA	73				tRNA-Ala(tgc)
+DCGPKAEN_00584	rRNA	2904				23S ribosomal RNA
+DCGPKAEN_00585	rRNA	76				5S ribosomal RNA (partial)
+DCGPKAEN_00586	CDS	702	mecA		COG4862	Adapter protein MecA 1
+DCGPKAEN_00587	CDS	402	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+DCGPKAEN_00588	CDS	186				hypothetical protein
+DCGPKAEN_00589	CDS	900	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+DCGPKAEN_00590	CDS	174				hypothetical protein
+DCGPKAEN_00591	CDS	1008	mreB		COG1077	Rod shape-determining protein MreB
+DCGPKAEN_00592	CDS	855	mreC		COG1792	Cell shape-determining protein MreC
+DCGPKAEN_00593	CDS	525				hypothetical protein
+DCGPKAEN_00594	CDS	642	artQ_2		COG0765	Arginine transport system permease protein ArtQ
+DCGPKAEN_00595	CDS	639	artM_2		COG1126	Arginine transport ATP-binding protein ArtM
+DCGPKAEN_00596	CDS	858	fliY_2		COG0834	L-cystine-binding protein FliY
+DCGPKAEN_00597	CDS	1284				hypothetical protein
+DCGPKAEN_00598	CDS	1281		3.4.24.-	COG0612	putative zinc protease
+DCGPKAEN_00599	CDS	849				hypothetical protein
+DCGPKAEN_00600	CDS	576	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+DCGPKAEN_00601	CDS	1113	recA		COG0468	Protein RecA
+DCGPKAEN_00602	CDS	882	pstS1		COG0226	Phosphate-binding protein PstS 1
+DCGPKAEN_00603	CDS	924	pstC		COG0573	Phosphate transport system permease protein PstC
+DCGPKAEN_00604	CDS	885	pstA2		COG0581	Phosphate transport system permease protein PstA 2
+DCGPKAEN_00605	CDS	843	pstB3_1	3.6.3.27	COG1117	Phosphate import ATP-binding protein PstB 3
+DCGPKAEN_00606	CDS	768	pstB3_2	3.6.3.27	COG1117	Phosphate import ATP-binding protein PstB 3
+DCGPKAEN_00607	CDS	675	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+DCGPKAEN_00608	CDS	354				hypothetical protein
+DCGPKAEN_00609	CDS	966	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+DCGPKAEN_00610	CDS	1011	gpsA	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+DCGPKAEN_00611	CDS	876	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+DCGPKAEN_00612	CDS	930	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+DCGPKAEN_00613	CDS	1794	lepA_1	3.6.5.-	COG0481	Elongation factor 4
+DCGPKAEN_00614	CDS	384				hypothetical protein
+DCGPKAEN_00615	CDS	723				hypothetical protein
+DCGPKAEN_00616	CDS	1017	neoA	1.1.1.329		2-deoxy-scyllo-inosamine dehydrogenase
+DCGPKAEN_00617	CDS	678	dedA_1		COG0586	Protein DedA
+DCGPKAEN_00618	CDS	1707	pgcA	5.4.2.2		Phosphoglucomutase
+DCGPKAEN_00619	CDS	360	rplS		COG0335	50S ribosomal protein L19
+DCGPKAEN_00620	CDS	1095	dinB_1	2.7.7.7	COG0389	DNA polymerase IV
+DCGPKAEN_00621	CDS	963	nrnA	3.1.-.-	COG0618	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+DCGPKAEN_00622	CDS	1359	cshB	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshB
+DCGPKAEN_00623	CDS	828	yslB			putative protein YslB
+DCGPKAEN_00624	CDS	798	murI	5.1.1.3	COG0796	Glutamate racemase
+DCGPKAEN_00625	CDS	606		3.6.1.66		dITP/XTP pyrophosphatase
+DCGPKAEN_00626	CDS	1056	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+DCGPKAEN_00627	CDS	1062	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+DCGPKAEN_00628	CDS	315				hypothetical protein
+DCGPKAEN_00629	CDS	402	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+DCGPKAEN_00630	CDS	555	rimI_3	2.3.1.128	COG0456	Ribosomal-protein-alanine acetyltransferase
+DCGPKAEN_00631	CDS	534	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+DCGPKAEN_00632	CDS	189				hypothetical protein
+DCGPKAEN_00633	CDS	108				hypothetical protein
+DCGPKAEN_00634	CDS	2166	lagD	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+DCGPKAEN_00635	CDS	1104	lcnD			Lactococcin A secretion protein LcnD
+DCGPKAEN_00636	CDS	819	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+DCGPKAEN_00637	CDS	861	nnrD	4.2.1.136	COG0063	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+DCGPKAEN_00638	CDS	1416		3.4.13.-	COG0624	Putative dipeptidase
+DCGPKAEN_00639	CDS	423				hypothetical protein
+DCGPKAEN_00640	CDS	1293	tig	5.2.1.8	COG0544	Trigger factor
+DCGPKAEN_00641	CDS	1245	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+DCGPKAEN_00642	CDS	585	engB		COG0218	putative GTP-binding protein EngB
+DCGPKAEN_00643	CDS	537	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+DCGPKAEN_00644	CDS	441	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+DCGPKAEN_00645	CDS	309				hypothetical protein
+DCGPKAEN_00646	CDS	567				hypothetical protein
+DCGPKAEN_00647	CDS	708				hypothetical protein
+DCGPKAEN_00648	CDS	1212	nadR		COG1056	Bifunctional NAD biosynthesis protein NadR
+DCGPKAEN_00649	CDS	2424	priA	3.6.4.-	COG1198	Primosomal protein N'
+DCGPKAEN_00650	CDS	972	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+DCGPKAEN_00651	CDS	1347	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+DCGPKAEN_00652	CDS	870	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+DCGPKAEN_00653	CDS	1836	stkP	2.7.11.1	COG0515	Serine/threonine-protein kinase StkP
+DCGPKAEN_00654	CDS	951	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+DCGPKAEN_00655	CDS	657	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+DCGPKAEN_00656	CDS	648	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+DCGPKAEN_00657	CDS	318	trxA		COG0526	Thioredoxin
+DCGPKAEN_00658	CDS	201	rpmB			50S ribosomal protein L28
+DCGPKAEN_00659	CDS	396				putative protein
+DCGPKAEN_00660	CDS	1701				putative protein
+DCGPKAEN_00661	CDS	228				hypothetical protein
+DCGPKAEN_00662	CDS	345				hypothetical protein
+DCGPKAEN_00663	CDS	432	mraZ			Transcriptional regulator MraZ
+DCGPKAEN_00664	CDS	948	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+DCGPKAEN_00665	CDS	369	ftsL_2			Cell division protein FtsL
+DCGPKAEN_00666	CDS	2142	pbpB		COG0768	Penicillin-binding protein 2B
+DCGPKAEN_00667	CDS	954	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+DCGPKAEN_00668	CDS	1359	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+DCGPKAEN_00669	CDS	1098	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+DCGPKAEN_00670	CDS	702	divIB		COG1589	Cell division protein DivIB
+DCGPKAEN_00671	CDS	1344	ftsA		COG0849	Cell division protein FtsA
+DCGPKAEN_00672	CDS	1269	ftsZ		COG0206	Cell division protein FtsZ
+DCGPKAEN_00673	CDS	438	sepF			Cell division protein SepF
+DCGPKAEN_00674	CDS	267				hypothetical protein
+DCGPKAEN_00675	CDS	795				hypothetical protein
+DCGPKAEN_00676	CDS	714	divIVA		COG3599	Septum site-determining protein DivIVA
+DCGPKAEN_00677	CDS	2799	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+DCGPKAEN_00678	CDS	444	rpsP		COG0228	30S ribosomal protein S16
+DCGPKAEN_00679	CDS	519	rimM			Ribosome maturation factor RimM
+DCGPKAEN_00680	CDS	744	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+DCGPKAEN_00681	CDS	951	rnz	3.1.26.11	COG1234	Ribonuclease Z
+DCGPKAEN_00682	CDS	2031	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+DCGPKAEN_00683	CDS	534	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+DCGPKAEN_00684	CDS	1452	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+DCGPKAEN_00685	CDS	735				hypothetical protein
+DCGPKAEN_00686	CDS	675	ung	3.2.2.27		Uracil-DNA glycosylase
+DCGPKAEN_00687	CDS	990	pta	2.3.1.8		Phosphate acetyltransferase
+DCGPKAEN_00688	CDS	1485	gtf1	2.4.1.-		Glycosyltransferase Gtf1
+DCGPKAEN_00689	CDS	672				hypothetical protein
+DCGPKAEN_00690	CDS	1419				hypothetical protein
+DCGPKAEN_00691	CDS	1539	asp2			Accessory Sec system protein Asp2
+DCGPKAEN_00692	CDS	1248	asp3			Accessory Sec system protein Asp3
+DCGPKAEN_00693	CDS	795	yfcA_2		COG0730	putative membrane transporter protein YfcA
+DCGPKAEN_00694	CDS	195				hypothetical protein
+DCGPKAEN_00695	tRNA	87				tRNA-Leu(cag)
+DCGPKAEN_00696	CDS	963	lpxT	2.7.4.29		Lipid A 1-diphosphate synthase
+DCGPKAEN_00697	CDS	723			COG0217	putative transcriptional regulatory protein
+DCGPKAEN_00698	CDS	462			COG0716	Flavodoxin
+DCGPKAEN_00699	CDS	117				hypothetical protein
+DCGPKAEN_00700	CDS	1965	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+DCGPKAEN_00701	CDS	1383	serP2		COG1113	DL-alanine permease SerP2
+DCGPKAEN_00702	CDS	657	dedA_2		COG0586	Protein DedA
+DCGPKAEN_00703	CDS	792				hypothetical protein
+DCGPKAEN_00704	CDS	1419				hypothetical protein
+DCGPKAEN_00705	CDS	864				hypothetical protein
+DCGPKAEN_00706	CDS	600	panT			Pantothenate transporter PanT
+DCGPKAEN_00707	tRNA	73				tRNA-Arg(cct)
+DCGPKAEN_00708	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+DCGPKAEN_00709	CDS	1419	dacA_1	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacA
+DCGPKAEN_00710	CDS	339				hypothetical protein
+DCGPKAEN_00711	CDS	789	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+DCGPKAEN_00712	CDS	1362	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+DCGPKAEN_00713	CDS	339				hypothetical protein
+DCGPKAEN_00714	CDS	657	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+DCGPKAEN_00715	CDS	2511	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+DCGPKAEN_00716	CDS	963	prs_2	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+DCGPKAEN_00717	CDS	933				hypothetical protein
+DCGPKAEN_00718	CDS	993	gpr	1.1.1.-	COG0667	L-glyceraldehyde 3-phosphate reductase
+DCGPKAEN_00719	CDS	228	nrdH_2		COG0695	Glutaredoxin-like protein NrdH
+DCGPKAEN_00720	CDS	549				hypothetical protein
+DCGPKAEN_00721	CDS	1371	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+DCGPKAEN_00722	CDS	951	sorC		COG2390	Sorbitol operon regulator
+DCGPKAEN_00723	CDS	1149		1.1.1.38		NAD-dependent malic enzyme
+DCGPKAEN_00724	CDS	1065	citC	6.2.1.22		[Citrate [pro-3S]-lyase] ligase
+DCGPKAEN_00725	CDS	294	citD		COG3052	Citrate lyase acyl carrier protein
+DCGPKAEN_00726	CDS	912	citE	4.1.3.6	COG2301	Citrate lyase subunit beta
+DCGPKAEN_00727	CDS	1539	citF	4.1.3.6	COG3051	Citrate lyase alpha chain
+DCGPKAEN_00728	CDS	1413	citG	2.4.2.52	COG1767	2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase
+DCGPKAEN_00729	CDS	789	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+DCGPKAEN_00730	CDS	1317	citS		COG3493	Citrate-sodium symporter
+DCGPKAEN_00731	CDS	1314	cimH		COG3493	Citrate/malate transporter
+DCGPKAEN_00732	CDS	1920	dnaG	2.7.7.-	COG0358	DNA primase
+DCGPKAEN_00733	CDS	1293	sigA		COG0568	RNA polymerase sigma factor SigA
+DCGPKAEN_00734	CDS	555	queT		COG4708	Queuosine precursor transporter QueT
+DCGPKAEN_00735	CDS	1035	ilvE	2.6.1.42		putative branched-chain-amino-acid aminotransferase
+DCGPKAEN_00736	CDS	660	recU	3.1.22.-	COG3331	Holliday junction resolvase RecU
+DCGPKAEN_00737	CDS	570				hypothetical protein
+DCGPKAEN_00738	CDS	372	gpsB		COG3599	Cell cycle protein GpsB
+DCGPKAEN_00739	CDS	1476	glnM_4		COG0765	putative glutamine ABC transporter permease protein GlnM
+DCGPKAEN_00740	CDS	1032	pgl_1	3.1.1.31	COG2706	6-phosphogluconolactonase
+DCGPKAEN_00741	CDS	519	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+DCGPKAEN_00742	tRNA	73				tRNA-Glu(ttc)
+DCGPKAEN_00743	CDS	216				hypothetical protein
+DCGPKAEN_00744	CDS	696	kcsA		COG1226	pH-gated potassium channel KcsA
+DCGPKAEN_00745	CDS	2412	ftsK		COG1674	DNA translocase FtsK
+DCGPKAEN_00746	CDS	504				hypothetical protein
+DCGPKAEN_00747	CDS	1659	adeC	3.5.4.2		Adenine deaminase
+DCGPKAEN_00748	CDS	1809	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+DCGPKAEN_00749	CDS	792	uppS	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+DCGPKAEN_00750	CDS	804	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase
+DCGPKAEN_00751	CDS	1257	rasP	3.4.24.-	COG0750	Regulator of sigma-W protease RasP
+DCGPKAEN_00752	CDS	1716	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+DCGPKAEN_00753	CDS	4314	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+DCGPKAEN_00754	CDS	1452	adeP		COG2252	Adenine permease AdeP
+DCGPKAEN_00755	CDS	216	cspV		COG1278	Cold shock protein CspV
+DCGPKAEN_00756	CDS	576	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+DCGPKAEN_00757	CDS	300				hypothetical protein
+DCGPKAEN_00758	CDS	678	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+DCGPKAEN_00759	CDS	660	pheT_2	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+DCGPKAEN_00760	CDS	1335	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+DCGPKAEN_00761	CDS	726	ybhL		COG0670	Inner membrane protein YbhL
+DCGPKAEN_00762	CDS	2691	polA	2.7.7.7		DNA polymerase I
+DCGPKAEN_00763	CDS	342	glnR		COG0789	HTH-type transcriptional regulator GlnR
+DCGPKAEN_00764	CDS	1350	glnA	6.3.1.2	COG0174	Glutamine synthetase
+DCGPKAEN_00765	CDS	1218	yjhB_3			Putative metabolite transport protein YjhB
+DCGPKAEN_00766	CDS	2238	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+DCGPKAEN_00767	CDS	573				hypothetical protein
+DCGPKAEN_00768	CDS	609	plsY	2.3.1.-	COG0344	Glycerol-3-phosphate acyltransferase
+DCGPKAEN_00769	CDS	2184	parE	5.99.1.3	COG0187	DNA topoisomerase 4 subunit B
+DCGPKAEN_00770	CDS	2433	parC	5.99.1.3	COG0188	DNA topoisomerase 4 subunit A
+DCGPKAEN_00771	CDS	906	ppaC	3.6.1.1	COG1227	putative manganese-dependent inorganic pyrophosphatase
+DCGPKAEN_00772	CDS	150	rpmGA			50S ribosomal protein L33 1
+DCGPKAEN_00773	CDS	270	rpsN2		COG0199	Alternate 30S ribosomal protein S14
+DCGPKAEN_00774	CDS	471	rimP		COG0779	Ribosome maturation factor RimP
+DCGPKAEN_00775	CDS	1173	nusA		COG0195	Transcription termination/antitermination protein NusA
+DCGPKAEN_00776	CDS	303				hypothetical protein
+DCGPKAEN_00777	CDS	318	rplGA		COG1358	putative ribosomal protein YlxQ
+DCGPKAEN_00778	CDS	2469	infB			Translation initiation factor IF-2
+DCGPKAEN_00779	CDS	360	rbfA			Ribosome-binding factor A
+DCGPKAEN_00780	CDS	1173	patA_2	2.6.1.-	COG0436	Putative N-acetyl-LL-diaminopimelate aminotransferase
+DCGPKAEN_00781	CDS	1188	patA_3	2.6.1.-	COG0436	Putative N-acetyl-LL-diaminopimelate aminotransferase
+DCGPKAEN_00782	CDS	915	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+DCGPKAEN_00783	CDS	951	ribF		COG0196	Riboflavin biosynthesis protein RibF
+DCGPKAEN_00784	CDS	1035	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+DCGPKAEN_00785	CDS	579	grpE		COG0576	Protein GrpE
+DCGPKAEN_00786	CDS	1857	dnaK		COG0443	Chaperone protein DnaK
+DCGPKAEN_00787	CDS	909	dnaJ_1		COG0484	Chaperone protein DnaJ
+DCGPKAEN_00788	CDS	840	metQ_3		COG1464	D-methionine-binding lipoprotein MetQ
+DCGPKAEN_00789	CDS	576	def	3.5.1.88	COG0242	Peptide deformylase
+DCGPKAEN_00790	CDS	276				hypothetical protein
+DCGPKAEN_00791	CDS	738	suhB	3.1.3.11	COG0483	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+DCGPKAEN_00792	CDS	1842	typA		COG1217	GTP-binding protein TypA/BipA
+DCGPKAEN_00793	tRNA	90				tRNA-Ser(cga)
+DCGPKAEN_00794	CDS	1020				hypothetical protein
+DCGPKAEN_00795	CDS	264				hypothetical protein
+DCGPKAEN_00796	CDS	99				hypothetical protein
+DCGPKAEN_00797	CDS	654				hypothetical protein
+DCGPKAEN_00798	CDS	210				hypothetical protein
+DCGPKAEN_00799	CDS	105				hypothetical protein
+DCGPKAEN_00800	CDS	270				hypothetical protein
+DCGPKAEN_00801	CDS	231	xerD_1			Tyrosine recombinase XerD
+DCGPKAEN_00802	CDS	666				hypothetical protein
+DCGPKAEN_00803	CDS	693	ygaZ		COG1296	Inner membrane protein YgaZ
+DCGPKAEN_00804	CDS	324				hypothetical protein
+DCGPKAEN_00805	CDS	501				hypothetical protein
+DCGPKAEN_00806	CDS	180				hypothetical protein
+DCGPKAEN_00807	CDS	999				hypothetical protein
+DCGPKAEN_00808	CDS	588				hypothetical protein
+DCGPKAEN_00809	CDS	1116	ybiR		COG0471	Inner membrane protein YbiR
+DCGPKAEN_00810	CDS	1341	hisS	6.1.1.21		Histidine--tRNA ligase
+DCGPKAEN_00811	CDS	1785	aspS	6.1.1.12		Aspartate--tRNA ligase
+DCGPKAEN_00812	CDS	867				hypothetical protein
+DCGPKAEN_00813	CDS	429				hypothetical protein
+DCGPKAEN_00814	CDS	408	slyA_2			Transcriptional regulator SlyA
+DCGPKAEN_00815	CDS	642				hypothetical protein
+DCGPKAEN_00816	CDS	1188				hypothetical protein
+DCGPKAEN_00817	CDS	189	rpsU			30S ribosomal protein S21
+DCGPKAEN_00818	CDS	447	yqeY		COG1610	putative protein YqeY
+DCGPKAEN_00819	CDS	888	cvfB			Conserved virulence factor B
+DCGPKAEN_00820	CDS	888	xerD_2			Tyrosine recombinase XerD
+DCGPKAEN_00821	CDS	357	ribT	2.3.1.-		Protein RibT
+DCGPKAEN_00822	CDS	693	scpA		COG1354	Segregation and condensation protein A
+DCGPKAEN_00823	CDS	624	scpB		COG1386	Segregation and condensation protein B
+DCGPKAEN_00824	CDS	750	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+DCGPKAEN_00825	CDS	588	ribU		COG3601	Riboflavin transporter RibU
+DCGPKAEN_00826	CDS	528				hypothetical protein
+DCGPKAEN_00827	CDS	681	cmk	2.7.4.25	COG0283	Cytidylate kinase
+DCGPKAEN_00828	CDS	1191	rps1		COG0539	30S ribosomal protein S1
+DCGPKAEN_00829	CDS	1311	der		COG1160	GTPase Der
+DCGPKAEN_00830	CDS	276	hup			DNA-binding protein HU
+DCGPKAEN_00831	CDS	1344	nox	1.6.99.3	COG0446	NADH oxidase
+DCGPKAEN_00832	CDS	522				hypothetical protein
+DCGPKAEN_00833	CDS	870	benM			HTH-type transcriptional regulator BenM
+DCGPKAEN_00834	CDS	1341	cycA		COG1113	D-serine/D-alanine/glycine transporter
+DCGPKAEN_00835	CDS	771	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+DCGPKAEN_00836	CDS	1374	glpT_1		COG2271	Glycerol-3-phosphate transporter
+DCGPKAEN_00837	CDS	1344	glpT_2		COG2271	Glycerol-3-phosphate transporter
+DCGPKAEN_00838	CDS	438				hypothetical protein
+DCGPKAEN_00839	CDS	567	ykoE		COG4721	Putative HMP/thiamine permease protein YkoE
+DCGPKAEN_00840	CDS	1395	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+DCGPKAEN_00841	CDS	669	ykoC			Putative HMP/thiamine permease protein YkoC
+DCGPKAEN_00842	CDS	648	tenA_1	3.5.99.2	COG0819	Aminopyrimidine aminohydrolase
+DCGPKAEN_00843	CDS	1458	thiD	2.7.1.49	COG0351	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+DCGPKAEN_00844	CDS	792	thiM	2.7.1.50		Hydroxyethylthiazole kinase
+DCGPKAEN_00845	CDS	393				hypothetical protein
+DCGPKAEN_00846	CDS	858				hypothetical protein
+DCGPKAEN_00847	CDS	723	ybhF_2		COG1131	putative multidrug ABC transporter ATP-binding protein YbhF
+DCGPKAEN_00848	CDS	1098	ybhR		COG0842	putative multidrug ABC transporter permease YbhR
+DCGPKAEN_00849	CDS	645	yvdT			putative HTH-type transcriptional regulator YvdT
+DCGPKAEN_00850	CDS	570	thiT		COG3859	Thiamine transporter ThiT
+DCGPKAEN_00851	CDS	1341	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+DCGPKAEN_00852	CDS	1344	brnQ_3		COG1114	Branched-chain amino acid transport system 2 carrier protein
+DCGPKAEN_00853	CDS	1140	yxeP	3.-.-.-	COG1473	putative hydrolase YxeP
+DCGPKAEN_00854	CDS	825			COG1464	Membrane lipoprotein TpN32
+DCGPKAEN_00855	CDS	342				hypothetical protein
+DCGPKAEN_00856	CDS	840				hypothetical protein
+DCGPKAEN_00857	CDS	336				hypothetical protein
+DCGPKAEN_00858	CDS	318				hypothetical protein
+DCGPKAEN_00859	CDS	405				hypothetical protein
+DCGPKAEN_00860	CDS	1032	adh_1	1.1.1.1	COG1063	Alcohol dehydrogenase
+DCGPKAEN_00861	CDS	840	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+DCGPKAEN_00862	CDS	657				hypothetical protein
+DCGPKAEN_00863	CDS	438			COG0789	putative HTH-type transcriptional regulator
+DCGPKAEN_00864	CDS	609		1.-.-.-		putative oxidoreductase
+DCGPKAEN_00865	CDS	837	ytbE	1.-.-.-	COG0656	putative oxidoreductase YtbE
+DCGPKAEN_00866	CDS	375				hypothetical protein
+DCGPKAEN_00867	CDS	855				hypothetical protein
+DCGPKAEN_00868	CDS	231				hypothetical protein
+DCGPKAEN_00869	CDS	741				hypothetical protein
+DCGPKAEN_00870	CDS	2571	uvrA_2		COG0178	UvrABC system protein A
+DCGPKAEN_00871	CDS	972	mccF			Microcin C7 self-immunity protein MccF
+DCGPKAEN_00872	CDS	1059				hypothetical protein
+DCGPKAEN_00873	CDS	1551	mco	1.-.-.-		Multicopper oxidase mco
+DCGPKAEN_00874	CDS	162				hypothetical protein
+DCGPKAEN_00875	CDS	2778	pacL	3.6.3.8	COG0474	Calcium-transporting ATPase
+DCGPKAEN_00876	CDS	162				hypothetical protein
+DCGPKAEN_00877	CDS	417				hypothetical protein
+DCGPKAEN_00878	CDS	708	aldB	4.1.1.5	COG3527	Alpha-acetolactate decarboxylase
+DCGPKAEN_00879	CDS	1725	alsS	2.2.1.6	COG0028	Acetolactate synthase
+DCGPKAEN_00880	CDS	1506				hypothetical protein
+DCGPKAEN_00881	CDS	909	gmuE	2.7.1.4	COG1940	Putative fructokinase
+DCGPKAEN_00882	CDS	1353	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+DCGPKAEN_00883	CDS	600	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+DCGPKAEN_00884	CDS	1314	pucK		COG2233	Uric acid permease PucK
+DCGPKAEN_00885	CDS	1281	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+DCGPKAEN_00886	CDS	1296	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+DCGPKAEN_00887	CDS	957	guaC	1.7.1.7	COG0516	GMP reductase
+DCGPKAEN_00888	CDS	714				hypothetical protein
+DCGPKAEN_00889	CDS	585				hypothetical protein
+DCGPKAEN_00890	CDS	345				hypothetical protein
+DCGPKAEN_00891	CDS	1830	mcrB	3.1.21.-	COG1401	5-methylcytosine-specific restriction enzyme B
+DCGPKAEN_00892	CDS	309				hypothetical protein
+DCGPKAEN_00893	CDS	1011				hypothetical protein
+DCGPKAEN_00894	CDS	333				hypothetical protein
+DCGPKAEN_00895	CDS	423				hypothetical protein
+DCGPKAEN_00896	CDS	216				hypothetical protein
+DCGPKAEN_00897	CDS	804				hypothetical protein
+DCGPKAEN_00898	CDS	297				hypothetical protein
+DCGPKAEN_00899	CDS	726	soj_1	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+DCGPKAEN_00900	CDS	264				hypothetical protein
+DCGPKAEN_00901	CDS	294				hypothetical protein
+DCGPKAEN_00902	CDS	207				hypothetical protein
+DCGPKAEN_00903	CDS	552	dnaJ_2		COG0484	Chaperone protein DnaJ
+DCGPKAEN_00904	CDS	639		2.7.7.-	COG2184	Adenosine monophosphate-protein transferase NmFic
+DCGPKAEN_00905	CDS	978				hypothetical protein
+DCGPKAEN_00906	CDS	4743				hypothetical protein
+DCGPKAEN_00907	CDS	228				hypothetical protein
+DCGPKAEN_00908	CDS	804				hypothetical protein
+DCGPKAEN_00909	CDS	312				hypothetical protein
+DCGPKAEN_00910	CDS	2367				hypothetical protein
+DCGPKAEN_00911	CDS	624				hypothetical protein
+DCGPKAEN_00912	CDS	216				hypothetical protein
+DCGPKAEN_00913	CDS	1302				hypothetical protein
+DCGPKAEN_00914	CDS	2379				hypothetical protein
+DCGPKAEN_00915	CDS	531				hypothetical protein
+DCGPKAEN_00916	CDS	1824	virD4			Protein VirD4
+DCGPKAEN_00917	CDS	3129				hypothetical protein
+DCGPKAEN_00918	CDS	1035				hypothetical protein
+DCGPKAEN_00919	CDS	282				hypothetical protein
+DCGPKAEN_00920	CDS	354				hypothetical protein
+DCGPKAEN_00921	CDS	1668				hypothetical protein
+DCGPKAEN_00922	CDS	309				hypothetical protein
+DCGPKAEN_00923	CDS	2064	topB_1	5.99.1.2	COG0550	DNA topoisomerase 3
+DCGPKAEN_00924	CDS	228				hypothetical protein
+DCGPKAEN_00925	CDS	1317	umuC		COG0389	Protein UmuC
+DCGPKAEN_00926	CDS	405				hypothetical protein
+DCGPKAEN_00927	CDS	264				hypothetical protein
+DCGPKAEN_00928	CDS	573				hypothetical protein
+DCGPKAEN_00929	CDS	1062				hypothetical protein
+DCGPKAEN_00930	CDS	792				hypothetical protein
+DCGPKAEN_00931	CDS	2064	topB_2	5.99.1.2	COG0550	DNA topoisomerase 3
+DCGPKAEN_00932	CDS	720				hypothetical protein
+DCGPKAEN_00933	CDS	1044	pgl_2	3.1.1.31	COG2706	6-phosphogluconolactonase
+DCGPKAEN_00934	CDS	537	bar	2.3.1.183		Phosphinothricin N-acetyltransferase
+DCGPKAEN_00935	CDS	1560	cpdB	3.1.3.6	COG0737	2',3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase
+DCGPKAEN_00936	CDS	795	phnE_1		COG3639	Phosphate-import permease protein PhnE
+DCGPKAEN_00937	CDS	783	phnE_2		COG3639	Phosphate-import permease protein PhnE
+DCGPKAEN_00938	CDS	798	phnC	3.6.3.27	COG3638	Phosphate-import ATP-binding protein PhnC
+DCGPKAEN_00939	CDS	951	phnD		COG3221	Phosphate-import protein PhnD
+DCGPKAEN_00940	CDS	1056	asd_1	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+DCGPKAEN_00941	CDS	1188	patA_4	2.6.1.-	COG0436	Putative N-acetyl-LL-diaminopimelate aminotransferase
+DCGPKAEN_00942	CDS	771	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+DCGPKAEN_00943	CDS	885	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+DCGPKAEN_00944	CDS	1158		3.5.1.47	COG1473	N-acetyldiaminopimelate deacetylase
+DCGPKAEN_00945	CDS	705	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+DCGPKAEN_00946	CDS	1323	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+DCGPKAEN_00947	CDS	1374	yclM_1	2.7.2.4	COG0527	Aspartokinase 3
+DCGPKAEN_00948	CDS	984	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+DCGPKAEN_00949	CDS	105				hypothetical protein
+DCGPKAEN_00950	CDS	1242	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+DCGPKAEN_00951	CDS	792	proB	2.7.2.11	COG0263	Glutamate 5-kinase
+DCGPKAEN_00952	CDS	1176	nrgA			Ammonium transporter
+DCGPKAEN_00953	CDS	567	azoR_2	1.7.-.-		FMN-dependent NADH-azoreductase
+DCGPKAEN_00954	CDS	702	guaA_1	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+DCGPKAEN_00955	CDS	696	yfnB	3.-.-.-	COG1011	Putative HAD-hydrolase YfnB
+DCGPKAEN_00956	CDS	654	yhfK	4.-.-.-	COG0702	putative sugar epimerase YhfK
+DCGPKAEN_00957	CDS	726	gpmA_3	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+DCGPKAEN_00958	CDS	1818	pox5	1.2.3.3	COG0028	Pyruvate oxidase
+DCGPKAEN_00959	CDS	264				hypothetical protein
+DCGPKAEN_00960	CDS	399				hypothetical protein
+DCGPKAEN_00961	CDS	1338	dinB_2	2.7.7.7	COG0389	DNA polymerase IV
+DCGPKAEN_00962	CDS	1062	asd_2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+DCGPKAEN_00963	CDS	1461	thrC	4.2.3.1	COG0498	Threonine synthase
+DCGPKAEN_00964	CDS	1230	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+DCGPKAEN_00965	CDS	876	thrB_1	2.7.1.39	COG0083	Homoserine kinase
+DCGPKAEN_00966	CDS	1356	yclM_2	2.7.2.4	COG0527	Aspartokinase 3
+DCGPKAEN_00967	CDS	825			COG1464	Membrane lipoprotein TpN32
+DCGPKAEN_00968	CDS	1161	metC	4.4.1.8		Cystathionine beta-lyase
+DCGPKAEN_00969	CDS	795	metAA	2.3.1.31	COG1897	Homoserine O-acetyltransferase
+DCGPKAEN_00970	CDS	2268	metE	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+DCGPKAEN_00971	CDS	918	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+DCGPKAEN_00972	CDS	1395	tcyP		COG1823	L-cystine uptake protein TcyP
+DCGPKAEN_00973	CDS	702	tenA_2	3.5.99.2	COG0819	Aminopyrimidine aminohydrolase
+DCGPKAEN_00974	CDS	552	yqgN		COG0212	putative protein YqgN
+DCGPKAEN_00975	CDS	1233	glyA	2.1.2.1		Serine hydroxymethyltransferase
+DCGPKAEN_00976	CDS	966	ansB	3.5.1.1		L-asparaginase
+DCGPKAEN_00977	CDS	792	recO		COG1381	DNA repair protein RecO
+DCGPKAEN_00978	CDS	912	era		COG1159	GTPase Era
+DCGPKAEN_00979	CDS	555	dgkA	2.7.1.66	COG0818	Undecaprenol kinase
+DCGPKAEN_00980	CDS	483	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+DCGPKAEN_00981	CDS	1002			COG1702	PhoH-like protein
+DCGPKAEN_00982	CDS	1419	pyk	2.7.1.40	COG0469	Pyruvate kinase
+DCGPKAEN_00983	CDS	3387	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+DCGPKAEN_00984	CDS	183				hypothetical protein
+DCGPKAEN_00985	CDS	1236	pepT	3.4.11.4	COG2195	Peptidase T
+DCGPKAEN_00986	CDS	792			COG0327	GTP cyclohydrolase 1 type 2 
+DCGPKAEN_00987	CDS	687	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+DCGPKAEN_00988	CDS	765	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+DCGPKAEN_00989	CDS	846	rbgA		COG1161	Ribosome biogenesis GTPase A
+DCGPKAEN_00990	CDS	228				hypothetical protein
+DCGPKAEN_00991	CDS	573				hypothetical protein
+DCGPKAEN_00992	CDS	852			COG1307	DegV domain-containing protein
+DCGPKAEN_00993	CDS	501	dfrD	1.5.1.3		Dihydrofolate reductase
+DCGPKAEN_00994	CDS	1203	cca	2.7.7.72		CCA-adding enzyme
+DCGPKAEN_00995	CDS	1269	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+DCGPKAEN_00996	CDS	552	adaA	2.1.1.-	COG2169	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+DCGPKAEN_00997	CDS	810	pdxK	2.7.1.35	COG0351	Pyridoxine kinase
+DCGPKAEN_00998	CDS	2091	topA	5.99.1.2		DNA topoisomerase 1
+DCGPKAEN_00999	CDS	1233	codA	3.5.4.1	COG0402	Cytosine deaminase
+DCGPKAEN_01000	CDS	1365	pucI		COG1953	putative allantoin permease
+DCGPKAEN_01001	CDS	876	dprA		COG0758	DNA processing protein DprA
+DCGPKAEN_01002	CDS	1896	ettA		COG0488	Energy-dependent translational throttle protein EttA
+DCGPKAEN_01003	CDS	849	lytC	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+DCGPKAEN_01004	CDS	798				hypothetical protein
+DCGPKAEN_01005	CDS	1968	kup			Low affinity potassium transport system protein kup
+DCGPKAEN_01006	CDS	900				hypothetical protein
+DCGPKAEN_01007	CDS	876	lacX			Protein LacX, plasmid
+DCGPKAEN_01008	CDS	981	xerC		COG4974	Tyrosine recombinase XerC
+DCGPKAEN_01009	CDS	249				hypothetical protein
+DCGPKAEN_01010	CDS	1344				hypothetical protein
+DCGPKAEN_01011	CDS	267				hypothetical protein
+DCGPKAEN_01012	CDS	444				hypothetical protein
+DCGPKAEN_01013	CDS	1170	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+DCGPKAEN_01014	CDS	1626	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+DCGPKAEN_01015	CDS	396				hypothetical protein
+DCGPKAEN_01016	CDS	741	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+DCGPKAEN_01017	CDS	894	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+DCGPKAEN_01018	CDS	1098				Zinc-type alcohol dehydrogenase-like protein
+DCGPKAEN_01019	CDS	1854	lepA_2	3.6.5.-		Elongation factor 4
+DCGPKAEN_01020	CDS	1959	dpp5	3.4.14.-	COG1506	Dipeptidyl-peptidase 5
+DCGPKAEN_01021	CDS	1203				hypothetical protein
+DCGPKAEN_01022	CDS	2058	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+DCGPKAEN_01023	CDS	948	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+DCGPKAEN_01024	CDS	1416				hypothetical protein
+DCGPKAEN_01025	CDS	1491	toxA_1	3.4.22.-		Toxin A
+DCGPKAEN_01026	CDS	546	frr		COG0233	Ribosome-recycling factor
+DCGPKAEN_01027	CDS	726	pyrH	2.7.4.22	COG0528	Uridylate kinase
+DCGPKAEN_01028	CDS	879	tsf		COG0264	Elongation factor Ts
+DCGPKAEN_01029	CDS	774	rpsB		COG0052	30S ribosomal protein S2
+DCGPKAEN_01030	CDS	870			COG0330	putative protein
+DCGPKAEN_01031	CDS	210				hypothetical protein
+DCGPKAEN_01032	CDS	297				hypothetical protein
+DCGPKAEN_01033	CDS	768	yfiC	2.1.1.223	COG4123	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+DCGPKAEN_01034	CDS	630	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+DCGPKAEN_01035	CDS	222				hypothetical protein
+DCGPKAEN_01036	CDS	633	lexA	3.4.21.88	COG1974	LexA repressor
+DCGPKAEN_01037	CDS	357				hypothetical protein
+DCGPKAEN_01038	CDS	2070	pbpF		COG0744	Penicillin-binding protein 1F
+DCGPKAEN_01039	CDS	1692	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+DCGPKAEN_01040	CDS	249				hypothetical protein
+DCGPKAEN_01041	CDS	1248	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+DCGPKAEN_01042	CDS	1572	murE	6.3.2.7	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+DCGPKAEN_01043	CDS	1137	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+DCGPKAEN_01044	CDS	1026	dus	1.3.1.-		putative tRNA-dihydrouridine synthase
+DCGPKAEN_01045	CDS	600	rdgB	3.6.1.19		dITP/XTP pyrophosphatase
+DCGPKAEN_01046	CDS	1029	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+DCGPKAEN_01047	CDS	558	bioY		COG1268	Biotin transporter BioY
+DCGPKAEN_01048	CDS	768	yutD		COG4470	putative protein YutD
+DCGPKAEN_01049	CDS	1362	mggB	3.1.3.-	COG0737	Mannosylglucosyl-3-phosphoglycerate phosphatase
+DCGPKAEN_01050	CDS	1089	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+DCGPKAEN_01051	CDS	312	rpmA		COG0211	50S ribosomal protein L27
+DCGPKAEN_01052	CDS	300	rplU		COG0261	50S ribosomal protein L21
+DCGPKAEN_01053	CDS	630				hypothetical protein
+DCGPKAEN_01054	CDS	765	pnuC_2		COG3201	Nicotinamide riboside transporter PnuC
+DCGPKAEN_01055	CDS	330	qacC			Quaternary ammonium compound-resistance protein QacC
+DCGPKAEN_01056	tRNA	74				tRNA-Arg(tct)
+DCGPKAEN_01057	CDS	267				hypothetical protein
+DCGPKAEN_01058	CDS	660	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+DCGPKAEN_01059	CDS	1122				hypothetical protein
+DCGPKAEN_01060	CDS	711	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+DCGPKAEN_01061	CDS	429	hit		COG0537	Protein hit
+DCGPKAEN_01062	CDS	216				hypothetical protein
+DCGPKAEN_01063	CDS	897	prsA	5.2.1.8		Foldase protein PrsA
+DCGPKAEN_01064	CDS	2379	yhaN		COG4717	putative protein YhaN
+DCGPKAEN_01065	CDS	1179	yhaO		COG0420	putative metallophosphoesterase YhaO
+DCGPKAEN_01066	CDS	288				hypothetical protein
+DCGPKAEN_01067	CDS	2520	carB_1	6.3.5.5		Carbamoyl-phosphate synthase large chain
+DCGPKAEN_01068	CDS	1080	carA_1	6.3.5.5		Carbamoyl-phosphate synthase small chain
+DCGPKAEN_01069	CDS	528	pyrR			Bifunctional protein pyrR
+DCGPKAEN_01070	CDS	921	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+DCGPKAEN_01071	CDS	387				hypothetical protein
+DCGPKAEN_01072	CDS	387				hypothetical protein
+DCGPKAEN_01073	CDS	525				hypothetical protein
+DCGPKAEN_01074	CDS	5973				hypothetical protein
+DCGPKAEN_01075	CDS	411				hypothetical protein
+DCGPKAEN_01076	CDS	1137	rlmL	2.1.1.173	COG0116	Ribosomal RNA large subunit methyltransferase L
+DCGPKAEN_01077	CDS	702	dnaD		COG3935	DNA replication protein DnaD
+DCGPKAEN_01078	CDS	1296	asnS	6.1.1.22		Asparagine--tRNA ligase
+DCGPKAEN_01079	CDS	1188	aspB	2.6.1.14	COG0436	Asparagine--oxo-acid transaminase
+DCGPKAEN_01080	CDS	525				hypothetical protein
+DCGPKAEN_01081	CDS	2418	dinG	3.6.4.12	COG0847	putative ATP-dependent helicase DinG 
+DCGPKAEN_01082	CDS	930	galK	2.7.1.6		Galactokinase
+DCGPKAEN_01083	CDS	960	thrB_2	2.7.1.39		Homoserine kinase
+DCGPKAEN_01084	CDS	1041		2.7.4.2		Phosphomevalonate kinase
+DCGPKAEN_01085	CDS	1041	fni	5.3.3.2		Isopentenyl-diphosphate delta-isomerase
+DCGPKAEN_01086	CDS	927	yvgN	1.1.1.-	COG0656	Glyoxal reductase
+DCGPKAEN_01087	CDS	249				hypothetical protein
+DCGPKAEN_01088	CDS	4974	ebh_3			Extracellular matrix-binding protein ebh
+DCGPKAEN_01089	CDS	1542	guaA_2	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+DCGPKAEN_01090	CDS	2031	guaB	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+DCGPKAEN_01091	CDS	510	ydaF	2.3.1.-	COG1670	Putative ribosomal N-acetyltransferase YdaF
+DCGPKAEN_01092	CDS	996				hypothetical protein
+DCGPKAEN_01093	CDS	2109	murJ		COG2244	Lipid II flippase MurJ
+DCGPKAEN_01094	CDS	2433	leuS	6.1.1.4		Leucine--tRNA ligase
+DCGPKAEN_01095	CDS	534				hypothetical protein
+DCGPKAEN_01096	CDS	132				hypothetical protein
+DCGPKAEN_01097	CDS	3450				hypothetical protein
+DCGPKAEN_01098	CDS	831				hypothetical protein
+DCGPKAEN_01099	CDS	1188	tuf			Elongation factor Tu
+DCGPKAEN_01100	CDS	912				hypothetical protein
+DCGPKAEN_01101	CDS	1827	rnj2	3.1.-.-		Ribonuclease J 2
+DCGPKAEN_01102	CDS	420	rplT		COG0292	50S ribosomal protein L20
+DCGPKAEN_01103	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+DCGPKAEN_01104	CDS	429	infC			Translation initiation factor IF-3
+DCGPKAEN_01105	CDS	687				hypothetical protein
+DCGPKAEN_01106	CDS	93				hypothetical protein
+DCGPKAEN_01107	CDS	222	proX		COG3760	Prolyl-tRNA editing protein ProX
+DCGPKAEN_01108	CDS	174	rpmF		COG0333	50S ribosomal protein L32
+DCGPKAEN_01109	CDS	1722	yloA		COG1293	putative protein YloA
+DCGPKAEN_01110	CDS	432	mscL_2		COG1970	Large-conductance mechanosensitive channel
+DCGPKAEN_01111	CDS	633		2.7.1.113	COG1428	Deoxyguanosine kinase
+DCGPKAEN_01112	CDS	609	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+DCGPKAEN_01113	CDS	768				hypothetical protein
+DCGPKAEN_01114	CDS	810	ybjI	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+DCGPKAEN_01115	CDS	1470	ffh		COG0541	Signal recognition particle protein
+DCGPKAEN_01116	CDS	342				hypothetical protein
+DCGPKAEN_01117	CDS	1353	ftsY		COG0552	Signal recognition particle receptor FtsY
+DCGPKAEN_01118	CDS	3558	smc_1		COG1196	Chromosome partition protein Smc
+DCGPKAEN_01119	CDS	699	rnc	3.1.26.3	COG0571	Ribonuclease 3
+DCGPKAEN_01120	CDS	1368	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+DCGPKAEN_01121	CDS	993	cdaR		COG4856	CdaA regulatory protein CdaR
+DCGPKAEN_01122	CDS	825	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+DCGPKAEN_01123	CDS	2097	nhaK_1		COG0025	Sodium, potassium, lithium and rubidium/H(+) antiporter
+DCGPKAEN_01124	CDS	879	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+DCGPKAEN_01125	CDS	492				hypothetical protein
+DCGPKAEN_01126	CDS	2109	mutL			DNA mismatch repair protein MutL
+DCGPKAEN_01127	CDS	2706	mutS		COG0249	DNA mismatch repair protein MutS
+DCGPKAEN_01128	CDS	1392	rlmCD_2	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+DCGPKAEN_01129	CDS	1026	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+DCGPKAEN_01130	CDS	1452	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+DCGPKAEN_01131	CDS	1467	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+DCGPKAEN_01132	CDS	309	gatC	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+DCGPKAEN_01133	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+DCGPKAEN_01134	CDS	252	rpsT		COG0268	30S ribosomal protein S20
+DCGPKAEN_01135	CDS	288	yafQ	3.1.-.-	COG3041	mRNA interferase toxin YafQ
+DCGPKAEN_01136	CDS	255				hypothetical protein
+DCGPKAEN_01137	CDS	705				hypothetical protein
+DCGPKAEN_01138	CDS	1884	toxA_2	3.4.22.-		Toxin A
+DCGPKAEN_01139	CDS	417				hypothetical protein
+DCGPKAEN_01140	CDS	654				hypothetical protein
+DCGPKAEN_01141	CDS	2805	sacB_1	2.4.1.10		Levansucrase
+DCGPKAEN_01142	CDS	3573	gtfC_1	2.4.1.5		Glucosyltransferase-SI
+DCGPKAEN_01143	CDS	555	gtfC_2	2.4.1.5		Glucosyltransferase-SI
+DCGPKAEN_01144	CDS	3300	sacB_2	2.4.1.10		Levansucrase
+DCGPKAEN_01145	CDS	2829	sacB_3	2.4.1.10		Levansucrase
+DCGPKAEN_01146	CDS	2508	smc_2			Chromosome partition protein Smc
+DCGPKAEN_01147	CDS	510				hypothetical protein
+DCGPKAEN_01148	CDS	642				hypothetical protein
+DCGPKAEN_01149	CDS	906	glfT1	2.4.1.287	COG1216	Galactofuranosyltransferase GlfT1
+DCGPKAEN_01150	CDS	1563	sacB_4	2.4.1.10		Levansucrase
+DCGPKAEN_01151	CDS	2112				hypothetical protein
+DCGPKAEN_01152	CDS	1668				hypothetical protein
+DCGPKAEN_01153	CDS	939	csbB	2.4.-.-	COG0463	Putative glycosyltransferase CsbB
+DCGPKAEN_01154	CDS	1191	glf	5.4.99.9	COG0562	UDP-galactopyranose mutase
+DCGPKAEN_01155	CDS	771				hypothetical protein
+DCGPKAEN_01156	CDS	1323				hypothetical protein
+DCGPKAEN_01157	CDS	624				hypothetical protein
+DCGPKAEN_01158	CDS	633	pglC	2.7.8.36	COG2148	Undecaprenyl phosphate N,N'-diacetylbacillosamine 1-phosphate transferase
+DCGPKAEN_01159	CDS	1443	rfbX		COG2244	Putative O-antigen transporter
+DCGPKAEN_01160	CDS	1038	wecH	2.3.1.-		O-acetyltransferase WecH
+DCGPKAEN_01161	CDS	2313	toxA_3	3.4.22.-		Toxin A
+DCGPKAEN_01162	CDS	1641	lyc	3.2.1.17	COG3409	Autolytic lysozyme
+DCGPKAEN_01163	CDS	441				hypothetical protein
+DCGPKAEN_01164	CDS	1500				hypothetical protein
+DCGPKAEN_01165	CDS	1368	mgtE		COG2239	Magnesium transporter MgtE
+DCGPKAEN_01166	CDS	906	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+DCGPKAEN_01167	CDS	804	ppnKA	2.7.1.23	COG0061	NAD kinase 1
+DCGPKAEN_01168	CDS	573	yjbM	2.7.6.5	COG2357	GTP pyrophosphokinase YjbM
+DCGPKAEN_01169	CDS	987	glcK	2.7.1.2	COG1940	Glucokinase
+DCGPKAEN_01170	CDS	270				hypothetical protein
+DCGPKAEN_01171	CDS	3831	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+DCGPKAEN_01172	CDS	3630	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+DCGPKAEN_01173	CDS	570				hypothetical protein
+DCGPKAEN_01174	CDS	798	recX			Regulatory protein RecX
+DCGPKAEN_01175	CDS	960	yfeX	1.11.1.-	COG2837	putative deferrochelatase/peroxidase YfeX
+DCGPKAEN_01176	CDS	1023	adh_2	1.1.1.1		Alcohol dehydrogenase
+DCGPKAEN_01177	CDS	996	yqeN		COG1466	putative protein YqeN
+DCGPKAEN_01178	CDS	909				hypothetical protein
+DCGPKAEN_01179	CDS	312				hypothetical protein
+DCGPKAEN_01180	CDS	276				hypothetical protein
+DCGPKAEN_01181	CDS	132				hypothetical protein
+DCGPKAEN_01182	CDS	318				hypothetical protein
+DCGPKAEN_01183	CDS	1350				hypothetical protein
+DCGPKAEN_01184	CDS	126				hypothetical protein
+DCGPKAEN_01185	CDS	1767	levB	3.2.1.64	COG1621	Levanbiose-producing levanase
+DCGPKAEN_01186	CDS	1137				hypothetical protein
+DCGPKAEN_01187	CDS	828				hypothetical protein
+DCGPKAEN_01188	CDS	3267				hypothetical protein
+DCGPKAEN_01189	CDS	630				hypothetical protein
+DCGPKAEN_01190	CDS	393				hypothetical protein
+DCGPKAEN_01191	CDS	504				hypothetical protein
+DCGPKAEN_01192	CDS	408				hypothetical protein
+DCGPKAEN_01193	CDS	354				hypothetical protein
+DCGPKAEN_01194	CDS	351				hypothetical protein
+DCGPKAEN_01195	CDS	408				hypothetical protein
+DCGPKAEN_01196	CDS	921				hypothetical protein
+DCGPKAEN_01197	CDS	624				hypothetical protein
+DCGPKAEN_01198	CDS	1137				hypothetical protein
+DCGPKAEN_01199	CDS	1584				hypothetical protein
+DCGPKAEN_01200	CDS	1323				hypothetical protein
+DCGPKAEN_01201	CDS	801				hypothetical protein
+DCGPKAEN_01202	CDS	180				hypothetical protein
+DCGPKAEN_01203	CDS	147				hypothetical protein
+DCGPKAEN_01204	CDS	420				hypothetical protein
+DCGPKAEN_01205	CDS	357				hypothetical protein
+DCGPKAEN_01206	CDS	387				hypothetical protein
+DCGPKAEN_01207	CDS	222				hypothetical protein
+DCGPKAEN_01208	CDS	633				hypothetical protein
+DCGPKAEN_01209	CDS	678				hypothetical protein
+DCGPKAEN_01210	CDS	123				hypothetical protein
+DCGPKAEN_01211	CDS	438				hypothetical protein
+DCGPKAEN_01212	CDS	897				hypothetical protein
+DCGPKAEN_01213	CDS	453	ssb_2		COG0629	Single-stranded DNA-binding protein
+DCGPKAEN_01214	CDS	678				hypothetical protein
+DCGPKAEN_01215	CDS	966	recT		COG3723	Protein RecT
+DCGPKAEN_01216	CDS	135				hypothetical protein
+DCGPKAEN_01217	CDS	162				hypothetical protein
+DCGPKAEN_01218	CDS	222				hypothetical protein
+DCGPKAEN_01219	CDS	210				hypothetical protein
+DCGPKAEN_01220	CDS	114				hypothetical protein
+DCGPKAEN_01221	CDS	696				hypothetical protein
+DCGPKAEN_01222	CDS	225				hypothetical protein
+DCGPKAEN_01223	CDS	402				hypothetical protein
+DCGPKAEN_01224	CDS	426				hypothetical protein
+DCGPKAEN_01225	CDS	390				hypothetical protein
+DCGPKAEN_01226	CDS	585				hypothetical protein
+DCGPKAEN_01227	CDS	165				hypothetical protein
+DCGPKAEN_01228	CDS	1053	xerD_3			Tyrosine recombinase XerD
+DCGPKAEN_01229	CDS	2274	comEC		COG0658	ComE operon protein 3
+DCGPKAEN_01230	CDS	696	comEA		COG1555	ComE operon protein 1
+DCGPKAEN_01231	CDS	480	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+DCGPKAEN_01232	CDS	555	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+DCGPKAEN_01233	CDS	324				hypothetical protein
+DCGPKAEN_01234	CDS	1185	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+DCGPKAEN_01235	CDS	1071	pepA	3.4.11.7	COG1363	Glutamyl aminopeptidase
+DCGPKAEN_01236	CDS	1311	pbuG		COG2252	Guanine/hypoxanthine permease PbuG
+DCGPKAEN_01237	CDS	360				hypothetical protein
+DCGPKAEN_01238	CDS	1701	recN		COG0497	DNA repair protein RecN
+DCGPKAEN_01239	CDS	825	tlyA		COG1189	Hemolysin A
+DCGPKAEN_01240	CDS	891		2.5.1.10		Farnesyl diphosphate synthase
+DCGPKAEN_01241	CDS	228	xseB	3.1.11.6	COG1722	Exodeoxyribonuclease 7 small subunit
+DCGPKAEN_01242	CDS	1275	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+DCGPKAEN_01243	CDS	255				hypothetical protein
+DCGPKAEN_01244	CDS	513				hypothetical protein
+DCGPKAEN_01245	CDS	1344	garB_2	1.8.1.16		Glutathione amide reductase
+DCGPKAEN_01246	CDS	621	ydhK			putative protein YdhK
+DCGPKAEN_01247	CDS	1377	glmU		COG1207	Bifunctional protein GlmU
+DCGPKAEN_01248	CDS	834	purR		COG0503	Pur operon repressor
+DCGPKAEN_01249	CDS	789	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+DCGPKAEN_01250	CDS	702	znuC	3.6.3.-	COG1121	Zinc import ATP-binding protein ZnuC
+DCGPKAEN_01251	CDS	231	veg		COG4466	Protein Veg
+DCGPKAEN_01252	CDS	888	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+DCGPKAEN_01253	CDS	606	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+DCGPKAEN_01254	CDS	795	tatD	3.1.-.-	COG0084	putative metal-dependent hydrolase TatD
+DCGPKAEN_01255	CDS	414	nusB		COG0781	Transcription antitermination protein NusB
+DCGPKAEN_01256	CDS	468				putative protein
+DCGPKAEN_01257	CDS	561	efp			Elongation factor P
+DCGPKAEN_01258	CDS	216				hypothetical protein
+DCGPKAEN_01259	CDS	1683	rnj1	3.1.-.-		Ribonuclease J 1
+DCGPKAEN_01260	CDS	936				hypothetical protein
+DCGPKAEN_01261	CDS	1158	metK	2.5.1.6		S-adenosylmethionine synthase
+DCGPKAEN_01262	CDS	852				hypothetical protein
+DCGPKAEN_01263	CDS	402				hypothetical protein
+DCGPKAEN_01264	CDS	1140				hypothetical protein
+DCGPKAEN_01265	CDS	2043	ligA	6.5.1.2	COG0272	DNA ligase
+DCGPKAEN_01266	CDS	2253	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+DCGPKAEN_01267	CDS	630	lytG_1	3.2.1.-	COG1705	Exo-glucosaminidase LytG
+DCGPKAEN_01268	CDS	300				hypothetical protein
+DCGPKAEN_01269	CDS	435	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+DCGPKAEN_01270	CDS	252				hypothetical protein
+DCGPKAEN_01271	CDS	2682	alaS	6.1.1.7		Alanine--tRNA ligase
+DCGPKAEN_01272	CDS	1416	yhdG_3		COG0531	putative amino acid permease YhdG
+DCGPKAEN_01273	CDS	1620	yveA		COG0531	Aspartate-proton symporter
+DCGPKAEN_01274	CDS	1371	idnT		COG2610	Gnt-II system L-idonate transporter
+DCGPKAEN_01275	CDS	1554	xylB	2.7.1.17	COG1070	Xylulose kinase
+DCGPKAEN_01276	CDS	909		1.1.1.343	COG1023	6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating
+DCGPKAEN_01277	CDS	864	rpiR		COG1737	HTH-type transcriptional regulator RpiR
+DCGPKAEN_01278	CDS	141				hypothetical protein
+DCGPKAEN_01279	CDS	189				hypothetical protein
+DCGPKAEN_01280	CDS	630	udk	2.7.1.48	COG0572	Uridine kinase
+DCGPKAEN_01281	CDS	1365	emrB_3			Multidrug export protein EmrB
+DCGPKAEN_01282	CDS	1023	ccpA		COG1609	Catabolite control protein A
+DCGPKAEN_01283	CDS	234				hypothetical protein
+DCGPKAEN_01284	CDS	537				Protein SprT-like protein
+DCGPKAEN_01285	CDS	252	acpP_2		COG0236	Acyl carrier protein
+DCGPKAEN_01286	CDS	1032	plsX	2.3.1.-	COG0416	Phosphate acyltransferase
+DCGPKAEN_01287	CDS	2034	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+DCGPKAEN_01288	CDS	321				hypothetical protein
+DCGPKAEN_01289	CDS	432				hypothetical protein
+DCGPKAEN_01290	tRNA	71				tRNA-Cys(gca)
+DCGPKAEN_01291	CDS	303				hypothetical protein
+DCGPKAEN_01292	CDS	780				hypothetical protein
+DCGPKAEN_01293	CDS	1086				hypothetical protein
+DCGPKAEN_01294	CDS	954	dnaI		COG1484	Primosomal protein DnaI
+DCGPKAEN_01295	CDS	1356	dnaB		COG3611	Replication initiation and membrane attachment protein
+DCGPKAEN_01296	CDS	600	coaE	2.7.1.24		Dephospho-CoA kinase
+DCGPKAEN_01297	CDS	699				hypothetical protein
+DCGPKAEN_01298	CDS	831	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+DCGPKAEN_01299	CDS	393				hypothetical protein
+DCGPKAEN_01300	CDS	324				hypothetical protein
+DCGPKAEN_01301	CDS	729				hypothetical protein
+DCGPKAEN_01302	CDS	894	ytrB		COG1131	ABC transporter ATP-binding protein YtrB
+DCGPKAEN_01303	CDS	1332	yfmL	3.6.4.13	COG0513	putative ATP-dependent RNA helicase YfmL
+DCGPKAEN_01304	CDS	1320	obg	3.6.5.-	COG0536	GTPase Obg
+DCGPKAEN_01305	CDS	1800	uvrC		COG0322	UvrABC system protein C
+DCGPKAEN_01306	CDS	1626	pyrG	6.3.4.2	COG0504	CTP synthase
+DCGPKAEN_01307	CDS	630	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+DCGPKAEN_01308	CDS	726	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+DCGPKAEN_01309	CDS	936	pyrDA	1.3.98.1	COG0167	Dihydroorotate dehydrogenase A (fumarate)
+DCGPKAEN_01310	CDS	3180	carB_2	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+DCGPKAEN_01311	CDS	1086	carA_2	6.3.5.5		Carbamoyl-phosphate synthase small chain
+DCGPKAEN_01312	CDS	1263	pyrC	3.5.2.3	COG0044	Dihydroorotase
+DCGPKAEN_01313	CDS	954	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+DCGPKAEN_01314	CDS	729				hypothetical protein
+DCGPKAEN_01315	CDS	1371	yifK		COG1113	putative transport protein YifK
+DCGPKAEN_01316	tRNA	75				tRNA-Lys(ttt)
+DCGPKAEN_01317	CDS	552	rpoE			putative DNA-directed RNA polymerase subunit delta
+DCGPKAEN_01318	CDS	423				hypothetical protein
+DCGPKAEN_01319	CDS	1353				hypothetical protein
+DCGPKAEN_01320	CDS	717				hypothetical protein
+DCGPKAEN_01321	CDS	546				hypothetical protein
+DCGPKAEN_01322	CDS	2535	pepN	3.4.11.2		Aminopeptidase N
+DCGPKAEN_01323	CDS	2076	nhaK_2		COG0025	Sodium, potassium, lithium and rubidium/H(+) antiporter
+DCGPKAEN_01324	CDS	609				hypothetical protein
+DCGPKAEN_01325	CDS	864				hypothetical protein
+DCGPKAEN_01326	CDS	1362	npr	1.11.1.1	COG0446	NADH peroxidase
+DCGPKAEN_01327	CDS	717				hypothetical protein
+DCGPKAEN_01328	CDS	675				hypothetical protein
+DCGPKAEN_01329	CDS	408	perR		COG0735	Peroxide-responsive repressor PerR
+DCGPKAEN_01330	CDS	2043	penA		COG0768	Penicillin-binding protein 2B
+DCGPKAEN_01331	CDS	2622				hypothetical protein
+DCGPKAEN_01332	CDS	489	greA		COG0782	Transcription elongation factor GreA
+DCGPKAEN_01333	CDS	945	glcU_1		COG4975	Glucose uptake protein GlcU
+DCGPKAEN_01334	CDS	945	glcU_2		COG4975	Glucose uptake protein GlcU
+DCGPKAEN_01335	CDS	1212	lytG_2	3.2.1.-	COG1705	Exo-glucosaminidase LytG
+DCGPKAEN_01336	CDS	1233	ackA	2.7.2.1	COG0282	Acetate kinase
+DCGPKAEN_01337	CDS	1029				hypothetical protein
+DCGPKAEN_01338	CDS	291				hypothetical protein
+DCGPKAEN_01339	CDS	432				hypothetical protein
+DCGPKAEN_01340	CDS	405				hypothetical protein
+DCGPKAEN_01341	CDS	357				hypothetical protein
+DCGPKAEN_01342	CDS	1032	epsF		COG1459	Type II secretion system protein F
+DCGPKAEN_01343	CDS	891	hxcR		COG2804	putative type II secretion system protein HxcR
+DCGPKAEN_01344	CDS	858	folD		COG0190	Bifunctional protein FolD protein
+DCGPKAEN_01345	CDS	477	tadA_2	3.5.4.33		tRNA-specific adenosine deaminase
+DCGPKAEN_01346	CDS	963	thyA	2.1.1.45		Thymidylate synthase
+DCGPKAEN_01347	CDS	129				hypothetical protein
+DCGPKAEN_01348	CDS	192				hypothetical protein
+DCGPKAEN_01349	CDS	591				hypothetical protein
+DCGPKAEN_01350	CDS	252				hypothetical protein
+DCGPKAEN_01351	CDS	420				hypothetical protein
+DCGPKAEN_01352	CDS	1239				hypothetical protein
+DCGPKAEN_01353	CDS	546				hypothetical protein
+DCGPKAEN_01354	tRNA	74				tRNA-Glu(ctc)
+DCGPKAEN_01355	CDS	897	natA		COG4555	ABC transporter ATP-binding protein NatA
+DCGPKAEN_01356	CDS	1239	yhaP		COG1668	putative protein YhaP
+DCGPKAEN_01357	CDS	105				hypothetical protein
+DCGPKAEN_01358	CDS	1650	opuAB		COG4176	Glycine betaine transport system permease protein OpuAB
+DCGPKAEN_01359	CDS	1197	opuAA	3.6.3.32	COG4175	Glycine betaine transport ATP-binding protein OpuAA
+DCGPKAEN_01360	CDS	636				hypothetical protein
+DCGPKAEN_01361	CDS	1326	dacA_2	3.4.16.4		D-alanyl-D-alanine carboxypeptidase DacA
+DCGPKAEN_01362	CDS	1080	phoR	2.7.13.3	COG0642	Alkaline phosphatase synthesis sensor protein PhoR
+DCGPKAEN_01363	CDS	690	srrA		COG0745	Transcriptional regulatory protein SrrA
+DCGPKAEN_01364	CDS	714				hypothetical protein
+DCGPKAEN_01365	CDS	1101	ychF		COG0012	Ribosome-binding ATPase YchF
+DCGPKAEN_01366	CDS	213				hypothetical protein
+DCGPKAEN_01367	CDS	903	spo0J		COG1475	Stage 0 sporulation protein J
+DCGPKAEN_01368	CDS	765	soj_2	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+DCGPKAEN_01369	CDS	735	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+DCGPKAEN_01370	tRNA	87				tRNA-Leu(caa)
+DCGPKAEN_01371	tRNA	74				tRNA-His(gtg)
+DCGPKAEN_01372	tRNA	74				tRNA-Trp(cca)

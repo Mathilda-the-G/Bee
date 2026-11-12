@@ -1,0 +1,21 @@
+# prokka runs
+# outgroup
+prokka --outdir GCF_000014445.1_annotated --prefix GCF_000014445.1 ../genomes/GCF_000014445.1/GCF_000014445.1_ASM1444v1_genomic.fna
+
+
+# fructobacillus
+prokka --outdir GCF_024029775.1_annotated --prefix GCF_024029775.1 ../genomes/GCF_024029775.1/GCF_024029775.1_ASM2402977v1_genomic.fna
+
+prokka --outdir GCF_058506745.1_annotated --prefix GCF_058506745.1 ../genomes/GCF_058506745.1/GCF_058506745.1_ASM5850674v1_genomic.fna
+
+prokka --outdir GCF_058507945.1_annotated --prefix GCF_058507945.1 ../genomes/GCF_058507945.1/GCF_058507945.1_ASM5850794v1_genomic.fna
+
+prokka --outdir GCF_058508565.1_annotated --prefix GCF_058508565.1 ../genomes/GCF_058508565.1/GCF_058508565.1_ASM5850856v1_genomic.fna
+
+prokka --outdir GCF_058509935.1_annotated --prefix GCF_058509935.1 ../genomes/GCF_058509935.1/GCF_058509935.1_ASM5850993v1_genomic.fna
+
+prokka --outdir GCF_058510575.1_annotated --prefix GCF_058510575.1 ../genomes/GCF_058510575.1/GCF_058510575.1_ASM5851057v1_genomic.fna
+
+prokka --outdir GCF_058511285.1_annotated --prefix GCF_058511285.1 ../genomes/GCF_058511285.1/GCF_058511285.1_ASM5851128v1_genomic.fna
+
+prokka --outdir GCF_058511985.1_annotated --prefix GCF_058511985.1 ../genomes/GCF_058511985.1/GCF_058511985.1_ASM5851198v1_genomic.fna
