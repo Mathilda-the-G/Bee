@@ -20,4 +20,13 @@ prokka --outdir GCF_058511285.1_annotated --prefix GCF_058511285.1 ../genomes/GC
 
 prokka --outdir GCF_058511985.1_annotated --prefix GCF_058511985.1 ../genomes/GCF_058511985.1/GCF_058511985.1_ASM5851198v1_genomic.fna
 
+# apilactobacillus kunkeei
+prokka --outdir GCF_001314945.1_annotated --prefix GCF_001314945.1 ../genomes/GCF_001314945.1/GCF_001314945.1_ASM131494v1_genomic.fna
+
 prokka --outdir GCF_019575995.1_annotated --prefix GCF_019575995.1 ../genomes/GCF_019575995.1/GCF_019575995.1_ASM1957599v1_genomic.fna
+
+prokka --outdir GCF_019576055.1_annotated --prefix GCF_019576055.1 ../genomes/GCF_019576055.1/GCF_019576055.1_ASM1957605v1_genomic.fna
+
+prokka --outdir GCF_030388685.1_annotated --prefix GCF_030388685.1 ../genomes/GCF_030388685.1/GCF_030388685.1_ASM3038868v1_genomic.fna
+
+prokka --outdir GCF_035919605.1_annotated --prefix GCF_035919605.1 ../genomes/GCF_035919605.1/GCF_035919605.1_ASM3591960v1_genomic.fna
