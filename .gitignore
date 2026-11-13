@@ -2,3 +2,5 @@ data/genomes/
 results/checkm2/protein_files/
 results/checkm2/diamond_output/
 *.out
+results/checkm2/*/protein_files/
+results/checkm2/*/diamond_output/

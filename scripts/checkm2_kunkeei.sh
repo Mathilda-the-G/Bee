@@ -21,5 +21,5 @@ apptainer exec -B "$PROJ" "$APPS"/checkm2.sif checkm2 predict \
   --threads 8 \
   --database_path "$DB" \
   --input $GENOMES \
-  --output-directory "$BEE"/positive_control/results/checkm2 \
+  --output-directory "$BEE"/results/checkm2/a_kunkeei \
   --force
