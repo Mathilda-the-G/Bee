@@ -1,0 +1,7 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+GCF_001314945.1_ASM131494v1_genomic	99.94	0.6	Neural Network (Specific Model)	11	0.89	1614522	326.3805309734513	1614522	0.37	1469	1	1614522	None
+GCF_019575995.1_ASM1957599v1_genomic	99.9	0.32	Neural Network (Specific Model)	11	0.893	1542216	336.0248719824433	1542216	0.37	1367	1	1542216	None
+GCF_019576055.1_ASM1957605v1_genomic	99.95	0.35	Neural Network (Specific Model)	11	0.89	1588921	332.8070175438597	1597354	0.37	1425	2	1588921	None
+GCF_030388685.1_ASM3038868v1_genomic	99.94	0.33	Neural Network (Specific Model)	11	0.892	1534266	333.1124087591241	1534266	0.37	1370	1	1534266	None
+GCF_035919605.1_ASM3591960v1_genomic	99.97	0.39	Neural Network (Specific Model)	11	0.889	1551974	329.7958452722063	1551974	0.37	1396	1	1551974	None
+GCF_047551945.1_ASM4755194v1_genomic	99.97	0.66	Neural Network (Specific Model)	11	0.893	1597781	335.65514809590974	1597781	0.38	1418	1	1597781	None
