@@ -1,0 +1,23 @@
+2026-11-13 16:17:35 : Started OrthoFinder version 3.2
+Command Line: /home/daer9945/.local/bin/orthofinder -f /nobackup/proj/disk/naiss2026-4-1938/shared/Bee/files/proteins_annotated/A.kunkeii -t 4 -o /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei
+
+Search program: diamond
+MSA program: famsa
+Tree program: fasttree
+Scoring matrix: BLOSUM62
+Gap extend: 1
+Gap open: 11
+
+WorkingDirectory_Base: /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov13/WorkingDirectory/
+
+Species used: 
+0: GCF_001314945.1.faa
+1: GCF_019575995.1.faa
+2: GCF_019576055.1.faa
+3: GCF_030388685.1.faa
+4: GCF_035919605.1.faa
+5: GCF_047551945.1.faa
+
+FN_Orthogroups: /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov13/WorkingDirectory/clusters_OrthoFinder_I1.2.txt_id_pairs.txt
+WorkingDirectory_Trees: /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov13/WorkingDirectory/
+2026-11-13 16:19:12 : OrthoFinder run completed
