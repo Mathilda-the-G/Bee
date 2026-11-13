@@ -19,3 +19,5 @@ prokka --outdir GCF_058510575.1_annotated --prefix GCF_058510575.1 ../genomes/GC
 prokka --outdir GCF_058511285.1_annotated --prefix GCF_058511285.1 ../genomes/GCF_058511285.1/GCF_058511285.1_ASM5851128v1_genomic.fna
 
 prokka --outdir GCF_058511985.1_annotated --prefix GCF_058511985.1 ../genomes/GCF_058511985.1/GCF_058511985.1_ASM5851198v1_genomic.fna
+
+prokka --outdir GCF_019575995.1_annotated --prefix GCF_019575995.1 ../genomes/GCF_019575995.1/GCF_019575995.1_ASM1957599v1_genomic.fna
