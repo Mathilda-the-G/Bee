@@ -1,0 +1,176 @@
+{
+  "assign": {
+    "first_new_species": 6,
+    "i_og_restart": 1554,
+    "new_species": "/nobackup/proj/disk/naiss2026-4-1938/shared/Bee/files/proteins_annotated/outgroup/"
+  },
+  "commands": {
+    "FastTree": {
+      "command": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/orthofinder/bin/FastTree -fastest /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_Nov13/WorkingDirectory/Alignments_ids/OG0000001.fa > /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_Nov13/WorkingDirectory/Trees_ids/OG0000001.txt",
+      "invocation": 1,
+      "program": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/orthofinder/bin/FastTree",
+      "stage": "Build alignments and gene trees"
+    },
+    "astral-pro": {
+      "command": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/orthofinder/bin/astral-pro -i /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_Nov13/WorkingDirectory/astral_input.nk -o /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_Nov13/WorkingDirectory/SpeciesTree_unrooted_ids.txt -t 4",
+      "invocation": 1,
+      "program": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/orthofinder/bin/astral-pro",
+      "stage": "Infer clade-specific orthogroups"
+    },
+    "diamond blastp": {
+      "command": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/orthofinder/bin/diamond blastp --ignore-warnings -d /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_core/WorkingDirectory/profile_sequences.10_kmeans.fa.dmnd -q /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_Nov13/WorkingDirectory/Species6.fa -o /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_Nov13/WorkingDirectory/Blast6_-1.txt --matrix BLOSUM62 --gapopen 11 --gapextend 1 --more-sensitive -p 1 --quiet -e 0.001 --compress 1",
+      "invocation": 1,
+      "program": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/orthofinder/bin/diamond",
+      "stage": "Search orthogroup profiles"
+    },
+    "diamond makedb": {
+      "command": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/orthofinder/bin/diamond makedb --ignore-warnings --in /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_core/WorkingDirectory/profile_sequences.10_km.fa -d /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_core/WorkingDirectory/profile_sequences.10_kmeans.fa.dmnd",
+      "invocation": 1,
+      "program": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/orthofinder/bin/diamond",
+      "stage": "Create orthogroup profiles"
+    },
+    "famsa": {
+      "command": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/orthofinder/bin/famsa /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_Nov13/WorkingDirectory/Sequences_ids/OG0000000.fa /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_Nov13/WorkingDirectory/Alignments_ids/OG0000000.fa -t 1",
+      "invocation": 1,
+      "program": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/orthofinder/bin/famsa",
+      "stage": "Build alignments and gene trees"
+    },
+    "mcl": {
+      "command": "mcl /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_Nov13/WorkingDirectory/OrthoFinder_unassigned_clade_0_graph.txt -I 1.2 -o /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_Nov13/WorkingDirectory/clusters_OrthoFinder_unassigned_clade_0_I1.2.txt -te 1 -V all",
+      "invocation": 1,
+      "program": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/orthofinder/bin/mcl",
+      "stage": "Infer clade-specific orthogroups"
+    }
+  },
+  "dirs": {
+    "base": [
+      "WorkingDirectory/",
+      "/nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_core/WorkingDirectory/"
+    ],
+    "core_results": "/nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_core/",
+    "core_working": "/nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_core/WorkingDirectory/",
+    "trees": "WorkingDirectory/",
+    "working": "WorkingDirectory/"
+  },
+  "files": {
+    "orthogroups": "WorkingDirectory/clusters_OrthoFinder_I1.2.txt_id_pairs.txt",
+    "species_tree": "WorkingDirectory/run_state_species_tree.txt"
+  },
+  "programs": {
+    "FastTree": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/orthofinder/bin/FastTree",
+    "astral-pro": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/orthofinder/bin/astral-pro",
+    "diamond": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/orthofinder/bin/diamond",
+    "famsa": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/orthofinder/bin/famsa"
+  },
+  "python": {
+    "executable": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/bin/python",
+    "orthofinder": {
+      "path": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/orthofinder",
+      "version": "3.2"
+    },
+    "packages": {
+      "biopython": {
+        "path": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/Bio",
+        "version": "1.88"
+      },
+      "ete4": {
+        "path": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/ete4",
+        "version": "4.4.0"
+      },
+      "numpy": {
+        "path": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/numpy",
+        "version": "2.5.4"
+      },
+      "pandas": {
+        "path": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/pandas",
+        "version": "3.1.1"
+      },
+      "rich": {
+        "path": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/rich",
+        "version": "15.0.0"
+      },
+      "scikit-learn": {
+        "path": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/sklearn",
+        "version": "1.9.1"
+      },
+      "scipy": {
+        "path": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/lib/python3.13/site-packages/scipy",
+        "version": "1.18.1"
+      }
+    },
+    "prefix": "/nobackup/proj/disk/naiss2026-4-1938/apps/of3_env",
+    "version": "3.13.5"
+  },
+  "run": {
+    "analysis": "assign",
+    "invocations": [
+      {
+        "command": "orthofinder --assign /nobackup/proj/disk/naiss2026-4-1938/shared/Bee/files/proteins_annotated/outgroup --core /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_core -t 4",
+        "directory": "/nobackup/proj/disk/naiss2026-4-1938/shared/Bee",
+        "number": 1,
+        "started": "2026-11-13T18:58:28",
+        "version": "3.2"
+      }
+    ]
+  },
+  "settings": {
+    "dna": false,
+    "gapextend": "1",
+    "gapopen": "11",
+    "mcl_inflation": 1.2,
+    "min_seq": 4,
+    "msa_min_seq": 10,
+    "msa_program": "famsa",
+    "n_skip": 50,
+    "q_add_species_to_ids": true,
+    "q_double_blast": true,
+    "q_msa_trees": true,
+    "q_split_para_clades": false,
+    "q_trim": true,
+    "score_matrix": "BLOSUM62",
+    "search_program": "diamond",
+    "species_tree_program": null,
+    "tree_program": "fasttree_fastest",
+    "v2_scores": false
+  },
+  "system": {
+    "container": null,
+    "cpu": {
+      "cores": 256,
+      "cores_available": 4,
+      "model": "AMD EPYC 9755 128-Core Processor"
+    },
+    "job": {
+      "SLURM_CPUS_ON_NODE": "4",
+      "SLURM_CPUS_PER_TASK": "4",
+      "SLURM_JOB_ID": "5252099",
+      "SLURM_MEM_PER_CPU": "2765"
+    },
+    "memory_mb": {
+      "available": 642898,
+      "limit": null,
+      "total": 773509
+    },
+    "open_files": {
+      "hard": 131072,
+      "soft": 131072
+    },
+    "os": {
+      "distribution": {
+        "name": "AlmaLinux 9.8 (Olive Jaguar)",
+        "version": "9.8"
+      },
+      "libc": {
+        "name": "glibc",
+        "version": "2.34"
+      },
+      "machine": "x86_64",
+      "release": "5.14.0-687.66.2.el9_8.x86_64",
+      "rosetta2": false,
+      "system": "Linux",
+      "version": "#1 SMP PREEMPT_DYNAMIC Fri Nov 6 16:20:31 EST 2026",
+      "wsl": false
+    }
+  },
+  "version": 1
+}

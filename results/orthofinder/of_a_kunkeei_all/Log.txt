@@ -1,0 +1,18 @@
+2026-11-13 18:58:28 : Started OrthoFinder version 3.2
+Command Line: /nobackup/proj/disk/naiss2026-4-1938/apps/of3_env/bin/orthofinder --assign /nobackup/proj/disk/naiss2026-4-1938/shared/Bee/files/proteins_annotated/outgroup --core /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_core -t 4
+
+Search program: diamond
+MSA program: famsa
+Tree program: fasttree_fastest
+Scoring matrix: BLOSUM62
+Gap extend: 1
+Gap open: 11
+
+WorkingDirectory_Base: /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_Nov13/WorkingDirectory/
+ResultsDirectory_Core: /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_core/
+WorkingDirectory_Core: /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_core/WorkingDirectory/
+FN_Orthogroups: /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_Nov13/WorkingDirectory/clusters_OrthoFinder_I1.2.txt_id_pairs.txt
+FN_SpeciesTree: /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_Nov13/WorkingDirectory/run_state_species_tree.txt
+Assign_FirstOrthogroupToInfer: 1554
+WorkingDirectory_Trees: /nobackup/proj/disk/naiss2026-4-1938/personal/freddy/OrthoFinder_a_kunkeei/Results_Nov13/WorkingDirectory/
+2026-11-13 18:59:28 : OrthoFinder run completed
