@@ -1,0 +1,43 @@
+#nexus
+
+BEGIN Taxa;
+DIMENSIONS ntax=9;
+TAXLABELS
+[1] 'DCGPKAEN'
+[2] 'ECMKHDAF'
+[3] 'EFFEEHJE'
+[4] 'GBKEBCPP'
+[5] 'LPBHGKDG'
+[6] 'MFOPEDCC'
+[7] 'MJADFBEK'
+[8] 'NBDKBFBP'
+[9] 'OHALGOHG'
+;
+END; [Taxa]
+
+BEGIN Splits;
+DIMENSIONS ntax=9 nsplits=19;
+FORMAT labels=no weights=yes confidences=no intervals=no;
+MATRIX
+	100	 1,
+	100	 4,
+	100	 1 4,
+	100	 2,
+	100	 3,
+	100	 7,
+	32	 3 7,
+	100	 2 3 7,
+	100	 5,
+	100	 8,
+	100	 5 8,
+	70	 1 4 6 9,
+	100	 6,
+	100	 1 4 9,
+	100	 9,
+	34	 2 7,
+	34	 2 3,
+	28	 2 3 6 7,
+	2	 5 6 8,
+;
+END; [Splits]
+
