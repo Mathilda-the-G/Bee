@@ -1,0 +1,27 @@
+2026-11-18 15:36:14 : Started OrthoFinder version 3.2
+Command Line: /home/daer9945/.local/bin/orthofinder -f /nobackup/proj/disk/naiss2026-4-1938/shared/Bee/files/proteins_annotated -s /nobackup/proj/disk/naiss2026-4-1938/shared/Bee/results/iqtree/fructo_concat_GCF_nolength.treefile -o /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov18 -t 4
+
+Search program: diamond
+MSA program: famsa
+Tree program: fasttree
+Scoring matrix: BLOSUM62
+Gap extend: 1
+Gap open: 11
+
+WorkingDirectory_Base: /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov18/Results_Nov18/WorkingDirectory/
+FN_SpeciesTree: /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov18/Results_Nov18/WorkingDirectory/run_state_species_tree.txt
+
+Species used: 
+0: GCF_000014445.1.faa
+1: GCF_024029775.1.faa
+2: GCF_058506745.1.faa
+3: GCF_058507945.1.faa
+4: GCF_058508565.1.faa
+5: GCF_058509935.1.faa
+6: GCF_058510575.1.faa
+7: GCF_058511285.1.faa
+8: GCF_058511985.1.faa
+
+FN_Orthogroups: /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov18/Results_Nov18/WorkingDirectory/clusters_OrthoFinder_I1.2.txt_id_pairs.txt
+WorkingDirectory_Trees: /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov18/Results_Nov18/WorkingDirectory/
+2026-11-18 15:38:27 : OrthoFinder run completed
