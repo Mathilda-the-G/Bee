@@ -12,11 +12,11 @@
 PROJ=/nobackup/proj/disk/naiss2026-4-1938
 SIF=$PROJ/apps/iqtree3_3.1.4.sif
 REPO=$PROJ/shared/Bee
-mkdir -p $REPO/results/iqtree
-cd $REPO/results/iqtree
+mkdir -p $REPO/results/iqtree/
+cd $REPO/results/iqtree/trimmed
 
 apptainer exec -B $PROJ $SIF iqtree3 \
-  -s ../amas/concat.fasta \
+  -s ../amas/concat_trimmed.fasta \
   -p ../amas/partitions.nex \
   -m MFP \
   -B 1000 \
