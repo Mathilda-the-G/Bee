@@ -2,7 +2,7 @@
 set -euo pipefail
 
 IN_DIR="orthofinder_results/of_ingroup_single_copy"
-OUT_DIR="mafft/of_ingroup"
+OUT_DIR="mafft_linsi/of_ingroup"
 JOBS="3"          # number of alignments to run at once
 
 mkdir -p "$OUT_DIR"
