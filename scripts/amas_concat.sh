@@ -3,8 +3,8 @@
 PROJ=/nobackup/proj/disk/naiss2026-4-1938
 REPO=$PROJ/shared/Bee
 AMAS=$PROJ/apps/AMAS.py
-IN=$REPO/results/mafft/of_all_Single_Copy
-OUT=$REPO/results/amas
+IN=$REPO/results/mafft/of_ingroup_single_copy
+OUT=$REPO/results/amas/ingroup
 
 mkdir -p $OUT/renamed
 for f in $IN/*.aln; do
