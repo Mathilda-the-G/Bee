@@ -1,21 +1,25 @@
 #!/usr/bin/env bash
+#SBATCH -A naiss2026-4-1938-cpu
+#SBATCH -c 1
+#SBATCH -t 00:10:00
+#SBATCH -J mafft_linsi
+#SBATCH --output=%x.%j.out
+#SBATCH --error=%x.%j.err
 set -euo pipefail
 
-IN_DIR="orthofinder_results/of_ingroup_single_copy"
-OUT_DIR="mafft_linsi/of_ingroup"
-JOBS="3"          # number of alignments to run at once
+BIND="/nobackup/proj/disk/naiss2026-4-1938"
+SIF="/nobackup/proj/disk/naiss2026-4-1938/apps/mafft.sif"
+IN_DIR="results/orthofinder/of_fructo_mes/Single_Copy_Ortholog_Sequences"
+OUT_DIR="results/mafft_linsi/fructo_mes"
 
 mkdir -p "$OUT_DIR"
 
-align_one() {
-    f="$1"; out_dir="$2"
+shopt -s nullglob
+for f in "$IN_DIR"/*.fa "$IN_DIR"/*.fasta "$IN_DIR"/*.faa; do
     base=$(basename "$f")
     base="${base%.*}"
-    mafft --localpair --maxiterate 1000 > "$out_dir/${base}.aln"
-}
-export -f align_one
+    apptainer exec --bind "$BIND" "$SIF" \
+        mafft --localpair --maxiterate 1000 "$f" > "$OUT_DIR/${base}.aln"
+done
 
-find "$IN_DIR" -maxdepth 1 -type f \( -name "*.fa" -o -name "*.fasta" -o -name "*.faa" \) \
-    | parallel -j "$JOBS" align_one {} "$OUT_DIR"
-
-echo "Done: $(ls "$OUT_DIR"/*.fasta | wc -l) alignments in $OUT_DIR"
+echo "Done: $(ls "$OUT_DIR"/*.aln | wc -l) alignments in $OUT_DIR"
