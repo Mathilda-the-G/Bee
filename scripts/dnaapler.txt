@@ -1,0 +1,5 @@
+for d in files/raw_data/ncbi_dataset/data_fructo/GCF_*; do
+  acc=$(basename "$d")
+  apptainer exec -B /nobackup/proj/disk/naiss2026-4-1938 ../../apps/dnaapler.sif \
+    dnaapler all -i "$d"/"$acc"_*_genomic.fna -o results/dnaapler/"$acc" -p "$acc" -t 4 -f
+done
