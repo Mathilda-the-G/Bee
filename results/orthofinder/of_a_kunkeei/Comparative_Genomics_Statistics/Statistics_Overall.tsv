@@ -1,22 +1,22 @@
-Number of species	6
-Number of genes	8443
-Number of genes in orthogroups	8225
-Number of unassigned genes	218
-Percentage of genes in orthogroups	97.4
-Percentage of unassigned genes	2.6
-Number of orthogroups	1424
-Number of species-specific orthogroups	12
-Number of genes in species-specific orthogroups	32
-Percentage of genes in species-specific orthogroups	0.4
-Mean orthogroup size	5.8
-Median orthogroup size	6.0
-G50 (assigned genes)	6
-G50 (all genes)	6
+Number of species	5
+Number of genes	7206
+Number of genes in orthogroups	7010
+Number of unassigned genes	196
+Percentage of genes in orthogroups	97.3
+Percentage of unassigned genes	2.7
+Number of orthogroups	1450
+Number of species-specific orthogroups	5
+Number of genes in species-specific orthogroups	15
+Percentage of genes in species-specific orthogroups	0.2
+Mean orthogroup size	4.8
+Median orthogroup size	5.0
+G50 (assigned genes)	5
+G50 (all genes)	5
 O50 (assigned genes)	662
-O50 (all genes)	681
-Number of orthogroups with all species present	1235
-Number of single-copy orthogroups	1186
-Date	2026-11-13
+O50 (all genes)	682
+Number of orthogroups with all species present	1215
+Number of single-copy orthogroups	1189
+Date	2026-11-23
 Orthogroups file	Orthogroups.tsv
 Unassigned genes file	Orthogroups_UnassignedGenes.tsv
 Per-species statistics	Statistics_PerSpecies.tsv
@@ -24,15 +24,15 @@ Overall statistics	Statistics_Overall.tsv
 Orthogroups shared between species	Orthogroups_SpeciesOverlaps.tsv
 
 Average number of genes per-species in orthogroup	Number of orthogroups	Percentage of orthogroups	Number of genes	Percentage of genes
-<1	174	12.2	584	7.1
-'1	1243	87.3	7526	91.5
-'2	3	0.2	38	0.5
-'3	4	0.3	77	0.9
-'4	0	0.0	0	0.0
+<1	217	15.0	650	9.3
+'1	1225	84.5	6172	88.0
+'2	2	0.1	24	0.3
+'3	2	0.1	31	0.4
+'4	1	0.1	22	0.3
 '5	0	0.0	0	0.0
-'6	0	0.0	0	0.0
-'7	0	0.0	0	0.0
-'8	0	0.0	0	0.0
+'6	1	0.1	34	0.5
+'7	1	0.1	35	0.5
+'8	1	0.1	42	0.6
 '9	0	0.0	0	0.0
 '10	0	0.0	0	0.0
 11-15	0	0.0	0	0.0
@@ -46,9 +46,8 @@ Average number of genes per-species in orthogroup	Number of orthogroups	Percenta
 '1001+	0	0.0	0	0.0
 
 Number of species in orthogroup	Number of orthogroups
-1	12
-2	55
-3	45
-4	40
-5	37
-6	1235
+1	5
+2	67
+3	93
+4	70
+5	1215

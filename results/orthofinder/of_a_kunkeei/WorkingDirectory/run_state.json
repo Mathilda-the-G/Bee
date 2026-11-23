@@ -1,37 +1,37 @@
 {
   "commands": {
     "FastTree": {
-      "command": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/FastTree /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov13/WorkingDirectory/Alignments_ids/OG0000096.fa > /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov13/WorkingDirectory/Trees_ids/OG0000096.txt",
+      "command": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/FastTree /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov23/WorkingDirectory/Alignments_ids/OG0000062.fa > /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov23/WorkingDirectory/Trees_ids/OG0000062.txt",
       "invocation": 1,
       "program": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/FastTree",
       "stage": "Build alignments and gene trees"
     },
     "FastTree (species tree)": {
-      "command": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/FastTree /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov13/WorkingDirectory/Alignments_ids/SpeciesTreeAlignment.fa > /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov13/WorkingDirectory/SpeciesTree_unrooted_ids.txt",
+      "command": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/FastTree /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov23/WorkingDirectory/Alignments_ids/SpeciesTreeAlignment.fa > /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov23/WorkingDirectory/SpeciesTree_unrooted_ids.txt",
       "invocation": 1,
       "program": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/FastTree",
       "stage": "Build alignments and gene trees"
     },
     "diamond blastp": {
-      "command": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/diamond blastp --ignore-warnings -d /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov13/WorkingDirectory/diamondDBSpecies0 -q /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov13/WorkingDirectory/Species0.fa -o /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov13/WorkingDirectory/Blast0_0.txt --matrix BLOSUM62 --gapopen 11 --gapextend 1 --more-sensitive -p 1 --quiet -e 0.001 --compress 1",
+      "command": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/diamond blastp --ignore-warnings -d /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov23/WorkingDirectory/diamondDBSpecies0 -q /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov23/WorkingDirectory/Species0.fa -o /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov23/WorkingDirectory/Blast0_0.txt --matrix BLOSUM62 --gapopen 11 --gapextend 1 --more-sensitive -p 1 --quiet -e 0.001 --compress 1",
       "invocation": 1,
       "program": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/diamond",
       "stage": "Sequence search"
     },
     "diamond makedb": {
-      "command": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/diamond makedb --ignore-warnings --in /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov13/WorkingDirectory/Species0.fa -d /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov13/WorkingDirectory/diamondDBSpecies0",
+      "command": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/diamond makedb --ignore-warnings --in /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov23/WorkingDirectory/Species0.fa -d /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov23/WorkingDirectory/diamondDBSpecies0",
       "invocation": 1,
       "program": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/diamond",
       "stage": "Create search databases"
     },
     "famsa": {
-      "command": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/famsa /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov13/WorkingDirectory/Sequences_ids/OG0000094.fa /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov13/WorkingDirectory/Alignments_ids/OG0000094.fa -t 1",
+      "command": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/famsa /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov23/WorkingDirectory/Sequences_ids/OG0000059.fa /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov23/WorkingDirectory/Alignments_ids/OG0000059.fa -t 1",
       "invocation": 1,
       "program": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/famsa",
       "stage": "Build alignments and gene trees"
     },
     "mcl": {
-      "command": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/mcl /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov13/WorkingDirectory/OrthoFinder_graph.txt -I 1.2 -o /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov13/WorkingDirectory/clusters_OrthoFinder_I1.2.txt -te 1 -V all",
+      "command": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/mcl /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov23/WorkingDirectory/OrthoFinder_graph.txt -I 1.2 -o /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei/Results_Nov23/WorkingDirectory/clusters_OrthoFinder_I1.2.txt -te 1 -V all",
       "invocation": 1,
       "program": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/mcl",
       "stage": "Infer orthogroups"
@@ -96,10 +96,10 @@
     "analysis": "core",
     "invocations": [
       {
-        "command": "orthofinder -f /nobackup/proj/disk/naiss2026-4-1938/shared/Bee/files/proteins_annotated/A.kunkeii -t 4 -o /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei",
+        "command": "orthofinder -f /nobackup/proj/disk/naiss2026-4-1938/shared/Bee/files/proteins_annotated/a_kunkeei -t 4 -o /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei",
         "directory": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945",
         "number": 1,
-        "started": "2026-11-13T16:17:35",
+        "started": "2026-11-23T11:26:21",
         "version": "3.2"
       }
     ]
@@ -125,7 +125,7 @@
     "v2_scores": false
   },
   "species": {
-    "ids_lines": "0: GCF_001314945.1.faa\n1: GCF_019575995.1.faa\n2: GCF_019576055.1.faa\n3: GCF_030388685.1.faa\n4: GCF_035919605.1.faa\n5: GCF_047551945.1.faa\n"
+    "ids_lines": "0: GCA_946888055.1.faa\n1: GCA_946888165.1.faa\n2: GCA_946888185.1.faa\n3: GCA_946888295.1.faa\n4: GCA_946888315.1.faa\n"
   },
   "system": {
     "container": null,
@@ -137,11 +137,11 @@
     "job": {
       "SLURM_CPUS_ON_NODE": "4",
       "SLURM_CPUS_PER_TASK": "4",
-      "SLURM_JOB_ID": "5247917",
+      "SLURM_JOB_ID": "5645369",
       "SLURM_MEM_PER_CPU": "2765"
     },
     "memory_mb": {
-      "available": 700111,
+      "available": 709059,
       "limit": null,
       "total": 773509
     },

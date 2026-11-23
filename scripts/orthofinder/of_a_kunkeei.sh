@@ -8,10 +8,9 @@
 #SBATCH -e of_a_kunkeei.err
 #SBATCH -o of_a_kunkeei.out
 
-PROJ=/nobackup/proj/disk/naiss2026-4-1938
-APPS=$PROJ/apps
-BEE=$PROJ/shared/Bee
-OUTPUTDIR=$PROJ/personal/$USER/OrthoFinder/Results_a_kunkeei
+APPS=/nobackup/proj/disk/naiss2026-4-1938/apps
+BEE=/nobackup/proj/disk/naiss2026-4-1938/shared/Bee
+OUTPUTDIR=/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_a_kunkeei
 
 # Load Python 3.13 (required for running OrthoFinder)
 module load Python/3.13.5-bare-gcc-2025b-eb
@@ -20,5 +19,5 @@ module load Python/3.13.5-bare-gcc-2025b-eb
 . $APPS/of3_env/bin/activate
 
 # Run OrthoFinder
-orthofinder -f $BEE/files/proteins_annotated/A.kunkeii -t 4 -o $OUTPUTDIR
+orthofinder -f $BEE/files/proteins_annotated/a_kunkeei -t 4 -o $OUTPUTDIR
 
