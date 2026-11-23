@@ -1,89 +1,65 @@
-2026-11-23 14:40:42 : Starting OrthoFinder v3.2
+2026-11-23 16:36:05 : Starting OrthoFinder v3.2
 4 thread(s) for highly parallel tasks (BLAST searches etc.)
 1 thread(s) for OrthoFinder algorithm
 
 OrthoFinder version 3.2 Copyright (C) 2014 David Emms
 
 Results directory:
-    /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/reoriented/Results_Nov23_2/
+    /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/reoriented/Results_Nov23_3/
 
-2026-11-23 14:40:42 : Checking required programs are installed
-2026-11-23 14:40:42 : Creating orthogroup profiles
-2026-11-23 14:40:42 : [Create orthogroup profiles] Started
-2026-11-23 14:40:42 : [Create orthogroup profiles] Completed
-2026-11-23 14:40:43 : [Search orthogroup profiles] Started
-2026-11-23 14:40:43 : Running diamond profiles search
-2026-11-23 14:40:52 : Done profiles search
-2026-11-23 14:40:52 : [Search orthogroup profiles] Completed
-2026-11-23 14:40:52 : [Infer clade-specific orthogroups] Started
-2026-11-23 14:40:52 : Writing orthogroups to file
-2026-11-23 14:40:53 : [Build alignments and gene trees] Started
-2026-11-23 14:40:53 : Starting MSA/Trees
-2026-11-23 14:40:53 : Inferring multiple sequence alignments and gene trees
-2026-11-23 14:41:38 : Done MSA/Trees
-2026-11-23 14:41:38 : [Build alignments and gene trees] Completed
-2026-11-23 14:41:39 : Identifying clade-specific orthogroups for the following clades:
-2026-11-23 14:41:39 : Running diamond searches for new non-core species clades
-2026-11-23 14:41:39 : [Sequence search] Started
-2026-11-23 14:41:39 : This may take some time...
-2026-11-23 14:41:40 : Search completed: Blast8_10.txt.gz (10924 bytes)
-2026-11-23 14:41:40 : Search completed: Blast8_9.txt.gz (12284 bytes)
-2026-11-23 14:41:40 : Search completed: Blast8_11.txt.gz (14721 bytes)
-2026-11-23 14:41:40 : Search completed: Blast8_8.txt.gz (14694 bytes)
-2026-11-23 14:41:41 : Search completed: Blast9_8.txt.gz (12356 bytes)
-2026-11-23 14:41:41 : Search completed: Blast8_12.txt.gz (14598 bytes)
-2026-11-23 14:41:41 : Search completed: Blast9_9.txt.gz (11352 bytes)
-2026-11-23 14:41:41 : Search completed: Blast9_10.txt.gz (9323 bytes)
-2026-11-23 14:41:42 : Search completed: Blast9_11.txt.gz (12498 bytes)
-2026-11-23 14:41:42 : Search completed: Blast9_12.txt.gz (12625 bytes)
-2026-11-23 14:41:42 : Search completed: Blast10_9.txt.gz (9211 bytes)
-2026-11-23 14:41:42 : Search completed: Blast10_8.txt.gz (10938 bytes)
-2026-11-23 14:41:43 : Search completed: Blast10_12.txt.gz (10267 bytes)
-2026-11-23 14:41:43 : Search completed: Blast10_11.txt.gz (10189 bytes)
-2026-11-23 14:41:43 : Search completed: Blast10_10.txt.gz (9676 bytes)
-2026-11-23 14:41:43 : Search completed: Blast11_8.txt.gz (15787 bytes)
-2026-11-23 14:41:44 : Search completed: Blast11_9.txt.gz (13256 bytes)
-2026-11-23 14:41:44 : Search completed: Blast11_10.txt.gz (10742 bytes)
-2026-11-23 14:41:44 : Search completed: Blast11_11.txt.gz (16375 bytes)
-2026-11-23 14:41:44 : Search completed: Blast11_12.txt.gz (15206 bytes)
-2026-11-23 14:41:45 : Search completed: Blast12_8.txt.gz (14983 bytes)
-2026-11-23 14:41:45 : Search completed: Blast12_9.txt.gz (12940 bytes)
-2026-11-23 14:41:45 : Search completed: Blast12_10.txt.gz (10567 bytes)
-2026-11-23 14:41:46 : Search completed: Blast12_11.txt.gz (14715 bytes)
-2026-11-23 14:41:46 : Search completed: Blast12_12.txt.gz (15445 bytes)
-2026-11-23 14:41:46 : Done all-versus-all sequence search
-2026-11-23 14:41:46 : [Sequence search] Completed
-2026-11-23 14:41:46 : OrthoFinder clutering on new species clade 1 of 1
-2026-11-23 14:41:46 : Running OrthoFinder algorithm for clade-specific genes
-2026-11-23 14:41:46 : Initial processing of each species
-2026-11-23 14:41:46 : Connected putative homologues
-2026-11-23 14:41:47 : Ran MCL
-2026-11-23 14:41:47 : [Infer clade-specific orthogroups] Completed
-2026-11-23 14:41:47 : Writing orthogroups to file
-2026-11-23 14:41:47 : Done orthogroups
-2026-11-23 14:41:47 : Analysing Orthogroups
-2026-11-23 14:41:47 : [Build alignments and gene trees] Started
-2026-11-23 14:41:47 : Starting MSA/Trees
-2026-11-23 14:41:47 : Inferring multiple sequence alignments and gene trees
-2026-11-23 14:41:59 : Done MSA/Trees
-2026-11-23 14:41:59 : [Build alignments and gene trees] Completed
-2026-11-23 14:41:59 : [Infer species tree] Started
-2026-11-23 14:41:59 : [Infer species tree] Completed
-2026-11-23 14:41:59 : Reconciling gene trees and species tree
-2026-11-23 14:41:59 : Starting reconciliation and orthologs
-2026-11-23 14:41:59 : [Infer orthologs] Started
-2026-11-23 14:41:59 : Inferring orthologs from gene trees
-2026-11-23 14:42:02 : Done writing orthologs
-2026-11-23 14:42:02 : Done of orthologs
-2026-11-23 14:42:02 : [Infer orthologs] Completed
-2026-11-23 14:42:02 : Writing results files
-2026-11-23 14:42:02 : Start writing hierarchical orthogroups files
-2026-11-23 14:42:02 : Converting MSA/Trees
-2026-11-23 14:42:03 : Updating MSA/Trees
-2026-11-23 14:42:06 : Done updating MSA/Trees
-2026-11-23 14:42:06 : [Infer orthologs] Started
-2026-11-23 14:42:09 : [Infer orthologs] Completed
-2026-11-23 14:42:10 : Done writing files
-2026-11-23 14:42:10 : [Process output files] Started
-2026-11-23 14:42:11 : [Process output files] Completed
-2026-11-23 14:42:11 : OrthoFinder run completed in 88.99 seconds
+2026-11-23 16:36:05 : Checking required programs are installed
+2026-11-23 16:36:06 : Creating orthogroup profiles
+2026-11-23 16:36:06 : [Create orthogroup profiles] Started
+2026-11-23 16:36:17 : [Create orthogroup profiles] Completed
+2026-11-23 16:36:17 : [Search orthogroup profiles] Started
+2026-11-23 16:36:17 : Running diamond profiles search
+2026-11-23 16:36:20 : Done profiles search
+2026-11-23 16:36:20 : [Search orthogroup profiles] Completed
+2026-11-23 16:36:20 : [Infer clade-specific orthogroups] Started
+2026-11-23 16:36:20 : Writing orthogroups to file
+2026-11-23 16:36:21 : [Build alignments and gene trees] Started
+2026-11-23 16:36:21 : Starting MSA/Trees
+2026-11-23 16:36:21 : Inferring multiple sequence alignments and gene trees
+2026-11-23 16:37:06 : Done MSA/Trees
+2026-11-23 16:37:06 : [Build alignments and gene trees] Completed
+2026-11-23 16:37:06 : Identifying clade-specific orthogroups for the following clades:
+2026-11-23 16:37:07 : Running diamond searches for new non-core species clades
+2026-11-23 16:37:07 : [Sequence search] Started
+2026-11-23 16:37:07 : This may take some time...
+2026-11-23 16:37:08 : Search completed: Blast13_13.txt.gz (19429 bytes)
+2026-11-23 16:37:08 : Done all-versus-all sequence search
+2026-11-23 16:37:08 : [Sequence search] Completed
+2026-11-23 16:37:08 : OrthoFinder clutering on new species clade 1 of 1
+2026-11-23 16:37:08 : Running OrthoFinder algorithm for clade-specific genes
+2026-11-23 16:37:08 : Initial processing of each species
+2026-11-23 16:37:08 : Connected putative homologues
+2026-11-23 16:37:08 : Ran MCL
+2026-11-23 16:37:08 : [Infer clade-specific orthogroups] Completed
+2026-11-23 16:37:08 : Writing orthogroups to file
+2026-11-23 16:37:08 : Done orthogroups
+2026-11-23 16:37:08 : Analysing Orthogroups
+2026-11-23 16:37:08 : [Build alignments and gene trees] Started
+2026-11-23 16:37:08 : Starting MSA/Trees
+2026-11-23 16:37:08 : Inferring multiple sequence alignments and gene trees
+2026-11-23 16:37:09 : Done MSA/Trees
+2026-11-23 16:37:09 : [Build alignments and gene trees] Completed
+2026-11-23 16:37:09 : [Infer species tree] Started
+2026-11-23 16:37:09 : [Infer species tree] Completed
+2026-11-23 16:37:09 : Reconciling gene trees and species tree
+2026-11-23 16:37:09 : Starting reconciliation and orthologs
+2026-11-23 16:37:09 : [Infer orthologs] Started
+2026-11-23 16:37:09 : Inferring orthologs from gene trees
+2026-11-23 16:37:12 : Done writing orthologs
+2026-11-23 16:37:12 : Done of orthologs
+2026-11-23 16:37:12 : [Infer orthologs] Completed
+2026-11-23 16:37:12 : Writing results files
+2026-11-23 16:37:12 : Start writing hierarchical orthogroups files
+2026-11-23 16:37:12 : Converting MSA/Trees
+2026-11-23 16:37:14 : Updating MSA/Trees
+2026-11-23 16:37:16 : Done updating MSA/Trees
+2026-11-23 16:37:17 : [Infer orthologs] Started
+2026-11-23 16:37:20 : [Infer orthologs] Completed
+2026-11-23 16:37:21 : Done writing files
+2026-11-23 16:37:21 : [Process output files] Started
+2026-11-23 16:37:21 : [Process output files] Completed
+2026-11-23 16:37:21 : OrthoFinder run completed in 76.07 seconds

@@ -2,7 +2,7 @@
 
 #SBATCH -A naiss2026-4-1938-cpu
 #SBATCH -p cpu
-#SBATCH -J orthofinder_all
+#SBATCH -J of_all
 #SBATCH -t 00:10:00
 #SBATCH -c 4
 #SBATCH -e of_all.err
@@ -19,4 +19,4 @@ module load Python/3.13.5-bare-gcc-2025b-eb
 . $APPS/of3_env/bin/activate
 
 # Add outgroup to the existing OrthoFinder analysis
-orthofinder --assign $BEE/files/proteins_annotated/a_kunkeei --core $OUTPUTDIR/reoriented/Results_Nov23 -t 4
+orthofinder --assign $BEE/files/proteins_annotated/outgroup --core $OUTPUTDIR/reoriented/Results_Nov23_2 -t 4

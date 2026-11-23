@@ -17701,3 +17701,2031 @@
 12_1459: ADPACBMJ_01543 Membrane protein insertase MisCA
 12_1460: ADPACBMJ_01544 Ribonuclease P protein component
 12_1461: ADPACBMJ_01545 50S ribosomal protein L34
+13_0: OHALGOHG_00001 Chromosomal replication initiator protein DnaA
+13_1: OHALGOHG_00002 Beta sliding clamp
+13_2: OHALGOHG_00003 hypothetical protein
+13_3: OHALGOHG_00004 DNA replication and repair protein RecF
+13_4: OHALGOHG_00005 DNA gyrase subunit B
+13_5: OHALGOHG_00006 DNA gyrase subunit A
+13_6: OHALGOHG_00007 Glutathione peroxidase BsaA
+13_7: OHALGOHG_00008 Accessory gene regulator A
+13_8: OHALGOHG_00009 hypothetical protein
+13_9: OHALGOHG_00010 Glycosyltransferase Gtf1
+13_10: OHALGOHG_00011 Glycosyltransferase Gtf1
+13_11: OHALGOHG_00012 Glycosyltransferase Gtf1
+13_12: OHALGOHG_00013 Accessory Sec system protein Asp2
+13_13: OHALGOHG_00014 Accessory Sec system protein Asp3
+13_14: OHALGOHG_00015 Putative esterase
+13_15: OHALGOHG_00016 1,4-dihydroxy-2-naphthoyl-CoA synthase
+13_16: OHALGOHG_00017 Omega-amidase YafV
+13_17: OHALGOHG_00018 Transaminase BacF
+13_18: OHALGOHG_00038 Multidrug resistance protein MdtG
+13_19: OHALGOHG_00039 Acid sugar phosphatase
+13_20: OHALGOHG_00040 hypothetical protein
+13_21: OHALGOHG_00041 hypothetical protein
+13_22: OHALGOHG_00042 Acetyltransferase
+13_23: OHALGOHG_00043 Lipoteichoic acid synthase 1
+13_24: OHALGOHG_00044 GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase
+13_25: OHALGOHG_00045 hypothetical protein
+13_26: OHALGOHG_00046 putative RNA pseudouridine synthase
+13_27: OHALGOHG_00047 Aquaporin Z 2
+13_28: OHALGOHG_00048 Copper-exporting P-type ATPase B
+13_29: OHALGOHG_00049 Transcriptional repressor CopY
+13_30: OHALGOHG_00050 HTH-type transcriptional repressor YtrA
+13_31: OHALGOHG_00051 ABC transporter ATP-binding protein YtrB
+13_32: OHALGOHG_00052 hypothetical protein
+13_33: OHALGOHG_00053 Lipopolysaccharide export system ATP-binding protein LptB
+13_34: OHALGOHG_00054 hypothetical protein
+13_35: OHALGOHG_00055 Glyoxal reductase
+13_36: OHALGOHG_00057 Acetylornithine aminotransferase
+13_37: OHALGOHG_00058 Acetylglutamate kinase
+13_38: OHALGOHG_00059 Arginine biosynthesis bifunctional protein ArgJ
+13_39: OHALGOHG_00060 N-acetyl-gamma-glutamyl-phosphate reductase
+13_40: OHALGOHG_00061 hypothetical protein
+13_41: OHALGOHG_00062 hypothetical protein
+13_42: OHALGOHG_00063 hypothetical protein
+13_43: OHALGOHG_00064 Ktr system potassium uptake protein A
+13_44: OHALGOHG_00065 Potassium/sodium uptake protein NtpJ
+13_45: OHALGOHG_00066 Inner membrane transport protein YdiM
+13_46: OHALGOHG_00067 HTH-type transcriptional regulator ImmR
+13_47: OHALGOHG_00068 hypothetical protein
+13_48: OHALGOHG_00069 hypothetical protein
+13_49: OHALGOHG_00070 hypothetical protein
+13_50: OHALGOHG_00071 hypothetical protein
+13_51: OHALGOHG_00072 hypothetical protein
+13_52: OHALGOHG_00073 hypothetical protein
+13_53: OHALGOHG_00074 Galactose/methyl galactoside import ATP-binding protein MglA
+13_54: OHALGOHG_00075 Fructose import permease protein FrcC
+13_55: OHALGOHG_00076 hypothetical protein
+13_56: OHALGOHG_00077 L-2-hydroxyisocaproate dehydrogenase
+13_57: OHALGOHG_00078 Glycine betaine/carnitine/choline transport ATP-binding protein OpuCA
+13_58: OHALGOHG_00079 Autoinducer 2 import system permease protein LsrC
+13_59: OHALGOHG_00080 hypothetical protein
+13_60: OHALGOHG_00081 hypothetical protein
+13_61: OHALGOHG_00082 NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+13_62: OHALGOHG_00083 hypothetical protein
+13_63: OHALGOHG_00084 Lactococcin A secretion protein LcnD
+13_64: OHALGOHG_00085 Lactococcin-G-processing and transport ATP-binding protein LagD
+13_65: OHALGOHG_00086 hypothetical protein
+13_66: OHALGOHG_00087 hypothetical protein
+13_67: OHALGOHG_00088 hypothetical protein
+13_68: OHALGOHG_00089 hypothetical protein
+13_69: OHALGOHG_00090 hypothetical protein
+13_70: OHALGOHG_00091 hypothetical protein
+13_71: OHALGOHG_00092 hypothetical protein
+13_72: OHALGOHG_00093 Accessory gene regulator A
+13_73: OHALGOHG_00094 hypothetical protein
+13_74: OHALGOHG_00095 hypothetical protein
+13_75: OHALGOHG_00096 Pyridoxine kinase
+13_76: OHALGOHG_00097 hypothetical protein
+13_77: OHALGOHG_00098 Fumarate reductase flavoprotein subunit
+13_78: OHALGOHG_00099 SkfA peptide export ATP-binding protein SkfE
+13_79: OHALGOHG_00100 hypothetical protein
+13_80: OHALGOHG_00101 hypothetical protein
+13_81: OHALGOHG_00102 putative glycosyltransferase YkoT
+13_82: OHALGOHG_00103 hypothetical protein
+13_83: OHALGOHG_00104 NADH peroxidase
+13_84: OHALGOHG_00105 Inner membrane protein YagU
+13_85: OHALGOHG_00106 hypothetical protein
+13_86: OHALGOHG_00107 hypothetical protein
+13_87: OHALGOHG_00108 Glutathionyl-hydroquinone reductase YqjG
+13_88: OHALGOHG_00109 hypothetical protein
+13_89: OHALGOHG_00110 putative N-acetyltransferase YtmI
+13_90: OHALGOHG_00111 putative amino-acid permease protein YxeN
+13_91: OHALGOHG_00112 L-cystine import ATP-binding protein TcyN
+13_92: OHALGOHG_00113 putative amino-acid-binding protein YxeM
+13_93: OHALGOHG_00114 putative hydrolase YxeP
+13_94: OHALGOHG_00115 Thioredoxin
+13_95: OHALGOHG_00116 Kynurenine formamidase
+13_96: OHALGOHG_00117 Low-affinity putrescine importer PlaP
+13_97: OHALGOHG_00118 Diacetyl reductase [(S)-acetoin forming]
+13_98: OHALGOHG_00119 Methionine-binding lipoprotein MetQ
+13_99: OHALGOHG_00120 Glutamine transport system permease protein GlnP
+13_100: OHALGOHG_00121 putative glutamine ABC transporter permease protein GlnP
+13_101: OHALGOHG_00122 Arginine transport ATP-binding protein ArtM
+13_102: OHALGOHG_00123 ABC transporter glutamine-binding protein GlnH
+13_103: OHALGOHG_00124 N-methyl-L-tryptophan oxidase
+13_104: OHALGOHG_00125 Putative fluoride ion transporter CrcB
+13_105: OHALGOHG_00126 Putative fluoride ion transporter CrcB
+13_106: OHALGOHG_00127 Protein DegV
+13_107: OHALGOHG_00128 hypothetical protein
+13_108: OHALGOHG_00129 D-xylose transporter
+13_109: OHALGOHG_00130 N-acetylglucosamine repressor
+13_110: OHALGOHG_00131 Xylose isomerase
+13_111: OHALGOHG_00132 Xylulose kinase
+13_112: OHALGOHG_00134 Undecaprenyl-diphosphatase
+13_113: OHALGOHG_00135 Uroporphyrinogen decarboxylase
+13_114: OHALGOHG_00136 hypothetical protein
+13_115: OHALGOHG_00137 L-cystine-binding protein TcyJ
+13_116: OHALGOHG_00138 L-cystine transport system permease protein TcyL
+13_117: OHALGOHG_00139 putative amino-acid permease protein YxeN
+13_118: OHALGOHG_00140 putative amino-acid import ATP-binding protein YxeO
+13_119: OHALGOHG_00141 Peptide chain release factor 3
+13_120: OHALGOHG_00142 hypothetical protein
+13_121: OHALGOHG_00143 Folate transporter FolT
+13_122: OHALGOHG_00144 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+13_123: OHALGOHG_00145 hypothetical protein
+13_124: OHALGOHG_00146 Diacetyl reductase [(S)-acetoin forming]
+13_125: OHALGOHG_00147 Aldehyde-alcohol dehydrogenase
+13_126: OHALGOHG_00148 23S rRNA (uracil-C(5))-methyltransferase RlmCD
+13_127: OHALGOHG_00149 hypothetical protein
+13_128: OHALGOHG_00150 hypothetical protein
+13_129: OHALGOHG_00151 putative ATP-dependent Clp protease ATP-binding subunit
+13_130: OHALGOHG_00152 hypothetical protein
+13_131: OHALGOHG_00153 Diadenosine hexaphosphate hydrolase
+13_132: OHALGOHG_00154 Aspartate ammonia-lyase
+13_133: OHALGOHG_00155 Ribose-5-phosphate isomerase A
+13_134: OHALGOHG_00156 putative protein YjdJ
+13_135: OHALGOHG_00157 Deoxyuridine 5'-triphosphate nucleotidohydrolase
+13_136: OHALGOHG_00158 DNA repair protein RadA
+13_137: OHALGOHG_00159 hypothetical protein
+13_138: OHALGOHG_00160 hypothetical protein
+13_139: OHALGOHG_00161 HTH-type transcriptional repressor Bm3R1
+13_140: OHALGOHG_00162 Glutamate--tRNA ligase
+13_141: OHALGOHG_00163 Cysteine--tRNA ligase
+13_142: OHALGOHG_00183 Serine--tRNA ligase
+13_143: OHALGOHG_00184 Protein translocase subunit SecA
+13_144: OHALGOHG_00185 Peptide chain release factor 2
+13_145: OHALGOHG_00186 ATP-dependent Clp protease ATP-binding subunit ClpC
+13_146: OHALGOHG_00187 hypothetical protein
+13_147: OHALGOHG_00188 30S ribosomal protein S12
+13_148: OHALGOHG_00189 30S ribosomal protein S7
+13_149: OHALGOHG_00190 Elongation factor G
+13_150: OHALGOHG_00191 putative transporter YycB
+13_151: OHALGOHG_00192 Spermidine/putrescine import ATP-binding protein PotA
+13_152: OHALGOHG_00193 Spermidine/putrescine transport system permease protein PotB
+13_153: OHALGOHG_00194 Inner membrane ABC transporter permease protein YdcV
+13_154: OHALGOHG_00195 Spermidine/putrescine-binding periplasmic protein
+13_155: OHALGOHG_00196 30S ribosomal protein S10
+13_156: OHALGOHG_00197 50S ribosomal protein L3
+13_157: OHALGOHG_00198 50S ribosomal protein L4
+13_158: OHALGOHG_00199 50S ribosomal protein L23
+13_159: OHALGOHG_00200 50S ribosomal protein L2
+13_160: OHALGOHG_00201 30S ribosomal protein S19
+13_161: OHALGOHG_00202 50S ribosomal protein L22
+13_162: OHALGOHG_00203 30S ribosomal protein S3
+13_163: OHALGOHG_00204 50S ribosomal protein L16
+13_164: OHALGOHG_00205 50S ribosomal protein L29
+13_165: OHALGOHG_00206 30S ribosomal protein S17
+13_166: OHALGOHG_00207 50S ribosomal protein L14
+13_167: OHALGOHG_00208 50S ribosomal protein L24
+13_168: OHALGOHG_00209 50S ribosomal protein L5
+13_169: OHALGOHG_00210 30S ribosomal protein S8
+13_170: OHALGOHG_00211 50S ribosomal protein L6
+13_171: OHALGOHG_00212 50S ribosomal protein L18
+13_172: OHALGOHG_00213 30S ribosomal protein S5
+13_173: OHALGOHG_00214 50S ribosomal protein L30
+13_174: OHALGOHG_00215 50S ribosomal protein L15
+13_175: OHALGOHG_00216 Protein translocase subunit SecY
+13_176: OHALGOHG_00217 Adenylate kinase
+13_177: OHALGOHG_00218 Translation initiation factor IF-1
+13_178: OHALGOHG_00219 50S ribosomal protein L36
+13_179: OHALGOHG_00220 30S ribosomal protein S13
+13_180: OHALGOHG_00221 30S ribosomal protein S11
+13_181: OHALGOHG_00222 DNA-directed RNA polymerase subunit alpha
+13_182: OHALGOHG_00223 50S ribosomal protein L17
+13_183: OHALGOHG_00224 Heptaprenyl diphosphate synthase component 2
+13_184: OHALGOHG_00225 NADH dehydrogenase-like protein YjlD
+13_185: OHALGOHG_00226 Energy-coupling factor transporter ATP-binding protein EcfA1
+13_186: OHALGOHG_00227 Energy-coupling factor transporter ATP-binding protein EcfA2
+13_187: OHALGOHG_00228 Energy-coupling factor transporter transmembrane protein EcfT
+13_188: OHALGOHG_00229 tRNA pseudouridine synthase A
+13_189: OHALGOHG_00230 hypothetical protein
+13_190: OHALGOHG_00231 50S ribosomal protein L13
+13_191: OHALGOHG_00232 30S ribosomal protein S9
+13_192: OHALGOHG_00233 HTH-type transcriptional regulator GltC
+13_193: OHALGOHG_00234 putative oxidoreductase
+13_194: OHALGOHG_00235 hypothetical protein
+13_195: OHALGOHG_00239 hypothetical protein
+13_196: OHALGOHG_00240 Triosephosphate isomerase
+13_197: OHALGOHG_00241 Enolase 2
+13_198: OHALGOHG_00242 DNA-3-methyladenine glycosylase 1
+13_199: OHALGOHG_00243 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+13_200: OHALGOHG_00244 Polyphosphate kinase
+13_201: OHALGOHG_00245 Exopolyphosphatase
+13_202: OHALGOHG_00247 IMPACT family member YigZ
+13_203: OHALGOHG_00248 ComF operon protein 1
+13_204: OHALGOHG_00249 Orotate phosphoribosyltransferase
+13_205: OHALGOHG_00250 Ribosome hibernation promotion factor
+13_206: OHALGOHG_00251 hypothetical protein
+13_207: OHALGOHG_00252 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+13_208: OHALGOHG_00253 hypothetical protein
+13_209: OHALGOHG_00254 Glutaredoxin-like protein NrdH
+13_210: OHALGOHG_00255 Ribonucleoside-diphosphate reductase 2 subunit alpha
+13_211: OHALGOHG_00256 Putative NrdI-like protein
+13_212: OHALGOHG_00257 Ribonucleoside-diphosphate reductase subunit beta nrdF2
+13_213: OHALGOHG_00258 hypothetical protein
+13_214: OHALGOHG_00259 2-dehydropantoate 2-reductase
+13_215: OHALGOHG_00260 hypothetical protein
+13_216: OHALGOHG_00261 MreB-like protein
+13_217: OHALGOHG_00262 hypothetical protein
+13_218: OHALGOHG_00263 Peptidoglycan glycosyltransferase RodA
+13_219: OHALGOHG_00264 hypothetical protein
+13_220: OHALGOHG_00265 D-alanine--D-alanine ligase
+13_221: OHALGOHG_00266 HTH-type transcriptional repressor KstR2
+13_222: OHALGOHG_00267 50S ribosomal protein L33 3
+13_223: OHALGOHG_00268 Protein translocase subunit SecE
+13_224: OHALGOHG_00269 Transcription termination/antitermination protein NusG
+13_225: OHALGOHG_00270 50S ribosomal protein L11
+13_226: OHALGOHG_00271 50S ribosomal protein L1
+13_227: OHALGOHG_00272 50S ribosomal protein L10
+13_228: OHALGOHG_00273 50S ribosomal protein L7/L12
+13_229: OHALGOHG_00274 Ribosomal RNA small subunit methyltransferase C
+13_230: OHALGOHG_00275 tRNA-specific adenosine deaminase
+13_231: OHALGOHG_00276 Ribonuclease Y
+13_232: OHALGOHG_00277 DNA polymerase III subunit gamma/tau
+13_233: OHALGOHG_00278 Recombination protein RecR
+13_234: OHALGOHG_00279 hypothetical protein
+13_235: OHALGOHG_00280 Thymidylate kinase
+13_236: OHALGOHG_00281 putative protein YaaQ
+13_237: OHALGOHG_00282 DNA polymerase III subunit gamma/tau
+13_238: OHALGOHG_00283 Ribosomal RNA small subunit methyltransferase I
+13_239: OHALGOHG_00284 hypothetical protein
+13_240: OHALGOHG_00285 UDP-glucose 4-epimerase
+13_241: OHALGOHG_00286 hypothetical protein
+13_242: OHALGOHG_00287 Fe(2+) transporter FeoB
+13_243: OHALGOHG_00288 Catabolite control protein A
+13_244: OHALGOHG_00289 PTS system trehalose-specific EIIBC component
+13_245: OHALGOHG_00290 Sucrose-6-phosphate hydrolase
+13_246: OHALGOHG_00291 Putative fructokinase
+13_247: OHALGOHG_00293 D-alanyl-D-alanine carboxypeptidase
+13_248: OHALGOHG_00294 Deoxyguanosine kinase
+13_249: OHALGOHG_00295 Glutamate 5-kinase
+13_250: OHALGOHG_00296 Gamma-glutamyl phosphate reductase
+13_251: OHALGOHG_00297 Pyrimidine-specific ribonucleoside hydrolase RihB
+13_252: OHALGOHG_00298 Ferredoxin--NADP reductase 2
+13_253: OHALGOHG_00299 hypothetical protein
+13_254: OHALGOHG_00300 putative protein YedJ
+13_255: OHALGOHG_00301 Methionine--tRNA ligase
+13_256: OHALGOHG_00302 Bifunctional ligase/repressor BirA
+13_257: OHALGOHG_00303 Biotin transporter BioY
+13_258: OHALGOHG_00304 L-Lysine--8-amino-7-oxononanoate transaminase
+13_259: OHALGOHG_00305 L-Lysine--8-amino-7-oxononanoate transaminase
+13_260: OHALGOHG_00306 ATP-dependent dethiobiotin synthetase BioD 1
+13_261: OHALGOHG_00307 Glyceraldehyde-3-phosphate dehydrogenase 1
+13_262: OHALGOHG_00308 hypothetical protein
+13_263: OHALGOHG_00309 3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+13_264: OHALGOHG_00310 Multiple antibiotic resistance protein MarR
+13_265: OHALGOHG_00311 3-oxoacyl-[acyl-carrier-protein] synthase 3
+13_266: OHALGOHG_00312 Acyl carrier protein
+13_267: OHALGOHG_00313 Nitronate monooxygenase
+13_268: OHALGOHG_00314 Malonyl CoA-acyl carrier protein transacylase
+13_269: OHALGOHG_00315 3-oxoacyl-[acyl-carrier-protein] reductase FabG
+13_270: OHALGOHG_00316 3-oxoacyl-[acyl-carrier-protein] synthase 2
+13_271: OHALGOHG_00317 Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+13_272: OHALGOHG_00318 3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+13_273: OHALGOHG_00319 2-oxoglutarate carboxylase small subunit
+13_274: OHALGOHG_00320 Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+13_275: OHALGOHG_00321 Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+13_276: OHALGOHG_00323 hypothetical protein
+13_277: OHALGOHG_00324 Valine--tRNA ligase
+13_278: OHALGOHG_00325 3-oxoacyl-[acyl-carrier-protein] synthase 3
+13_279: OHALGOHG_00326 Autolysin
+13_280: OHALGOHG_00327 hypothetical protein
+13_281: OHALGOHG_00328 Autolysin
+13_282: OHALGOHG_00329 Aminoacyltransferase FemA
+13_283: OHALGOHG_00330 Penicillin-binding protein 2B
+13_284: OHALGOHG_00331 Transcriptional repressor SdpR
+13_285: OHALGOHG_00332 Immunity protein SdpI
+13_286: OHALGOHG_00333 Macrolide export ATP-binding/permease protein MacB
+13_287: OHALGOHG_00334 Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+13_288: OHALGOHG_00335 hypothetical protein
+13_289: OHALGOHG_00336 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+13_290: OHALGOHG_00337 3-hydroxy-3-methylglutaryl-coenzyme A reductase
+13_291: OHALGOHG_00338 hypothetical protein
+13_292: OHALGOHG_00339 NAD-dependent protein deacetylase
+13_293: OHALGOHG_00340 Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+13_294: OHALGOHG_00341 Divalent metal cation transporter MntH
+13_295: OHALGOHG_00342 Putative universal stress protein
+13_296: OHALGOHG_00343 HTH-type transcriptional regulator NmtR
+13_297: OHALGOHG_00345 hypothetical protein
+13_298: OHALGOHG_00346 putative deoxycholate-binding periplasmic protein YgiS
+13_299: OHALGOHG_00347 Non-specific ribonucleoside hydrolase RihC
+13_300: OHALGOHG_00348 Ribosomal RNA small subunit methyltransferase G
+13_301: OHALGOHG_00349 Sporulation initiation inhibitor protein Soj
+13_302: OHALGOHG_00350 Stage 0 sporulation protein J
+13_303: OHALGOHG_00351 hypothetical protein
+13_304: OHALGOHG_00352 Ribosome-binding ATPase YchF
+13_305: OHALGOHG_00353 hypothetical protein
+13_306: OHALGOHG_00354 Transcriptional regulatory protein SrrA
+13_307: OHALGOHG_00355 Sensor histidine kinase ResE
+13_308: OHALGOHG_00356 D-alanyl-D-alanine carboxypeptidase DacA
+13_309: OHALGOHG_00357 Glucosamine-6-phosphate deaminase
+13_310: OHALGOHG_00358 Glucose-6-phosphate isomerase
+13_311: OHALGOHG_00359 Mannosyl-D-glycerate transport/metabolism system repressor MngR
+13_312: OHALGOHG_00360 Glycine betaine transport ATP-binding protein OpuAA
+13_313: OHALGOHG_00361 Glycine betaine transport system permease protein OpuAB
+13_314: OHALGOHG_00362 hypothetical protein
+13_315: OHALGOHG_00363 putative protein YhaP
+13_316: OHALGOHG_00364 ABC transporter ATP-binding protein NatA
+13_317: OHALGOHG_00365 hypothetical protein
+13_318: OHALGOHG_00366 hypothetical protein
+13_319: OHALGOHG_00367 hypothetical protein
+13_320: OHALGOHG_00369 hypothetical protein
+13_321: OHALGOHG_00370 Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB
+13_322: OHALGOHG_00371 L-cystine transport system permease protein TcyL
+13_323: OHALGOHG_00372 L-cystine-binding protein TcyK
+13_324: OHALGOHG_00373 L-cystine transport system permease protein TcyM
+13_325: OHALGOHG_00374 L-cystine import ATP-binding protein TcyN
+13_326: OHALGOHG_00375 2-aminoadipate transaminase
+13_327: OHALGOHG_00376 D-lactate/D-glycerate dehydrogenase
+13_328: OHALGOHG_00377 L-cystine import ATP-binding protein TcyC
+13_329: OHALGOHG_00378 Inner membrane transport protein YajR
+13_330: OHALGOHG_00379 Queuine tRNA-ribosyltransferase
+13_331: OHALGOHG_00380 Sec translocon accessory complex subunit YajC
+13_332: OHALGOHG_00381 4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase
+13_333: OHALGOHG_00382 Phosphatidylglycerol lysyltransferase
+13_334: OHALGOHG_00383 5'-deoxynucleotidase YfbR
+13_335: OHALGOHG_00384 RNA pyrophosphohydrolase
+13_336: OHALGOHG_00385 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+13_337: OHALGOHG_00386 Antiseptic resistance protein
+13_338: OHALGOHG_00387 Sucrose phosphorylase
+13_339: OHALGOHG_00388 putative ABC transporter ATP-binding protein
+13_340: OHALGOHG_00389 putative ABC transporter ATP-binding protein
+13_341: OHALGOHG_00390 Alpha-monoglucosyldiacylglycerol synthase
+13_342: OHALGOHG_00391 Processive diacylglycerol alpha-glucosyltransferase
+13_343: OHALGOHG_00392 hypothetical protein
+13_344: OHALGOHG_00393 hypothetical protein
+13_345: OHALGOHG_00394 Lipoteichoic acid synthase 1
+13_346: OHALGOHG_00395 UvrABC system protein B
+13_347: OHALGOHG_00396 UvrABC system protein A
+13_348: OHALGOHG_00397 Putative gluconeogenesis factor
+13_349: OHALGOHG_00398 Putative sporulation transcription regulator WhiA
+13_350: OHALGOHG_00399 ATP-dependent Clp protease proteolytic subunit
+13_351: OHALGOHG_00400 hypothetical protein
+13_352: OHALGOHG_00401 Peptidyl-tRNA hydrolase
+13_353: OHALGOHG_00402 Transcription-repair-coupling factor
+13_354: OHALGOHG_00403 Heat shock protein 15
+13_355: OHALGOHG_00404 Cell division protein FtsL
+13_356: OHALGOHG_00405 tRNA(Ile)-lysidine synthase
+13_357: OHALGOHG_00406 Hypoxanthine-guanine phosphoribosyltransferase
+13_358: OHALGOHG_00407 ATP-dependent zinc metalloprotease FtsH
+13_359: OHALGOHG_00408 33 kDa chaperonin
+13_360: OHALGOHG_00409 Lysine--tRNA ligase
+13_361: OHALGOHG_00413 Ribosomal large subunit pseudouridine synthase E
+13_362: OHALGOHG_00414 putative transcriptional regulatory protein YeeN
+13_363: OHALGOHG_00415 Ferrochelatase
+13_364: OHALGOHG_00417 Adenine permease AdeP
+13_365: OHALGOHG_00418 Methionine import ATP-binding protein MetN
+13_366: OHALGOHG_00419 hypothetical protein
+13_367: OHALGOHG_00420 Sensory transduction protein LytR
+13_368: OHALGOHG_00421 hypothetical protein
+13_369: OHALGOHG_00422 DNA topoisomerase 3
+13_370: OHALGOHG_00423 Multidrug resistance protein Stp
+13_371: OHALGOHG_00424 HTH-type transcriptional regulator EthR
+13_372: OHALGOHG_00425 Alanine racemase
+13_373: OHALGOHG_00427 putative protein YpjQ
+13_374: OHALGOHG_00428 N-acetylglucosamine-6-phosphate deacetylase
+13_375: OHALGOHG_00429 HTH-type transcriptional repressor YvoA
+13_376: OHALGOHG_00430 Methionine import system permease protein MetP
+13_377: OHALGOHG_00431 Methionine import ATP-binding protein MetN
+13_378: OHALGOHG_00432 Succinyl-diaminopimelate desuccinylase
+13_379: OHALGOHG_00433 D-methionine-binding lipoprotein MetQ
+13_380: OHALGOHG_00434 D-methionine-binding lipoprotein MetQ
+13_381: OHALGOHG_00435 hypothetical protein
+13_382: OHALGOHG_00436 hypothetical protein
+13_383: OHALGOHG_00437 Calcium-transporting ATPase 1
+13_384: OHALGOHG_00438 hypothetical protein
+13_385: OHALGOHG_00439 Beta-1,6-galactofuranosyltransferase WbbI
+13_386: OHALGOHG_00440 Membrane lipoprotein TmpC
+13_387: OHALGOHG_00441 putative glutamine ABC transporter permease protein GlnM
+13_388: OHALGOHG_00442 Glutamine transport ATP-binding protein GlnQ
+13_389: OHALGOHG_00443 Glutamine-binding periplasmic protein
+13_390: OHALGOHG_00444 Competence protein CoiA
+13_391: OHALGOHG_00445 hypothetical protein
+13_392: OHALGOHG_00446 Oligoendopeptidase F, plasmid
+13_393: OHALGOHG_00447 Cytidine deaminase
+13_394: OHALGOHG_00448 Nucleoside deoxyribosyltransferase
+13_395: OHALGOHG_00449 Glyoxylate/hydroxypyruvate reductase B
+13_396: OHALGOHG_00450 HTH-type transcriptional regulator YodB
+13_397: OHALGOHG_00451 Phenylalanine--tRNA ligase alpha subunit
+13_398: OHALGOHG_00452 Phenylalanine--tRNA ligase beta subunit
+13_399: OHALGOHG_00453 UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+13_400: OHALGOHG_00454 50S ribosomal protein L31 type B
+13_401: OHALGOHG_00455 23S rRNA (uracil-C(5))-methyltransferase RlmCD
+13_402: OHALGOHG_00456 UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+13_403: OHALGOHG_00457 Putative penicillin-binding protein PbpX
+13_404: OHALGOHG_00458 ATP-dependent RNA helicase CshA
+13_405: OHALGOHG_00459 Folylpolyglutamate synthase
+13_406: OHALGOHG_00460 putative transport protein HsrA
+13_407: OHALGOHG_00461 hypothetical protein
+13_408: OHALGOHG_00462 Thymidylate synthase
+13_409: OHALGOHG_00463 tRNA-specific adenosine deaminase
+13_410: OHALGOHG_00464 Bifunctional protein FolD protein
+13_411: OHALGOHG_00465 ComG operon protein 1
+13_412: OHALGOHG_00466 hypothetical protein
+13_413: OHALGOHG_00467 hypothetical protein
+13_414: OHALGOHG_00468 hypothetical protein
+13_415: OHALGOHG_00469 hypothetical protein
+13_416: OHALGOHG_00470 hypothetical protein
+13_417: OHALGOHG_00471 hypothetical protein
+13_418: OHALGOHG_00472 hypothetical protein
+13_419: OHALGOHG_00473 Acetate kinase
+13_420: OHALGOHG_00474 Exo-glucosaminidase LytG
+13_421: OHALGOHG_00475 Glucose uptake protein GlcU
+13_422: OHALGOHG_00476 Transcription elongation factor GreA
+13_423: OHALGOHG_00477 hypothetical protein
+13_424: OHALGOHG_00478 hypothetical protein
+13_425: OHALGOHG_00479 hypothetical protein
+13_426: OHALGOHG_00480 hypothetical protein
+13_427: OHALGOHG_00481 hypothetical protein
+13_428: OHALGOHG_00482 hypothetical protein
+13_429: OHALGOHG_00483 Leucine-specific-binding protein
+13_430: OHALGOHG_00484 High-affinity branched-chain amino acid transport system permease protein LivH
+13_431: OHALGOHG_00485 High-affinity branched-chain amino acid transport system permease protein LivH
+13_432: OHALGOHG_00486 Lipopolysaccharide export system ATP-binding protein LptB
+13_433: OHALGOHG_00487 High-affinity branched-chain amino acid transport ATP-binding protein LivF
+13_434: OHALGOHG_00488 Hydroxyethylthiazole kinase
+13_435: OHALGOHG_00489 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+13_436: OHALGOHG_00490 Thiamine-phosphate synthase
+13_437: OHALGOHG_00491 Aldehyde dehydrogenase
+13_438: OHALGOHG_00492 hypothetical protein
+13_439: OHALGOHG_00493 Oligoendopeptidase F, plasmid
+13_440: OHALGOHG_00494 putative protein
+13_441: OHALGOHG_00495 Peroxide-responsive repressor PerR
+13_442: OHALGOHG_00496 hypothetical protein
+13_443: OHALGOHG_00497 hypothetical protein
+13_444: OHALGOHG_00498 hypothetical protein
+13_445: OHALGOHG_00499 hypothetical protein
+13_446: OHALGOHG_00500 Sodium, potassium, lithium and rubidium/H(+) antiporter
+13_447: OHALGOHG_00501 HTH-type transcriptional regulator KdgR
+13_448: OHALGOHG_00502 hypothetical protein
+13_449: OHALGOHG_00503 hypothetical protein
+13_450: OHALGOHG_00504 hypothetical protein
+13_451: OHALGOHG_00505 2-dehydro-3-deoxygluconokinase
+13_452: OHALGOHG_00506 Hydroxypyruvate reductase
+13_453: OHALGOHG_00507 Aminopeptidase N
+13_454: OHALGOHG_00508 Oleate hydratase
+13_455: OHALGOHG_00509 Xaa-Pro dipeptidyl-peptidase
+13_456: OHALGOHG_00510 PTS system glucose-specific EIIA component
+13_457: OHALGOHG_00511 PTS system beta-glucoside-specific EIIBCA component
+13_458: OHALGOHG_00512 Trehalose-6-phosphate hydrolase
+13_459: OHALGOHG_00513 HTH-type transcriptional regulator TreR
+13_460: OHALGOHG_00514 hypothetical protein
+13_461: OHALGOHG_00515 putative beta-barrel protein YwiB
+13_462: OHALGOHG_00516 putative DNA-directed RNA polymerase subunit delta
+13_463: OHALGOHG_00518 putative transport protein YifK
+13_464: OHALGOHG_00519 Biotin transporter BioY
+13_465: OHALGOHG_00520 Bifunctional ligase/repressor BirA
+13_466: OHALGOHG_00521 CTP synthase
+13_467: OHALGOHG_00522 UvrABC system protein C
+13_468: OHALGOHG_00523 GTPase Obg
+13_469: OHALGOHG_00524 Acetolactate synthase
+13_470: OHALGOHG_00525 hypothetical protein
+13_471: OHALGOHG_00526 Aminopeptidase PepS
+13_472: OHALGOHG_00527 Autolytic lysozyme
+13_473: OHALGOHG_00528 scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+13_474: OHALGOHG_00529 putative ATP-dependent RNA helicase YfmL
+13_475: OHALGOHG_00530 Formamidopyrimidine-DNA glycosylase
+13_476: OHALGOHG_00531 hypothetical protein
+13_477: OHALGOHG_00532 Dephospho-CoA kinase
+13_478: OHALGOHG_00533 Replication initiation and membrane attachment protein
+13_479: OHALGOHG_00534 Primosomal protein DnaI
+13_480: OHALGOHG_00535 hypothetical protein
+13_481: OHALGOHG_00536 hypothetical protein
+13_482: OHALGOHG_00537 hypothetical protein
+13_483: OHALGOHG_00539 ATP-dependent DNA helicase RecG
+13_484: OHALGOHG_00540 Phosphate acyltransferase
+13_485: OHALGOHG_00541 Acyl carrier protein
+13_486: OHALGOHG_00542 Protein SprT-like protein
+13_487: OHALGOHG_00543 Sugar phosphatase YidA
+13_488: OHALGOHG_00544 hypothetical protein
+13_489: OHALGOHG_00545 hypothetical protein
+13_490: OHALGOHG_00546 Xaa-Pro dipeptidase
+13_491: OHALGOHG_00547 Catabolite control protein A
+13_492: OHALGOHG_00548 O-acetyltransferase OatA
+13_493: OHALGOHG_00549 Riboflavin transporter RibZ
+13_494: OHALGOHG_00550 Na(+)/H(+)-K(+) antiporter GerN
+13_495: OHALGOHG_00551 putative inner membrane transporter YicL
+13_496: OHALGOHG_00552 Alpha-acetolactate decarboxylase
+13_497: OHALGOHG_00553 HTH-type transcriptional regulator HexR
+13_498: OHALGOHG_00554 6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating
+13_499: OHALGOHG_00555 Xylulose kinase
+13_500: OHALGOHG_00556 Gnt-II system L-idonate transporter
+13_501: OHALGOHG_00557 putative amino acid permease YhdG
+13_502: OHALGOHG_00558 Isoleucine 2-epimerase
+13_503: OHALGOHG_00559 Alanine--tRNA ligase
+13_504: OHALGOHG_00560 hypothetical protein
+13_505: OHALGOHG_00561 Putative pre-16S rRNA nuclease
+13_506: OHALGOHG_00562 hypothetical protein
+13_507: OHALGOHG_00563 Cytochrome bd-I ubiquinol oxidase subunit 1
+13_508: OHALGOHG_00564 Cytochrome bd-I ubiquinol oxidase subunit 2
+13_509: OHALGOHG_00565 ATP-binding/permease protein CydD
+13_510: OHALGOHG_00566 putative ABC transporter ATP-binding protein
+13_511: OHALGOHG_00567 Exo-glucosaminidase LytG
+13_512: OHALGOHG_00568 Spermidine N(1)-acetyltransferase
+13_513: OHALGOHG_00569 ATP-dependent DNA helicase PcrA
+13_514: OHALGOHG_00570 hypothetical protein
+13_515: OHALGOHG_00571 DNA ligase
+13_516: OHALGOHG_00572 hypothetical protein
+13_517: OHALGOHG_00573 hypothetical protein
+13_518: OHALGOHG_00574 ATP-dependent Clp protease ATP-binding subunit ClpE
+13_519: OHALGOHG_00575 hypothetical protein
+13_520: OHALGOHG_00576 Rod shape-determining protein MreB
+13_521: OHALGOHG_00577 Cell shape-determining protein MreC
+13_522: OHALGOHG_00578 hypothetical protein
+13_523: OHALGOHG_00579 L-cystine transport system permease protein YecS
+13_524: OHALGOHG_00580 Glutamine transport ATP-binding protein GlnQ
+13_525: OHALGOHG_00581 L-cystine-binding protein FliY
+13_526: OHALGOHG_00582 Cardiolipin synthase
+13_527: OHALGOHG_00583 hypothetical protein
+13_528: OHALGOHG_00584 putative zinc protease
+13_529: OHALGOHG_00585 hypothetical protein
+13_530: OHALGOHG_00586 CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+13_531: OHALGOHG_00587 Protein RecA
+13_532: OHALGOHG_00588 Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+13_533: OHALGOHG_00589 Phosphate-binding protein PstS 1
+13_534: OHALGOHG_00590 hypothetical protein
+13_535: OHALGOHG_00591 Alkaline phosphatase synthesis sensor protein PhoR
+13_536: OHALGOHG_00592 Phosphate-binding protein PstS 1
+13_537: OHALGOHG_00593 Phosphate transport system permease protein PstC 1
+13_538: OHALGOHG_00594 Phosphate transport system permease protein PstA 2
+13_539: OHALGOHG_00595 Phosphate import ATP-binding protein PstB 3
+13_540: OHALGOHG_00596 Phosphate import ATP-binding protein PstB 3
+13_541: OHALGOHG_00597 Phosphate-specific transport system accessory protein PhoU
+13_542: OHALGOHG_00598 Inner membrane protein YbiR
+13_543: OHALGOHG_00599 hypothetical protein
+13_544: OHALGOHG_00600 HPr kinase/phosphorylase
+13_545: OHALGOHG_00601 Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+13_546: OHALGOHG_00602 UTP--glucose-1-phosphate uridylyltransferase
+13_547: OHALGOHG_00603 Thioredoxin reductase
+13_548: OHALGOHG_00604 hypothetical protein
+13_549: OHALGOHG_00605 hypothetical protein
+13_550: OHALGOHG_00606 2-deoxy-scyllo-inosamine dehydrogenase
+13_551: OHALGOHG_00607 HTH-type transcriptional regulator DegA
+13_552: OHALGOHG_00608 Protein DedA
+13_553: OHALGOHG_00609 Phosphoglucomutase
+13_554: OHALGOHG_00610 50S ribosomal protein L19
+13_555: OHALGOHG_00611 putative protein YslB
+13_556: OHALGOHG_00612 Glutamate racemase
+13_557: OHALGOHG_00613 dITP/XTP pyrophosphatase
+13_558: OHALGOHG_00614 Phosphodiesterase YfcE
+13_559: OHALGOHG_00615 Holliday junction ATP-dependent DNA helicase RuvB
+13_560: OHALGOHG_00616 hypothetical protein
+13_561: OHALGOHG_00617 S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+13_562: OHALGOHG_00618 Glycerophosphodiester phosphodiesterase
+13_563: OHALGOHG_00619 Holliday junction ATP-dependent DNA helicase RuvA
+13_564: OHALGOHG_00620 Deoxyguanosine kinase
+13_565: OHALGOHG_00621 Large-conductance mechanosensitive channel
+13_566: OHALGOHG_00622 hypothetical protein
+13_567: OHALGOHG_00623 putative ABC transporter ATP-binding protein
+13_568: OHALGOHG_00624 Pantothenate transporter PanT
+13_569: OHALGOHG_00626 Pantothenate transporter PanT
+13_570: OHALGOHG_00627 hypothetical protein
+13_571: OHALGOHG_00628 Ribonuclease J 2
+13_572: OHALGOHG_00629 hypothetical protein
+13_573: OHALGOHG_00630 Elongation factor Tu
+13_574: OHALGOHG_00631 hypothetical protein
+13_575: OHALGOHG_00632 Arginine transport ATP-binding protein ArtM
+13_576: OHALGOHG_00633 Ribose-5-phosphate isomerase A
+13_577: OHALGOHG_00634 Putative universal stress protein
+13_578: OHALGOHG_00635 Putative peptidyl-prolyl cis-trans isomerase
+13_579: OHALGOHG_00636 hypothetical protein
+13_580: OHALGOHG_00637 Phosphatidylglycerophosphatase B
+13_581: OHALGOHG_00638 Leucine--tRNA ligase
+13_582: OHALGOHG_00639 Lipid II flippase MurJ
+13_583: OHALGOHG_00640 hypothetical protein
+13_584: OHALGOHG_00641 hypothetical protein
+13_585: OHALGOHG_00642 Protein LemA
+13_586: OHALGOHG_00643 Protease HtpX
+13_587: OHALGOHG_00644 hypothetical protein
+13_588: OHALGOHG_00645 putative tautomerase.1
+13_589: OHALGOHG_00646 Murein DD-endopeptidase MepH
+13_590: OHALGOHG_00647 hypothetical protein
+13_591: OHALGOHG_00648 Inosine-5'-monophosphate dehydrogenase
+13_592: OHALGOHG_00649 Inosine-5'-monophosphate dehydrogenase
+13_593: OHALGOHG_00650 GMP synthase [glutamine-hydrolyzing]
+13_594: OHALGOHG_00651 GMP synthase [glutamine-hydrolyzing]
+13_595: OHALGOHG_00652 hypothetical protein
+13_596: OHALGOHG_00653 hypothetical protein
+13_597: OHALGOHG_00654 hypothetical protein
+13_598: OHALGOHG_00655 Holliday junction resolvase RecU
+13_599: OHALGOHG_00656 Penicillin-binding protein 1A
+13_600: OHALGOHG_00657 hypothetical protein
+13_601: OHALGOHG_00658 Cell cycle protein GpsB
+13_602: OHALGOHG_00659 Arginine transport system permease protein ArtQ
+13_603: OHALGOHG_00660 6-phosphogluconolactonase
+13_604: OHALGOHG_00661 Putative transport protein
+13_605: OHALGOHG_00662 tRNA (cytidine(34)-2'-O)-methyltransferase
+13_606: OHALGOHG_00664 DNA translocase FtsK
+13_607: OHALGOHG_00665 hypothetical protein
+13_608: OHALGOHG_00666 Threonine--tRNA ligase
+13_609: OHALGOHG_00667 DL-alanine permease SerP2
+13_610: OHALGOHG_00668 Protein DedA
+13_611: OHALGOHG_00669 hypothetical protein
+13_612: OHALGOHG_00670 hypothetical protein
+13_613: OHALGOHG_00671 Diaminopimelate decarboxylase
+13_614: OHALGOHG_00672 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+13_615: OHALGOHG_00673 N-acetyldiaminopimelate deacetylase
+13_616: OHALGOHG_00674 4-hydroxy-tetrahydrodipicolinate synthase
+13_617: OHALGOHG_00675 4-hydroxy-tetrahydrodipicolinate reductase
+13_618: OHALGOHG_00676 Regulatory protein RecX
+13_619: OHALGOHG_00677 hypothetical protein
+13_620: OHALGOHG_00678 Rhomboid protease GluP
+13_621: OHALGOHG_00679 hypothetical protein
+13_622: OHALGOHG_00680 Glucokinase
+13_623: OHALGOHG_00681 hypothetical protein
+13_624: OHALGOHG_00682 GTP pyrophosphokinase YjbM
+13_625: OHALGOHG_00683 NAD kinase
+13_626: OHALGOHG_00684 Ribosomal large subunit pseudouridine synthase C
+13_627: OHALGOHG_00685 Magnesium transporter MgtE
+13_628: OHALGOHG_00686 hypothetical protein
+13_629: OHALGOHG_00687 Adenine deaminase
+13_630: OHALGOHG_00688 Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+13_631: OHALGOHG_00689 Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+13_632: OHALGOHG_00690 Phosphatidate cytidylyltransferase
+13_633: OHALGOHG_00691 Putative zinc metalloprotease
+13_634: OHALGOHG_00692 Proline--tRNA ligase
+13_635: OHALGOHG_00693 DNA polymerase III PolC-type
+13_636: OHALGOHG_00694 Protein PsiE
+13_637: OHALGOHG_00695 Bifunctional ribokinase/ribose-5-phosphate isomerase A
+13_638: OHALGOHG_00696 Ribosomal RNA small subunit methyltransferase F
+13_639: OHALGOHG_00697 Membrane lipoprotein TmpC
+13_640: OHALGOHG_00698 hypothetical protein
+13_641: OHALGOHG_00699 Phosphoserine phosphatase 1
+13_642: OHALGOHG_00700 ATP-dependent RecD-like DNA helicase
+13_643: OHALGOHG_00701 Ribose-phosphate pyrophosphokinase
+13_644: OHALGOHG_00702 hypothetical protein
+13_645: OHALGOHG_00703 L-glyceraldehyde 3-phosphate reductase
+13_646: OHALGOHG_00704 Phosphoribosylamine--glycine ligase
+13_647: OHALGOHG_00705 Formate--tetrahydrofolate ligase 1
+13_648: OHALGOHG_00706 Ferrous-iron efflux pump FieF
+13_649: OHALGOHG_00707 Cold shock-like protein CspG
+13_650: OHALGOHG_00708 ADP-ribose pyrophosphatase
+13_651: OHALGOHG_00709 hypothetical protein
+13_652: OHALGOHG_00710 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+13_653: OHALGOHG_00711 Phenylalanine--tRNA ligase beta subunit
+13_654: OHALGOHG_00712 UDP-N-acetylmuramate--L-alanine ligase
+13_655: OHALGOHG_00713 Inner membrane protein YbhL
+13_656: OHALGOHG_00714 hypothetical protein
+13_657: OHALGOHG_00715 Levanbiose-producing levanase
+13_658: OHALGOHG_00716 DNA polymerase I
+13_659: OHALGOHG_00717 hypothetical protein
+13_660: OHALGOHG_00718 hypothetical protein
+13_661: OHALGOHG_00719 HTH-type transcriptional regulator GlnR
+13_662: OHALGOHG_00720 Glutamine synthetase
+13_663: OHALGOHG_00721 N5-carboxyaminoimidazole ribonucleotide mutase
+13_664: OHALGOHG_00722 N5-carboxyaminoimidazole ribonucleotide synthase
+13_665: OHALGOHG_00723 Phosphoribosylaminoimidazole-succinocarboxamide synthase
+13_666: OHALGOHG_00724 Phosphoribosylformylglycinamidine synthase subunit PurS
+13_667: OHALGOHG_00725 Phosphoribosylformylglycinamidine synthase subunit PurQ
+13_668: OHALGOHG_00726 Phosphoribosylformylglycinamidine synthase subunit PurL
+13_669: OHALGOHG_00727 Amidophosphoribosyltransferase
+13_670: OHALGOHG_00728 Phosphoribosylformylglycinamidine cyclo-ligase
+13_671: OHALGOHG_00729 Phosphoribosylglycinamide formyltransferase
+13_672: OHALGOHG_00730 Bifunctional purine biosynthesis protein PurH
+13_673: OHALGOHG_00731 putative metallophosphoesterase YhaO
+13_674: OHALGOHG_00732 putative protein YhaN
+13_675: OHALGOHG_00733 3'-5' exoribonuclease YhaM
+13_676: OHALGOHG_00734 hypothetical protein
+13_677: OHALGOHG_00735 hypothetical protein
+13_678: OHALGOHG_00736 Folylpolyglutamate synthase
+13_679: OHALGOHG_00737 putative tRNA-dihydrouridine synthase
+13_680: OHALGOHG_00738 UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+13_681: OHALGOHG_00739 Lipoate-protein ligase LplJ
+13_682: OHALGOHG_00740 Pyruvate dehydrogenase E1 component subunit alpha
+13_683: OHALGOHG_00741 Pyruvate dehydrogenase E1 component subunit beta
+13_684: OHALGOHG_00742 Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+13_685: OHALGOHG_00743 Dihydrolipoyl dehydrogenase
+13_686: OHALGOHG_00744 AB hydrolase superfamily protein YdjP
+13_687: OHALGOHG_00745 hypothetical protein
+13_688: OHALGOHG_00746 hypothetical protein
+13_689: OHALGOHG_00748 hypothetical protein
+13_690: OHALGOHG_00749 hypothetical protein
+13_691: OHALGOHG_00750 DNA topoisomerase 1
+13_692: OHALGOHG_00751 hypothetical protein
+13_693: OHALGOHG_00752 hypothetical protein
+13_694: OHALGOHG_00753 Pyridoxine kinase
+13_695: OHALGOHG_00754 Salicylate biosynthesis isochorismate synthase
+13_696: OHALGOHG_00755 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+13_697: OHALGOHG_00756 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+13_698: OHALGOHG_00757 o-succinylbenzoate synthase
+13_699: OHALGOHG_00758 Beta-barrel assembly-enhancing protease
+13_700: OHALGOHG_00759 CCA-adding enzyme
+13_701: OHALGOHG_00760 Dihydrofolate reductase
+13_702: OHALGOHG_00761 DegV domain-containing protein
+13_703: OHALGOHG_00762 Pyrimidine-specific ribonucleoside hydrolase RihA
+13_704: OHALGOHG_00763 hypothetical protein
+13_705: OHALGOHG_00764 Spore germination lipase LipC
+13_706: OHALGOHG_00765 hypothetical protein
+13_707: OHALGOHG_00766 hypothetical protein
+13_708: OHALGOHG_00767 Ribosome biogenesis GTPase A
+13_709: OHALGOHG_00768 Ribonuclease HII
+13_710: OHALGOHG_00769 Putative HMP/thiamine permease protein YkoC
+13_711: OHALGOHG_00770 Putative HMP/thiamine import ATP-binding protein YkoD
+13_712: OHALGOHG_00771 hypothetical protein
+13_713: OHALGOHG_00772 Putative HMP/thiamine permease protein YkoE
+13_714: OHALGOHG_00773 tRNA (adenine(22)-N(1))-methyltransferase
+13_715: OHALGOHG_00774 GTP cyclohydrolase 1 type 2
+13_716: OHALGOHG_00775 Peptidase T
+13_717: OHALGOHG_00776 hypothetical protein
+13_718: OHALGOHG_00777 DNA polymerase III subunit alpha
+13_719: OHALGOHG_00778 Pyruvate kinase
+13_720: OHALGOHG_00779 Ammonium transporter
+13_721: OHALGOHG_00780 PhoH-like protein
+13_722: OHALGOHG_00781 Endoribonuclease YbeY
+13_723: OHALGOHG_00782 Undecaprenol kinase
+13_724: OHALGOHG_00783 GTPase Era
+13_725: OHALGOHG_00784 DNA repair protein RecO
+13_726: OHALGOHG_00785 L-asparaginase 2
+13_727: OHALGOHG_00786 phosphoglycerate mutase GpmB
+13_728: OHALGOHG_00787 Aspartokinase 3
+13_729: OHALGOHG_00788 Homoserine kinase
+13_730: OHALGOHG_00789 Homoserine dehydrogenase
+13_731: OHALGOHG_00790 Threonine synthase
+13_732: OHALGOHG_00791 Serine hydroxymethyltransferase
+13_733: OHALGOHG_00792 putative protein YqgN
+13_734: OHALGOHG_00793 Cyclopropane-fatty-acyl-phospholipid synthase
+13_735: OHALGOHG_00794 2,5-diketo-D-gluconic acid reductase B
+13_736: OHALGOHG_00795 hypothetical protein
+13_737: OHALGOHG_00796 Ribose-5-phosphate isomerase A
+13_738: OHALGOHG_00797 Bifunctional ribokinase/ribose-5-phosphate isomerase A
+13_739: OHALGOHG_00798 HTH-type transcriptional regulator DegA
+13_740: OHALGOHG_00799 Purine nucleoside transport protein NupG
+13_741: OHALGOHG_00800 Pyrimidine-specific ribonucleoside hydrolase RihA
+13_742: OHALGOHG_00801 Pyrimidine-specific ribonucleoside hydrolase RihB
+13_743: OHALGOHG_00802 H(+)/Cl(-) exchange transporter ClcA
+13_744: OHALGOHG_00803 Arabinose 5-phosphate isomerase KdsD
+13_745: OHALGOHG_00804 2-dehydro-3-deoxyphosphooctonate aldolase
+13_746: OHALGOHG_00805 Zinc-specific metallo-regulatory protein
+13_747: OHALGOHG_00806 Metal ABC transporter substrate-binding lipoprotein
+13_748: OHALGOHG_00807 Iron(3+)-hydroxamate import ATP-binding protein FhuC
+13_749: OHALGOHG_00808 High-affinity zinc uptake system membrane protein ZnuB
+13_750: OHALGOHG_00809 Dihydrolipoyl dehydrogenase
+13_751: OHALGOHG_00810 hypothetical protein
+13_752: OHALGOHG_00811 hypothetical protein
+13_753: OHALGOHG_00812 Adenine deaminase
+13_754: OHALGOHG_00813 Deoxyribodipyrimidine photo-lyase
+13_755: OHALGOHG_00814 putative ABC transporter permease
+13_756: OHALGOHG_00815 Putative hemin import ATP-binding protein HrtA
+13_757: OHALGOHG_00816 HTH-type transcriptional regulator AcrR
+13_758: OHALGOHG_00817 Putative membrane protein YdgH
+13_759: OHALGOHG_00818 Putative membrane protein YdgH
+13_760: OHALGOHG_00819 Putative universal stress protein
+13_761: OHALGOHG_00820 hypothetical protein
+13_762: OHALGOHG_00821 Ferredoxin-dependent glutamate synthase 1
+13_763: OHALGOHG_00822 Glutamate synthase [NADPH] small chain
+13_764: OHALGOHG_00823 hypothetical protein
+13_765: OHALGOHG_00824 Inosamine-phosphate amidinotransferase 1
+13_766: OHALGOHG_00825 Riboflavin biosynthesis protein RibD
+13_767: OHALGOHG_00826 Riboflavin synthase
+13_768: OHALGOHG_00827 Riboflavin biosynthesis protein RibBA
+13_769: OHALGOHG_00828 6,7-dimethyl-8-ribityllumazine synthase
+13_770: OHALGOHG_00829 Calcium-transporting ATPase 1
+13_771: OHALGOHG_00830 Antiseptic resistance protein
+13_772: OHALGOHG_00831 Oligo-1,6-glucosidase
+13_773: OHALGOHG_00832 Catabolite control protein A
+13_774: OHALGOHG_00833 hypothetical protein
+13_775: OHALGOHG_00834 hypothetical protein
+13_776: OHALGOHG_00835 hypothetical protein
+13_777: OHALGOHG_00836 putative protease YdeA
+13_778: OHALGOHG_00837 Response regulator protein GraR
+13_779: OHALGOHG_00838 Sensor histidine kinase GraS
+13_780: OHALGOHG_00839 Bacitracin export ATP-binding protein BceA
+13_781: OHALGOHG_00840 Bacitracin export permease protein BceB
+13_782: OHALGOHG_00841 Hydrogen peroxide-inducible genes activator
+13_783: OHALGOHG_00842 2,2-dialkylglycine decarboxylase
+13_784: OHALGOHG_00843 Serine acetyltransferase
+13_785: OHALGOHG_00844 Putative ribosomal N-acetyltransferase YdaF
+13_786: OHALGOHG_00845 Aldo-keto reductase IolS
+13_787: OHALGOHG_00846 8-oxo-dGTP diphosphatase
+13_788: OHALGOHG_00847 Melibiose operon regulatory protein
+13_789: OHALGOHG_00848 Beta-galactosidase BgaA
+13_790: OHALGOHG_00849 hypothetical protein
+13_791: OHALGOHG_00850 Endoglucanase C
+13_792: OHALGOHG_00851 Beta-xylosidase
+13_793: OHALGOHG_00852 Inner membrane protein YgaZ
+13_794: OHALGOHG_00853 hypothetical protein
+13_795: OHALGOHG_00854 Arabinose metabolism transcriptional repressor
+13_796: OHALGOHG_00855 L-arabinose isomerase
+13_797: OHALGOHG_00856 D-xylose transporter
+13_798: OHALGOHG_00857 Ribulokinase
+13_799: OHALGOHG_00858 L-ribulose-5-phosphate 4-epimerase AraD
+13_800: OHALGOHG_00859 hypothetical protein
+13_801: OHALGOHG_00860 Glucosyltransferase-SI
+13_802: OHALGOHG_00861 putative oxidoreductase YghA
+13_803: OHALGOHG_00862 hypothetical protein
+13_804: OHALGOHG_00863 hypothetical protein
+13_805: OHALGOHG_00864 hypothetical protein
+13_806: OHALGOHG_00865 hypothetical protein
+13_807: OHALGOHG_00866 Stress response regulator gls24
+13_808: OHALGOHG_00867 hypothetical protein
+13_809: OHALGOHG_00868 hypothetical protein
+13_810: OHALGOHG_00869 hypothetical protein
+13_811: OHALGOHG_00870 2,5-diketo-D-gluconic acid reductase B
+13_812: OHALGOHG_00871 Major myo-inositol transporter IolT
+13_813: OHALGOHG_00872 General stress protein 30
+13_814: OHALGOHG_00873 hypothetical protein
+13_815: OHALGOHG_00874 HTH-type transcriptional regulator AscG
+13_816: OHALGOHG_00875 hypothetical protein
+13_817: OHALGOHG_00876 Bacillibactin exporter
+13_818: OHALGOHG_00877 Thermostable beta-glucosidase B
+13_819: OHALGOHG_00878 Quinone reductase
+13_820: OHALGOHG_00879 hypothetical protein
+13_821: OHALGOHG_00880 hypothetical protein
+13_822: OHALGOHG_00881 hypothetical protein
+13_823: OHALGOHG_00882 Lactose permease
+13_824: OHALGOHG_00883 HTH-type transcriptional regulator LacR
+13_825: OHALGOHG_00884 Alpha-galactosidase Mel36A
+13_826: OHALGOHG_00885 Galactokinase
+13_827: OHALGOHG_00886 Galactose-1-phosphate uridylyltransferase
+13_828: OHALGOHG_00887 UvrABC system protein A
+13_829: OHALGOHG_00888 hypothetical protein
+13_830: OHALGOHG_00889 hypothetical protein
+13_831: OHALGOHG_00890 HTH-type transcriptional activator Btr
+13_832: OHALGOHG_00891 Intracellular exo-alpha-L-arabinofuranosidase 2
+13_833: OHALGOHG_00892 HTH-type transcriptional regulator MalR
+13_834: OHALGOHG_00893 Ribose operon repressor
+13_835: OHALGOHG_00894 hypothetical protein
+13_836: OHALGOHG_00895 Maltose phosphorylase
+13_837: OHALGOHG_00896 Beta-phosphoglucomutase
+13_838: OHALGOHG_00897 Catabolite control protein A
+13_839: OHALGOHG_00898 Oligo-1,6-glucosidase
+13_840: OHALGOHG_00899 hypothetical protein
+13_841: OHALGOHG_00900 Oligo-1,6-glucosidase
+13_842: OHALGOHG_00901 Transcription antiterminator LicT
+13_843: OHALGOHG_00902 PTS system beta-glucoside-specific EIIBCA component
+13_844: OHALGOHG_00903 Aryl-phospho-beta-D-glucosidase BglH
+13_845: OHALGOHG_00904 Putative ribosomal N-acetyltransferase YdaF
+13_846: OHALGOHG_00905 Free methionine-R-sulfoxide reductase
+13_847: OHALGOHG_00906 Lipid II flippase MurJ
+13_848: OHALGOHG_00907 hypothetical protein
+13_849: OHALGOHG_00908 hypothetical protein
+13_850: OHALGOHG_00909 hypothetical protein
+13_851: OHALGOHG_00910 3-oxoacyl-[acyl-carrier-protein] reductase FabG
+13_852: OHALGOHG_00911 hypothetical protein
+13_853: OHALGOHG_00912 Putative niacin/nicotinamide transporter NaiP
+13_854: OHALGOHG_00913 putative zinc-type alcohol dehydrogenase-like protein YdjJ
+13_855: OHALGOHG_00914 hypothetical protein
+13_856: OHALGOHG_00915 putative siderophore transport system ATP-binding protein YusV
+13_857: OHALGOHG_00916 hypothetical protein
+13_858: OHALGOHG_00917 Thiamine precursor transporter HmpT
+13_859: OHALGOHG_00918 Putative phosphatase
+13_860: OHALGOHG_00919 Enterobactin exporter EntS
+13_861: OHALGOHG_00920 Putative cysteine protease YraA
+13_862: OHALGOHG_00921 hypothetical protein
+13_863: OHALGOHG_00922 Putative N-acetyl-LL-diaminopimelate aminotransferase
+13_864: OHALGOHG_00923 2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+13_865: OHALGOHG_00924 High-affinity gluconate transporter
+13_866: OHALGOHG_00925 6-phosphogluconate dehydrogenase, decarboxylating
+13_867: OHALGOHG_00926 Microcin C7 self-immunity protein MccF
+13_868: OHALGOHG_00927 hypothetical protein
+13_869: OHALGOHG_00928 6-phospho-beta-glucosidase BglA
+13_870: OHALGOHG_00929 PTS system cellobiose-specific EIIB component
+13_871: OHALGOHG_00930 putative licABCH operon regulator
+13_872: OHALGOHG_00931 Lichenan-specific phosphotransferase enzyme IIA component
+13_873: OHALGOHG_00932 hypothetical protein
+13_874: OHALGOHG_00933 PTS system oligo-beta-mannoside-specific EIIC component
+13_875: OHALGOHG_00934 Uric acid permease PucK
+13_876: OHALGOHG_00935 hypothetical protein
+13_877: OHALGOHG_00936 Long-chain acyl-protein thioester reductase
+13_878: OHALGOHG_00937 3-oxoacyl-[acyl-carrier-protein] reductase FabG
+13_879: OHALGOHG_00938 hypothetical protein
+13_880: OHALGOHG_00939 Hydroxyethylthiazole kinase
+13_881: OHALGOHG_00940 PTS system oligo-beta-mannoside-specific EIIB component
+13_882: OHALGOHG_00941 Lichenan permease IIC component
+13_883: OHALGOHG_00942 PTS system lactose-specific EIIA component
+13_884: OHALGOHG_00943 Aryl-phospho-beta-D-glucosidase BglH
+13_885: OHALGOHG_00944 hypothetical protein
+13_886: OHALGOHG_00945 putative HTH-type transcriptional regulator YybR
+13_887: OHALGOHG_00946 HTH-type transcriptional regulator MgrA
+13_888: OHALGOHG_00947 Dihydrolipoyl dehydrogenase
+13_889: OHALGOHG_00948 Zinc-type alcohol dehydrogenase-like protein
+13_890: OHALGOHG_00949 hypothetical protein
+13_891: OHALGOHG_00950 General stress protein A
+13_892: OHALGOHG_00951 Fe(3+) dicitrate transport ATP-binding protein FecE
+13_893: OHALGOHG_00952 Manganese transport system membrane protein MntB
+13_894: OHALGOHG_00953 Metal ABC transporter substrate-binding lipoprotein
+13_895: OHALGOHG_00954 Alpha-acetolactate decarboxylase
+13_896: OHALGOHG_00955 hypothetical protein
+13_897: OHALGOHG_00956 Transcriptional regulatory protein SrrA
+13_898: OHALGOHG_00957 Sensor histidine kinase ResE
+13_899: OHALGOHG_00958 hypothetical protein
+13_900: OHALGOHG_00959 hypothetical protein
+13_901: OHALGOHG_00960 hypothetical protein
+13_902: OHALGOHG_00961 Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+13_903: OHALGOHG_00962 Multiple antibiotic resistance protein MarR
+13_904: OHALGOHG_00963 Riboflavin transporter RibZ
+13_905: OHALGOHG_00964 putative cation-transporting ATPase F
+13_906: OHALGOHG_00965 hypothetical protein
+13_907: OHALGOHG_00966 putative oxidoreductase YtbE
+13_908: OHALGOHG_00967 hypothetical protein
+13_909: OHALGOHG_00968 Proline--tRNA ligase
+13_910: OHALGOHG_00969 Homoserine/homoserine lactone efflux protein
+13_911: OHALGOHG_00970 Glycerate dehydrogenase
+13_912: OHALGOHG_00971 3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase
+13_913: OHALGOHG_00972 putative peptidase
+13_914: OHALGOHG_00973 hypothetical protein
+13_915: OHALGOHG_00974 DNA polymerase IV
+13_916: OHALGOHG_00975 hypothetical protein
+13_917: OHALGOHG_00976 hypothetical protein
+13_918: OHALGOHG_00977 Pyruvate oxidase
+13_919: OHALGOHG_00978 18 kDa heat shock protein
+13_920: OHALGOHG_00979 putative sugar epimerase YhfK
+13_921: OHALGOHG_00980 hypothetical protein
+13_922: OHALGOHG_00981 N-formyl-4-amino-5-aminomethyl-2-methylpyrimidine deformylase
+13_923: OHALGOHG_00982 hypothetical protein
+13_924: OHALGOHG_00983 Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+13_925: OHALGOHG_00984 Biotin carboxylase
+13_926: OHALGOHG_00985 hypothetical protein
+13_927: OHALGOHG_00986 Putative hydro-lyase
+13_928: OHALGOHG_00987 hypothetical protein
+13_929: OHALGOHG_00988 Divalent metal cation transporter MntH
+13_930: OHALGOHG_00989 Kinase A inhibitor
+13_931: OHALGOHG_00990 KipI antagonist
+13_932: OHALGOHG_00991 Aspartate aminotransferase
+13_933: OHALGOHG_00992 Hydroxypyruvate reductase
+13_934: OHALGOHG_00993 Glyoxylate/hydroxypyruvate reductase B
+13_935: OHALGOHG_00994 hypothetical protein
+13_936: OHALGOHG_00995 hypothetical protein
+13_937: OHALGOHG_00996 hypothetical protein
+13_938: OHALGOHG_00997 hypothetical protein
+13_939: OHALGOHG_00998 Maltose phosphorylase
+13_940: OHALGOHG_00999 Maltose epimerase
+13_941: OHALGOHG_01000 Beta-phosphoglucomutase
+13_942: OHALGOHG_01001 hypothetical protein
+13_943: OHALGOHG_01002 Riboflavin biosynthesis protein RibBA
+13_944: OHALGOHG_01003 Bifunctional protein Aas
+13_945: OHALGOHG_01004 hypothetical protein
+13_946: OHALGOHG_01005 hypothetical protein
+13_947: OHALGOHG_01006 HTH-type transcriptional regulator CysL
+13_948: OHALGOHG_01007 Malolactic enzyme
+13_949: OHALGOHG_01008 Citrate-sodium symporter
+13_950: OHALGOHG_01009 hypothetical protein
+13_951: OHALGOHG_01010 hypothetical protein
+13_952: OHALGOHG_01011 hypothetical protein
+13_953: OHALGOHG_01012 hypothetical protein
+13_954: OHALGOHG_01013 Low affinity potassium transport system protein kup
+13_955: OHALGOHG_01014 hypothetical protein
+13_956: OHALGOHG_01015 hypothetical protein
+13_957: OHALGOHG_01016 hypothetical protein
+13_958: OHALGOHG_01017 hypothetical protein
+13_959: OHALGOHG_01018 hypothetical protein
+13_960: OHALGOHG_01019 hypothetical protein
+13_961: OHALGOHG_01020 Carnitine transport permease protein OpuCB
+13_962: OHALGOHG_01021 Glycine betaine uptake system ATP-binding protein YehX
+13_963: OHALGOHG_01022 Glutathione amide reductase
+13_964: OHALGOHG_01023 hypothetical protein
+13_965: OHALGOHG_01024 hypothetical protein
+13_966: OHALGOHG_01025 hypothetical protein
+13_967: OHALGOHG_01026 hypothetical protein
+13_968: OHALGOHG_01027 hypothetical protein
+13_969: OHALGOHG_01028 hypothetical protein
+13_970: OHALGOHG_01029 hypothetical protein
+13_971: OHALGOHG_01030 hypothetical protein
+13_972: OHALGOHG_01031 hypothetical protein
+13_973: OHALGOHG_01032 hypothetical protein
+13_974: OHALGOHG_01033 hypothetical protein
+13_975: OHALGOHG_01034 hypothetical protein
+13_976: OHALGOHG_01035 hypothetical protein
+13_977: OHALGOHG_01036 N-acetylmuramoyl-L-alanine amidase domain-containing protein
+13_978: OHALGOHG_01037 hypothetical protein
+13_979: OHALGOHG_01038 hypothetical protein
+13_980: OHALGOHG_01039 hypothetical protein
+13_981: OHALGOHG_01040 hypothetical protein
+13_982: OHALGOHG_01041 hypothetical protein
+13_983: OHALGOHG_01042 hypothetical protein
+13_984: OHALGOHG_01043 hypothetical protein
+13_985: OHALGOHG_01044 hypothetical protein
+13_986: OHALGOHG_01045 hypothetical protein
+13_987: OHALGOHG_01046 hypothetical protein
+13_988: OHALGOHG_01047 hypothetical protein
+13_989: OHALGOHG_01048 hypothetical protein
+13_990: OHALGOHG_01049 Dehydrosqualene desaturase
+13_991: OHALGOHG_01050 All-trans-phytoene synthase
+13_992: OHALGOHG_01051 putative ABC transporter permease
+13_993: OHALGOHG_01052 Putative hemin import ATP-binding protein HrtA
+13_994: OHALGOHG_01053 hypothetical protein
+13_995: OHALGOHG_01054 hypothetical protein
+13_996: OHALGOHG_01055 hypothetical protein
+13_997: OHALGOHG_01056 hypothetical protein
+13_998: OHALGOHG_01057 hypothetical protein
+13_999: OHALGOHG_01058 hypothetical protein
+13_1000: OHALGOHG_01059 Single-stranded DNA-binding protein
+13_1001: OHALGOHG_01060 hypothetical protein
+13_1002: OHALGOHG_01061 hypothetical protein
+13_1003: OHALGOHG_01062 DNA-entry nuclease
+13_1004: OHALGOHG_01063 hypothetical protein
+13_1005: OHALGOHG_01064 hypothetical protein
+13_1006: OHALGOHG_01065 hypothetical protein
+13_1007: OHALGOHG_01066 HTH-type transcriptional regulator LacR
+13_1008: OHALGOHG_01067 Beta-galactosidase GanA
+13_1009: OHALGOHG_01068 Lactose permease
+13_1010: OHALGOHG_01069 Arabinogalactan endo-beta-1,4-galactanase
+13_1011: OHALGOHG_01070 Galactose-1-phosphate uridylyltransferase
+13_1012: OHALGOHG_01071 UDP-glucose 4-epimerase
+13_1013: OHALGOHG_01072 Galactokinase
+13_1014: OHALGOHG_01073 hypothetical protein
+13_1015: OHALGOHG_01074 hypothetical protein
+13_1016: OHALGOHG_01075 hypothetical protein
+13_1017: OHALGOHG_01076 hypothetical protein
+13_1018: OHALGOHG_01077 hypothetical protein
+13_1019: OHALGOHG_01078 hypothetical protein
+13_1020: OHALGOHG_01079 Chaperone protein ClpB
+13_1021: OHALGOHG_01080 putative MFS-type transporter EfpA
+13_1022: OHALGOHG_01081 Flavodoxin
+13_1023: OHALGOHG_01082 Endo-1,4-beta-xylanase Z
+13_1024: OHALGOHG_01083 hypothetical protein
+13_1025: OHALGOHG_01084 hypothetical protein
+13_1026: OHALGOHG_01085 Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+13_1027: OHALGOHG_01086 Aldo-keto reductase IolS
+13_1028: OHALGOHG_01087 hypothetical protein
+13_1029: OHALGOHG_01088 hypothetical protein
+13_1030: OHALGOHG_01089 putative oxidoreductase
+13_1031: OHALGOHG_01090 putative oxidoreductase/MSMEI_2347
+13_1032: OHALGOHG_01091 putative oxidoreductase YtbE
+13_1033: OHALGOHG_01092 HTH-type transcriptional regulator AdhR
+13_1034: OHALGOHG_01093 Aldehyde dehydrogenase
+13_1035: OHALGOHG_01094 hypothetical protein
+13_1036: OHALGOHG_01095 hypothetical protein
+13_1037: OHALGOHG_01096 Protein UmuC
+13_1038: OHALGOHG_01097 hypothetical protein
+13_1039: OHALGOHG_01098 hypothetical protein
+13_1040: OHALGOHG_01099 hypothetical protein
+13_1041: OHALGOHG_01100 hypothetical protein
+13_1042: OHALGOHG_01101 hypothetical protein
+13_1043: OHALGOHG_01102 hypothetical protein
+13_1044: OHALGOHG_01103 hypothetical protein
+13_1045: OHALGOHG_01104 hypothetical protein
+13_1046: OHALGOHG_01105 hypothetical protein
+13_1047: OHALGOHG_01106 hypothetical protein
+13_1048: OHALGOHG_01107 hypothetical protein
+13_1049: OHALGOHG_01108 hypothetical protein
+13_1050: OHALGOHG_01109 hypothetical protein
+13_1051: OHALGOHG_01110 hypothetical protein
+13_1052: OHALGOHG_01111 ATP-dependent Clp protease ATP-binding subunit ClpE
+13_1053: OHALGOHG_01112 hypothetical protein
+13_1054: OHALGOHG_01113 hypothetical protein
+13_1055: OHALGOHG_01114 hypothetical protein
+13_1056: OHALGOHG_01115 hypothetical protein
+13_1057: OHALGOHG_01116 Chromosome partitioning protein ParA
+13_1058: OHALGOHG_01117 hypothetical protein
+13_1059: OHALGOHG_01118 hypothetical protein
+13_1060: OHALGOHG_01119 hypothetical protein
+13_1061: OHALGOHG_01120 hypothetical protein
+13_1062: OHALGOHG_01121 Glycyl-glycine endopeptidase LytM
+13_1063: OHALGOHG_01122 hypothetical protein
+13_1064: OHALGOHG_01123 hypothetical protein
+13_1065: OHALGOHG_01124 hypothetical protein
+13_1066: OHALGOHG_01125 putative peptidase
+13_1067: OHALGOHG_01126 hypothetical protein
+13_1068: OHALGOHG_01127 hypothetical protein
+13_1069: OHALGOHG_01128 hypothetical protein
+13_1070: OHALGOHG_01129 Aggregation substance
+13_1071: OHALGOHG_01130 hypothetical protein
+13_1072: OHALGOHG_01131 hypothetical protein
+13_1073: OHALGOHG_01132 RNA pyrophosphohydrolase
+13_1074: OHALGOHG_01133 hypothetical protein
+13_1075: OHALGOHG_01134 Histidine biosynthesis bifunctional protein HisB
+13_1076: OHALGOHG_01135 hypothetical protein
+13_1077: OHALGOHG_01136 hypothetical protein
+13_1078: OHALGOHG_01137 hypothetical protein
+13_1079: OHALGOHG_01138 hypothetical protein
+13_1080: OHALGOHG_01139 hypothetical protein
+13_1081: OHALGOHG_01140 HTH-type transcriptional activator Btr
+13_1082: OHALGOHG_01141 Transcriptional regulatory protein DegU
+13_1083: OHALGOHG_01142 Signal transduction histidine-protein kinase/phosphatase DegS
+13_1084: OHALGOHG_01143 Membrane protein YdfJ
+13_1085: OHALGOHG_01144 putative N-acetyltransferase YycN
+13_1086: OHALGOHG_01145 6-hydroxy-D-nicotine oxidase
+13_1087: OHALGOHG_01146 Tetracycline resistance protein, class C
+13_1088: OHALGOHG_01147 Xylose operon regulatory protein
+13_1089: OHALGOHG_01148 Diacetyl reductase [(S)-acetoin forming]
+13_1090: OHALGOHG_01149 hypothetical protein
+13_1091: OHALGOHG_01150 putative sulfoacetate--CoA ligase
+13_1092: OHALGOHG_01151 Putative aliphatic sulfonates-binding protein
+13_1093: OHALGOHG_01152 Aliphatic sulfonates import ATP-binding protein SsuB
+13_1094: OHALGOHG_01153 Putative aliphatic sulfonates transport permease protein SsuC
+13_1095: OHALGOHG_01154 Allantoate amidohydrolase
+13_1096: OHALGOHG_01155 putative transporter YycB
+13_1097: OHALGOHG_01156 putative sulfoacetate transporter SauU
+13_1098: OHALGOHG_01157 Thiazole synthase
+13_1099: OHALGOHG_01158 Molybdopterin-synthase adenylyltransferase
+13_1100: OHALGOHG_01159 hypothetical protein
+13_1101: OHALGOHG_01160 Thiamine-phosphate synthase
+13_1102: OHALGOHG_01161 3-dehydroquinate dehydratase
+13_1103: OHALGOHG_01162 hypothetical protein
+13_1104: OHALGOHG_01163 Shikimate kinase 1
+13_1105: OHALGOHG_01164 Cyclohexadienyl dehydrogenase
+13_1106: OHALGOHG_01165 3-phosphoshikimate 1-carboxyvinyltransferase 1
+13_1107: OHALGOHG_01166 Chorismate synthase
+13_1108: OHALGOHG_01167 3-dehydroquinate synthase
+13_1109: OHALGOHG_01168 Phospho-2-dehydro-3-deoxyheptonate aldolase
+13_1110: OHALGOHG_01169 Shikimate dehydrogenase (NADP(+))
+13_1111: OHALGOHG_01170 Transketolase
+13_1112: OHALGOHG_01171 Aminodeoxychorismate/anthranilate synthase component 2
+13_1113: OHALGOHG_01172 Anthranilate synthase component 1
+13_1114: OHALGOHG_01173 Tryptophan synthase alpha chain
+13_1115: OHALGOHG_01174 N-(5'-phosphoribosyl)anthranilate isomerase
+13_1116: OHALGOHG_01175 Indole-3-glycerol phosphate synthase
+13_1117: OHALGOHG_01176 Anthranilate phosphoribosyltransferase
+13_1118: OHALGOHG_01177 Tryptophan synthase beta chain
+13_1119: OHALGOHG_01178 Protein LacX, plasmid
+13_1120: OHALGOHG_01179 Tyrosine recombinase XerC
+13_1121: OHALGOHG_01180 hypothetical protein
+13_1122: OHALGOHG_01181 hypothetical protein
+13_1123: OHALGOHG_01182 hypothetical protein
+13_1124: OHALGOHG_01183 Nucleoside deoxyribosyltransferase
+13_1125: OHALGOHG_01184 hypothetical protein
+13_1126: OHALGOHG_01185 Hydroxymethylglutaryl-CoA synthase
+13_1127: OHALGOHG_01186 putative ABC transporter ATP-binding protein YbiT
+13_1128: OHALGOHG_01187 hypothetical protein
+13_1129: OHALGOHG_01188 Ribosomal RNA small subunit methyltransferase E
+13_1130: OHALGOHG_01189 Ribosomal protein L11 methyltransferase
+13_1131: OHALGOHG_01190 Zinc-type alcohol dehydrogenase-like protein
+13_1132: OHALGOHG_01191 hypothetical protein
+13_1133: OHALGOHG_01192 Elongation factor 4
+13_1134: OHALGOHG_01193 putative oxidoreductase YhhX
+13_1135: OHALGOHG_01194 Glycine--tRNA ligase beta subunit
+13_1136: OHALGOHG_01195 Glycine--tRNA ligase alpha subunit
+13_1137: OHALGOHG_01196 hypothetical protein
+13_1138: OHALGOHG_01197 Ribosome-recycling factor
+13_1139: OHALGOHG_01198 Uridylate kinase
+13_1140: OHALGOHG_01199 Elongation factor Ts
+13_1141: OHALGOHG_01200 30S ribosomal protein S2
+13_1142: OHALGOHG_01201 hypothetical protein
+13_1143: OHALGOHG_01202 tRNA1(Val) (adenine(37)-N6)-methyltransferase
+13_1144: OHALGOHG_01203 1-acyl-sn-glycerol-3-phosphate acyltransferase
+13_1145: OHALGOHG_01204 hypothetical protein
+13_1146: OHALGOHG_01205 LexA repressor
+13_1147: OHALGOHG_01206 Orotate phosphoribosyltransferase
+13_1148: OHALGOHG_01207 Orotidine 5'-phosphate decarboxylase
+13_1149: OHALGOHG_01208 Carbamoyl-phosphate synthase large chain
+13_1150: OHALGOHG_01209 Carbamoyl-phosphate synthase small chain
+13_1151: OHALGOHG_01210 Dihydroorotase
+13_1152: OHALGOHG_01211 Aspartate carbamoyltransferase
+13_1153: OHALGOHG_01212 Signal peptidase IB
+13_1154: OHALGOHG_01213 hypothetical protein
+13_1155: OHALGOHG_01214 Penicillin-binding protein 1F
+13_1156: OHALGOHG_01215 Arginine repressor
+13_1157: OHALGOHG_01216 Arginine--tRNA ligase
+13_1158: OHALGOHG_01217 hypothetical protein
+13_1159: OHALGOHG_01218 Coenzyme A biosynthesis bifunctional protein CoaBC
+13_1160: OHALGOHG_01219 hypothetical protein
+13_1161: OHALGOHG_01220 Protein QmcA
+13_1162: OHALGOHG_01221 hypothetical protein
+13_1163: OHALGOHG_01222 hypothetical protein
+13_1164: OHALGOHG_01223 hypothetical protein
+13_1165: OHALGOHG_01224 hypothetical protein
+13_1166: OHALGOHG_01225 tRNA (guanine-N(7)-)-methyltransferase
+13_1167: OHALGOHG_01226 hypothetical protein
+13_1168: OHALGOHG_01227 ABC-type transporter ATP-binding protein EcsA
+13_1169: OHALGOHG_01228 Protein hit
+13_1170: OHALGOHG_01229 hypothetical protein
+13_1171: OHALGOHG_01230 Foldase protein PrsA
+13_1172: OHALGOHG_01231 Tetracycline resistance protein, class B
+13_1173: OHALGOHG_01232 Putative N-acetyl-LL-diaminopimelate aminotransferase
+13_1174: OHALGOHG_01233 Hydroxypyruvate reductase
+13_1175: OHALGOHG_01234 Glutamine transport ATP-binding protein GlnQ
+13_1176: OHALGOHG_01235 L-cystine transport system permease protein YecS
+13_1177: OHALGOHG_01236 Arginine-binding extracellular protein ArtP
+13_1178: OHALGOHG_01237 L-methionine gamma-lyase
+13_1179: OHALGOHG_01238 HTH-type transcriptional regulator CatM
+13_1180: OHALGOHG_01239 Dihydroanticapsin 7-dehydrogenase
+13_1181: OHALGOHG_01240 Queuosine precursor transporter QueT
+13_1182: OHALGOHG_01241 RNA polymerase sigma factor SigA
+13_1183: OHALGOHG_01242 hypothetical protein
+13_1184: OHALGOHG_01243 DNA primase
+13_1185: OHALGOHG_01244 Multiple antibiotic resistance protein MarA
+13_1186: OHALGOHG_01245 Alpha-xylosidase XylQ
+13_1187: OHALGOHG_01246 Isoprimeverose transporter
+13_1188: OHALGOHG_01247 hypothetical protein
+13_1189: OHALGOHG_01248 hypothetical protein
+13_1190: OHALGOHG_01249 hypothetical protein
+13_1191: OHALGOHG_01250 hypothetical protein
+13_1192: OHALGOHG_01251 hypothetical protein
+13_1193: OHALGOHG_01252 hypothetical protein
+13_1194: OHALGOHG_01253 ATP-dependent zinc metalloprotease FtsH
+13_1195: OHALGOHG_01254 hypothetical protein
+13_1196: OHALGOHG_01255 hypothetical protein
+13_1197: OHALGOHG_01256 hypothetical protein
+13_1198: OHALGOHG_01257 hypothetical protein
+13_1199: OHALGOHG_01258 hypothetical protein
+13_1200: OHALGOHG_01259 hypothetical protein
+13_1201: OHALGOHG_01260 hypothetical protein
+13_1202: OHALGOHG_01261 DNA-entry nuclease
+13_1203: OHALGOHG_01262 hypothetical protein
+13_1204: OHALGOHG_01263 hypothetical protein
+13_1205: OHALGOHG_01264 Single-stranded DNA-binding protein
+13_1206: OHALGOHG_01265 hypothetical protein
+13_1207: OHALGOHG_01266 hypothetical protein
+13_1208: OHALGOHG_01267 hypothetical protein
+13_1209: OHALGOHG_01268 hypothetical protein
+13_1210: OHALGOHG_01269 hypothetical protein
+13_1211: OHALGOHG_01270 PTS system mannose-specific EIID component
+13_1212: OHALGOHG_01271 PTS system sorbose-specific EIIC component
+13_1213: OHALGOHG_01272 PTS system fructose-specific EIIB component
+13_1214: OHALGOHG_01273 PTS system mannose-specific EIIAB component
+13_1215: OHALGOHG_01274 hypothetical protein
+13_1216: OHALGOHG_01275 2,6-dihydropseudooxynicotine hydrolase
+13_1217: OHALGOHG_01276 hypothetical protein
+13_1218: OHALGOHG_01277 DNA processing protein DprA
+13_1219: OHALGOHG_01278 Energy-dependent translational throttle protein EttA
+13_1220: OHALGOHG_01279 Dihydroorotate dehydrogenase A (fumarate)
+13_1221: OHALGOHG_01280 Acetate kinase
+13_1222: OHALGOHG_01281 N-acetylmuramoyl-L-alanine amidase LytC
+13_1223: OHALGOHG_01282 hypothetical protein
+13_1224: OHALGOHG_01283 Protein YhgF
+13_1225: OHALGOHG_01284 Putative universal stress protein
+13_1226: OHALGOHG_01285 Large-conductance mechanosensitive channel
+13_1227: OHALGOHG_01286 Carbohydrate-binding domain-containing protein
+13_1228: OHALGOHG_01287 Cysteine synthase
+13_1229: OHALGOHG_01288 Cystathionine gamma-synthase
+13_1230: OHALGOHG_01289 Serine acetyltransferase
+13_1231: OHALGOHG_01290 DNA-binding protein HU
+13_1232: OHALGOHG_01291 GTPase Der
+13_1233: OHALGOHG_01292 30S ribosomal protein S1
+13_1234: OHALGOHG_01293 Cytidylate kinase
+13_1235: OHALGOHG_01294 hypothetical protein
+13_1236: OHALGOHG_01295 Riboflavin transporter RibU
+13_1237: OHALGOHG_01296 Ribosomal large subunit pseudouridine synthase B
+13_1238: OHALGOHG_01297 Segregation and condensation protein B
+13_1239: OHALGOHG_01298 Segregation and condensation protein A
+13_1240: OHALGOHG_01299 Protein RibT
+13_1241: OHALGOHG_01300 Tyrosine recombinase XerD
+13_1242: OHALGOHG_01301 Conserved virulence factor B
+13_1243: OHALGOHG_01302 putative protein YqeY
+13_1244: OHALGOHG_01303 30S ribosomal protein S21
+13_1245: OHALGOHG_01304 Alpha-ketoglutarate permease
+13_1246: OHALGOHG_01305 Alpha-ketoglutarate permease
+13_1247: OHALGOHG_01306 Purine catabolism regulatory protein
+13_1248: OHALGOHG_01307 Serine permease SerP1
+13_1249: OHALGOHG_01308 hypothetical protein
+13_1250: OHALGOHG_01309 Aspartate--tRNA ligase
+13_1251: OHALGOHG_01310 Histidine--tRNA ligase
+13_1252: OHALGOHG_01311 Maltose epimerase
+13_1253: OHALGOHG_01312 Arabinose operon regulatory protein
+13_1254: OHALGOHG_01313 Galactokinase
+13_1255: OHALGOHG_01314 Lactose permease
+13_1256: OHALGOHG_01315 L-glyceraldehyde 3-phosphate reductase
+13_1257: OHALGOHG_01316 Beta-galactosidase
+13_1258: OHALGOHG_01317 Inner membrane protein YjjP
+13_1259: OHALGOHG_01318 Glyoxylate/hydroxypyruvate reductase A
+13_1260: OHALGOHG_01319 putative branched-chain-amino-acid aminotransferase
+13_1261: OHALGOHG_01321 putative protein YutD
+13_1262: OHALGOHG_01322 Mannosylglucosyl-3-phosphoglycerate phosphatase
+13_1263: OHALGOHG_01323 hypothetical protein
+13_1264: OHALGOHG_01324 Aminopeptidase YpdF
+13_1265: OHALGOHG_01325 50S ribosomal protein L27
+13_1266: OHALGOHG_01326 50S ribosomal protein L21
+13_1267: OHALGOHG_01327 hypothetical protein
+13_1268: OHALGOHG_01328 hypothetical protein
+13_1269: OHALGOHG_01329 hypothetical protein
+13_1270: OHALGOHG_01330 hypothetical protein
+13_1271: OHALGOHG_01331 hypothetical protein
+13_1272: OHALGOHG_01333 hypothetical protein
+13_1273: OHALGOHG_01334 Phosphinothricin N-acetyltransferase
+13_1274: OHALGOHG_01335 Protein RarD
+13_1275: OHALGOHG_01336 hypothetical protein
+13_1276: OHALGOHG_01337 Quaternary ammonium compound-resistance protein SugE
+13_1277: OHALGOHG_01338 hypothetical protein
+13_1278: OHALGOHG_01339 hypothetical protein
+13_1279: OHALGOHG_01341 GTP-binding protein TypA/BipA
+13_1280: OHALGOHG_01342 Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+13_1281: OHALGOHG_01343 hypothetical protein
+13_1282: OHALGOHG_01344 Peptide deformylase 2
+13_1283: OHALGOHG_01345 Chaperone protein DnaJ
+13_1284: OHALGOHG_01346 Chaperone protein DnaK
+13_1285: OHALGOHG_01347 Protein GrpE
+13_1286: OHALGOHG_01348 Heat-inducible transcription repressor HrcA
+13_1287: OHALGOHG_01349 Riboflavin biosynthesis protein RibF
+13_1288: OHALGOHG_01350 tRNA pseudouridine synthase B
+13_1289: OHALGOHG_01351 hypothetical protein
+13_1290: OHALGOHG_01352 Putative N-acetyl-LL-diaminopimelate aminotransferase
+13_1291: OHALGOHG_01353 Ribosome-binding factor A
+13_1292: OHALGOHG_01354 Translation initiation factor IF-2
+13_1293: OHALGOHG_01355 putative ribosomal protein YlxQ
+13_1294: OHALGOHG_01356 hypothetical protein
+13_1295: OHALGOHG_01357 Transcription termination/antitermination protein NusA
+13_1296: OHALGOHG_01358 Ribosome maturation factor RimP
+13_1297: OHALGOHG_01359 Alternate 30S ribosomal protein S14
+13_1298: OHALGOHG_01360 50S ribosomal protein L33 1
+13_1299: OHALGOHG_01361 putative manganese-dependent inorganic pyrophosphatase
+13_1300: OHALGOHG_01362 DNA topoisomerase 4 subunit A
+13_1301: OHALGOHG_01363 DNA topoisomerase 4 subunit B
+13_1302: OHALGOHG_01364 Glycerol-3-phosphate acyltransferase
+13_1303: OHALGOHG_01365 D-aminoacyl-tRNA deacylase
+13_1304: OHALGOHG_01366 GTP pyrophosphokinase
+13_1305: OHALGOHG_01367 Tetracycline resistance protein, class B
+13_1306: OHALGOHG_01368 hypothetical protein
+13_1307: OHALGOHG_01369 Carbamoyl-phosphate synthase large chain
+13_1308: OHALGOHG_01370 Carbamoyl-phosphate synthase small chain
+13_1309: OHALGOHG_01371 Bifunctional protein pyrR
+13_1310: OHALGOHG_01372 Ribosomal large subunit pseudouridine synthase D
+13_1311: OHALGOHG_01373 hypothetical protein
+13_1312: OHALGOHG_01374 14.7 kDa ribonuclease H-like protein
+13_1313: OHALGOHG_01375 hypothetical protein
+13_1314: OHALGOHG_01376 Putative N-acetyl-LL-diaminopimelate aminotransferase
+13_1315: OHALGOHG_01377 Ribosomal RNA large subunit methyltransferase L
+13_1316: OHALGOHG_01378 hypothetical protein
+13_1317: OHALGOHG_01379 DNA replication protein DnaD
+13_1318: OHALGOHG_01380 Asparagine--tRNA ligase
+13_1319: OHALGOHG_01381 Aspartate aminotransferase
+13_1320: OHALGOHG_01382 hypothetical protein
+13_1321: OHALGOHG_01383 putative ATP-dependent helicase DinG
+13_1322: OHALGOHG_01384 Galactokinase
+13_1323: OHALGOHG_01385 Galactokinase
+13_1324: OHALGOHG_01386 Phosphomevalonate kinase
+13_1325: OHALGOHG_01387 Isopentenyl-diphosphate delta-isomerase
+13_1326: OHALGOHG_01388 Hypoxanthine-guanine phosphoribosyltransferase
+13_1327: OHALGOHG_01389 Adenylosuccinate lyase
+13_1328: OHALGOHG_01390 putative formate transporter 1
+13_1329: OHALGOHG_01391 D/L-lactic acid transporter
+13_1330: OHALGOHG_01392 Protein MioC
+13_1331: OHALGOHG_01393 hypothetical protein
+13_1332: OHALGOHG_01394 GalNAc(5)-diNAcBac-PP-undecaprenol beta-1,3-glucosyltransferase
+13_1333: OHALGOHG_01395 hypothetical protein
+13_1334: OHALGOHG_01396 Lipoteichoic acid synthase
+13_1335: OHALGOHG_01397 hypothetical protein
+13_1336: OHALGOHG_01398 hypothetical protein
+13_1337: OHALGOHG_01399 hypothetical protein
+13_1338: OHALGOHG_01400 Putative glycosyltransferase CsbB
+13_1339: OHALGOHG_01401 UDP-galactopyranose mutase
+13_1340: OHALGOHG_01402 hypothetical protein
+13_1341: OHALGOHG_01403 hypothetical protein
+13_1342: OHALGOHG_01404 hypothetical protein
+13_1343: OHALGOHG_01405 UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+13_1344: OHALGOHG_01406 Putative O-antigen transporter
+13_1345: OHALGOHG_01407 Levanbiose-producing levanase
+13_1346: OHALGOHG_01408 Levansucrase
+13_1347: OHALGOHG_01409 Levansucrase
+13_1348: OHALGOHG_01410 Inulosucrase
+13_1349: OHALGOHG_01411 O-acetyltransferase WecH
+13_1350: OHALGOHG_01412 Autolytic lysozyme
+13_1351: OHALGOHG_01413 hypothetical protein
+13_1352: OHALGOHG_01414 hypothetical protein
+13_1353: OHALGOHG_01415 hypothetical protein
+13_1354: OHALGOHG_01416 hypothetical protein
+13_1355: OHALGOHG_01417 hypothetical protein
+13_1356: OHALGOHG_01418 hypothetical protein
+13_1357: OHALGOHG_01419 dTDP-4-dehydrorhamnose reductase
+13_1358: OHALGOHG_01420 dTDP-glucose 4,6-dehydratase
+13_1359: OHALGOHG_01421 putative dTDP-4-dehydrorhamnose 3,5-epimerase
+13_1360: OHALGOHG_01422 Glucose-1-phosphate thymidylyltransferase 1
+13_1361: OHALGOHG_01423 Putative glycosyltransferase EpsH
+13_1362: OHALGOHG_01424 hypothetical protein
+13_1363: OHALGOHG_01425 General stress protein 30
+13_1364: OHALGOHG_01426 hypothetical protein
+13_1365: OHALGOHG_01427 Putative glycosyltransferase EpsH
+13_1366: OHALGOHG_01428 hypothetical protein
+13_1367: OHALGOHG_01429 hypothetical protein
+13_1368: OHALGOHG_01430 putative glycosyltransferase EpsJ
+13_1369: OHALGOHG_01431 Putative glycosyltransferase EpsD
+13_1370: OHALGOHG_01432 putative sugar transferase EpsL
+13_1371: OHALGOHG_01433 Tyrosine-protein kinase YwqD
+13_1372: OHALGOHG_01434 putative capsular polysaccharide biosynthesis protein YwqC
+13_1373: OHALGOHG_01435 Tyrosine-protein phosphatase YwqE
+13_1374: OHALGOHG_01436 Methionine aminopeptidase 1
+13_1375: OHALGOHG_01437 Biofilm regulatory protein A
+13_1376: OHALGOHG_01438 Uracil phosphoribosyltransferase
+13_1377: OHALGOHG_01439 Branched-chain amino acid transport system 2 carrier protein
+13_1378: OHALGOHG_01440 50S ribosomal protein L20
+13_1379: OHALGOHG_01441 50S ribosomal protein L35
+13_1380: OHALGOHG_01442 Translation initiation factor IF-3
+13_1381: OHALGOHG_01443 hypothetical protein
+13_1382: OHALGOHG_01444 hypothetical protein
+13_1383: OHALGOHG_01445 50S ribosomal protein L32
+13_1384: OHALGOHG_01446 Copper homeostasis protein CutC
+13_1385: OHALGOHG_01447 hypothetical protein
+13_1386: OHALGOHG_01448 hypothetical protein
+13_1387: OHALGOHG_01449 Alkyl hydroperoxide reductase C
+13_1388: OHALGOHG_01450 Thioredoxin reductase
+13_1389: OHALGOHG_01451 putative protein YloA
+13_1390: OHALGOHG_01452 N-demethylindolmycin N-methyltransferase
+13_1391: OHALGOHG_01453 Thymidylate synthase
+13_1392: OHALGOHG_01454 2'-deoxynucleoside 5'-phosphate N-hydrolase 1
+13_1393: OHALGOHG_01455 Xylulose-5-phosphate phosphoketolase
+13_1394: OHALGOHG_01456 Ornithine carbamoyltransferase, catabolic
+13_1395: OHALGOHG_01457 Argininosuccinate lyase
+13_1396: OHALGOHG_01458 Argininosuccinate synthase
+13_1397: OHALGOHG_01459 Adenylosuccinate synthetase
+13_1398: OHALGOHG_01460 Transcriptional regulatory protein PmpR
+13_1399: OHALGOHG_01461 putative protein YpjQ
+13_1400: OHALGOHG_01462 D-3-phosphoglycerate dehydrogenase
+13_1401: OHALGOHG_01463 Phosphoserine aminotransferase
+13_1402: OHALGOHG_01465 Phosphate acetyltransferase
+13_1403: OHALGOHG_01466 Uracil-DNA glycosylase
+13_1404: OHALGOHG_01467 hypothetical protein
+13_1405: OHALGOHG_01468 hypothetical protein
+13_1406: OHALGOHG_01469 hypothetical protein
+13_1407: OHALGOHG_01470 hypothetical protein
+13_1408: OHALGOHG_01471 hypothetical protein
+13_1409: OHALGOHG_01472 Adenine phosphoribosyltransferase
+13_1410: OHALGOHG_01473 Single-stranded-DNA-specific exonuclease RecJ
+13_1411: OHALGOHG_01474 Ribonuclease Z
+13_1412: OHALGOHG_01475 Peptide methionine sulfoxide reductase MsrA
+13_1413: OHALGOHG_01476 2-dehydropantoate 2-reductase
+13_1414: OHALGOHG_01477 tRNA (guanine-N(1)-)-methyltransferase
+13_1415: OHALGOHG_01478 Ribosome maturation factor RimM
+13_1416: OHALGOHG_01479 Bifunctional transcriptional activator/DNA repair enzyme Ada
+13_1417: OHALGOHG_01480 ATP-dependent helicase/nuclease subunit A
+13_1418: OHALGOHG_01481 ATP-dependent helicase/deoxyribonuclease subunit B
+13_1419: OHALGOHG_01482 Carbohydrate acetyl esterase/feruloyl esterase
+13_1420: OHALGOHG_01483 hypothetical protein
+13_1421: OHALGOHG_01484 30S ribosomal protein S16
+13_1422: OHALGOHG_01485 hypothetical protein
+13_1423: OHALGOHG_01486 Isoleucine--tRNA ligase
+13_1424: OHALGOHG_01487 Septum site-determining protein DivIVA
+13_1425: OHALGOHG_01488 hypothetical protein
+13_1426: OHALGOHG_01489 hypothetical protein
+13_1427: OHALGOHG_01490 Cell division protein SepF
+13_1428: OHALGOHG_01491 Cell division protein FtsZ
+13_1429: OHALGOHG_01492 Cell division protein FtsA
+13_1430: OHALGOHG_01493 Cell division protein DivIB
+13_1431: OHALGOHG_01494 UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+13_1432: OHALGOHG_01495 UDP-N-acetylmuramoylalanine--D-glutamate ligase
+13_1433: OHALGOHG_01496 Phospho-N-acetylmuramoyl-pentapeptide-transferase
+13_1434: OHALGOHG_01497 Penicillin-binding protein 2B
+13_1435: OHALGOHG_01498 Cell division protein FtsL
+13_1436: OHALGOHG_01499 Ribosomal RNA small subunit methyltransferase H
+13_1437: OHALGOHG_01500 Transcriptional regulator MraZ
+13_1438: OHALGOHG_01501 hypothetical protein
+13_1439: OHALGOHG_01502 hypothetical protein
+13_1440: OHALGOHG_01503 putative protein
+13_1441: OHALGOHG_01504 putative protein
+13_1442: OHALGOHG_01505 50S ribosomal protein L28
+13_1443: OHALGOHG_01506 Thioredoxin
+13_1444: OHALGOHG_01507 Thiamine pyrophosphokinase
+13_1445: OHALGOHG_01508 Ribulose-phosphate 3-epimerase
+13_1446: OHALGOHG_01509 Small ribosomal subunit biogenesis GTPase RsgA
+13_1447: OHALGOHG_01510 Serine/threonine-protein kinase PrkC
+13_1448: OHALGOHG_01511 Serine/threonine phosphatase stp
+13_1449: OHALGOHG_01512 Ribosomal RNA small subunit methyltransferase B
+13_1450: OHALGOHG_01513 Methionyl-tRNA formyltransferase
+13_1451: OHALGOHG_01514 Primosomal protein N'
+13_1452: OHALGOHG_01515 hypothetical protein
+13_1453: OHALGOHG_01516 Bifunctional NAD biosynthesis protein NadR
+13_1454: OHALGOHG_01517 Nicotinamide riboside transporter PnuC
+13_1455: OHALGOHG_01518 Peptide methionine sulfoxide reductase MsrB
+13_1456: OHALGOHG_01519 putative GTP-binding protein EngB
+13_1457: OHALGOHG_01520 ATP-dependent Clp protease ATP-binding subunit ClpX
+13_1458: OHALGOHG_01521 Trigger factor
+13_1459: OHALGOHG_01522 Kynurenine formamidase
+13_1460: OHALGOHG_01523 hypothetical protein
+13_1461: OHALGOHG_01524 Putative dipeptidase
+13_1462: OHALGOHG_01525 hypothetical protein
+13_1463: OHALGOHG_01526 ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+13_1464: OHALGOHG_01527 Exodeoxyribonuclease
+13_1465: OHALGOHG_01528 DNA polymerase III PolC-type
+13_1466: OHALGOHG_01529 N-alpha-acetyltransferase RimI
+13_1467: OHALGOHG_01530 tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+13_1468: OHALGOHG_01531 hypothetical protein
+13_1469: OHALGOHG_01532 hypothetical protein
+13_1470: OHALGOHG_01533 Fimbrial subunit type 1
+13_1471: OHALGOHG_01534 hypothetical protein
+13_1472: OHALGOHG_01535 hypothetical protein
+13_1473: OHALGOHG_01536 Bifunctional transcriptional activator/DNA repair enzyme AdaA
+13_1474: OHALGOHG_01537 Anaerobic ribonucleoside-triphosphate reductase-activating protein
+13_1475: OHALGOHG_01538 Anaerobic ribonucleoside-triphosphate reductase
+13_1476: OHALGOHG_01539 Nicotinate phosphoribosyltransferase pncB2
+13_1477: OHALGOHG_01540 NH(3)-dependent NAD(+) synthetase
+13_1478: OHALGOHG_01541 hypothetical protein
+13_1479: OHALGOHG_01542 hypothetical protein
+13_1480: OHALGOHG_01543 Putative HMP/thiamine import ATP-binding protein YkoD
+13_1481: OHALGOHG_01544 Putative HMP/thiamine permease protein YkoE
+13_1482: OHALGOHG_01545 Aminopyrimidine aminohydrolase
+13_1483: OHALGOHG_01546 Histidinol-phosphate aminotransferase
+13_1484: OHALGOHG_01547 Phosphoribosyl-ATP pyrophosphatase
+13_1485: OHALGOHG_01548 Phosphoribosyl-AMP cyclohydrolase
+13_1486: OHALGOHG_01549 Imidazole glycerol phosphate synthase subunit HisF
+13_1487: OHALGOHG_01550 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+13_1488: OHALGOHG_01551 Imidazole glycerol phosphate synthase subunit HisH
+13_1489: OHALGOHG_01552 Imidazoleglycerol-phosphate dehydratase
+13_1490: OHALGOHG_01553 Histidinol dehydrogenase
+13_1491: OHALGOHG_01554 ATP phosphoribosyltransferase
+13_1492: OHALGOHG_01555 Response regulator PleD
+13_1493: OHALGOHG_01556 putative cyclic di-GMP phosphodiesterase PdeB
+13_1494: OHALGOHG_01557 Histidinol-phosphatase
+13_1495: OHALGOHG_01558 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+13_1496: OHALGOHG_01559 hypothetical protein
+13_1497: OHALGOHG_01560 Signal recognition particle protein
+13_1498: OHALGOHG_01561 hypothetical protein
+13_1499: OHALGOHG_01562 Signal recognition particle receptor FtsY
+13_1500: OHALGOHG_01563 Chromosome partition protein Smc
+13_1501: OHALGOHG_01564 Ribonuclease 3
+13_1502: OHALGOHG_01565 Phosphoglucosamine mutase
+13_1503: OHALGOHG_01566 CdaA regulatory protein CdaR
+13_1504: OHALGOHG_01567 Diadenylate cyclase
+13_1505: OHALGOHG_01568 Sodium, potassium, lithium and rubidium/H(+) antiporter
+13_1506: OHALGOHG_01569 UDP-N-acetylenolpyruvoylglucosamine reductase
+13_1507: OHALGOHG_01570 Nucleoside diphosphate kinase
+13_1508: OHALGOHG_01571 hypothetical protein
+13_1509: OHALGOHG_01572 hypothetical protein
+13_1510: OHALGOHG_01573 hypothetical protein
+13_1511: OHALGOHG_01574 DNA mismatch repair protein MutL
+13_1512: OHALGOHG_01575 DNA mismatch repair protein MutS
+13_1513: OHALGOHG_01576 putative RNA methyltransferase
+13_1514: OHALGOHG_01577 Diacylglycerol kinase
+13_1515: OHALGOHG_01578 Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+13_1516: OHALGOHG_01579 Glutamyl-tRNA(Gln) amidotransferase subunit A
+13_1517: OHALGOHG_01580 Glutamyl-tRNA(Gln) amidotransferase subunit C
+13_1518: OHALGOHG_01581 30S ribosomal protein S15
+13_1519: OHALGOHG_01582 30S ribosomal protein S20
+13_1520: OHALGOHG_01583 DEAD-box ATP-dependent RNA helicase CshB
+13_1521: OHALGOHG_01584 putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+13_1522: OHALGOHG_01585 DNA polymerase IV
+13_1523: OHALGOHG_01586 putative protein YqeN
+13_1524: OHALGOHG_01587 ComE operon protein 3
+13_1525: OHALGOHG_01588 ComE operon protein 1
+13_1526: OHALGOHG_01589 putative protein YlbL
+13_1527: OHALGOHG_01590 Phosphopantetheine adenylyltransferase
+13_1528: OHALGOHG_01591 Ribosomal RNA small subunit methyltransferase D
+13_1529: OHALGOHG_01592 hypothetical protein
+13_1530: OHALGOHG_01593 putative peptidoglycan glycosyltransferase FtsW
+13_1531: OHALGOHG_01594 Glutamyl aminopeptidase
+13_1532: OHALGOHG_01595 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+13_1533: OHALGOHG_01596 DNA damage-inducible protein F
+13_1534: OHALGOHG_01597 Guanine/hypoxanthine permease PbuG
+13_1535: OHALGOHG_01598 DNA repair protein RecN
+13_1536: OHALGOHG_01599 Arginine repressor
+13_1537: OHALGOHG_01600 Hemolysin A
+13_1538: OHALGOHG_01601 Farnesyl diphosphate synthase
+13_1539: OHALGOHG_01602 Exodeoxyribonuclease 7 small subunit
+13_1540: OHALGOHG_01603 Exodeoxyribonuclease 7 large subunit
+13_1541: OHALGOHG_01604 hypothetical protein
+13_1542: OHALGOHG_01605 hypothetical protein
+13_1543: OHALGOHG_01606 Bifunctional protein GlmU
+13_1544: OHALGOHG_01607 Pur operon repressor
+13_1545: OHALGOHG_01608 High-affinity zinc uptake system membrane protein ZnuB
+13_1546: OHALGOHG_01609 High-affinity zinc uptake system ATP-binding protein ZnuC
+13_1547: OHALGOHG_01610 hypothetical protein
+13_1548: OHALGOHG_01611 Protein Veg
+13_1549: OHALGOHG_01612 Ribosomal RNA small subunit methyltransferase A
+13_1550: OHALGOHG_01613 Ribonuclease M5
+13_1551: OHALGOHG_01614 D-aminoacyl-tRNA deacylase
+13_1552: OHALGOHG_01615 Transcription antitermination protein NusB
+13_1553: OHALGOHG_01616 putative protein
+13_1554: OHALGOHG_01617 Elongation factor P
+13_1555: OHALGOHG_01618 HTH-type transcriptional regulator TcaR
+13_1556: OHALGOHG_01619 LOG family protein YvdD
+13_1557: OHALGOHG_01620 hypothetical protein
+13_1558: OHALGOHG_01621 Ribonuclease J 1
+13_1559: OHALGOHG_01622 hypothetical protein
+13_1560: OHALGOHG_01623 hypothetical protein
+13_1561: OHALGOHG_01624 hypothetical protein
+13_1562: OHALGOHG_01625 hypothetical protein
+13_1563: OHALGOHG_01626 hypothetical protein
+13_1564: OHALGOHG_01627 hypothetical protein
+13_1565: OHALGOHG_01628 hypothetical protein
+13_1566: OHALGOHG_01629 hypothetical protein
+13_1567: OHALGOHG_01630 hypothetical protein
+13_1568: OHALGOHG_01631 hypothetical protein
+13_1569: OHALGOHG_01632 Chromosome partition protein Smc
+13_1570: OHALGOHG_01633 hypothetical protein
+13_1571: OHALGOHG_01634 putative protein YqbO
+13_1572: OHALGOHG_01635 hypothetical protein
+13_1573: OHALGOHG_01636 hypothetical protein
+13_1574: OHALGOHG_01637 hypothetical protein
+13_1575: OHALGOHG_01638 hypothetical protein
+13_1576: OHALGOHG_01639 hypothetical protein
+13_1577: OHALGOHG_01640 hypothetical protein
+13_1578: OHALGOHG_01641 hypothetical protein
+13_1579: OHALGOHG_01642 hypothetical protein
+13_1580: OHALGOHG_01643 ATP-dependent Clp protease proteolytic subunit
+13_1581: OHALGOHG_01644 hypothetical protein
+13_1582: OHALGOHG_01645 hypothetical protein
+13_1583: OHALGOHG_01646 hypothetical protein
+13_1584: OHALGOHG_01647 hypothetical protein
+13_1585: OHALGOHG_01648 hypothetical protein
+13_1586: OHALGOHG_01649 hypothetical protein
+13_1587: OHALGOHG_01650 hypothetical protein
+13_1588: OHALGOHG_01651 hypothetical protein
+13_1589: OHALGOHG_01652 hypothetical protein
+13_1590: OHALGOHG_01653 hypothetical protein
+13_1591: OHALGOHG_01654 hypothetical protein
+13_1592: OHALGOHG_01655 hypothetical protein
+13_1593: OHALGOHG_01656 hypothetical protein
+13_1594: OHALGOHG_01657 hypothetical protein
+13_1595: OHALGOHG_01658 hypothetical protein
+13_1596: OHALGOHG_01659 hypothetical protein
+13_1597: OHALGOHG_01660 hypothetical protein
+13_1598: OHALGOHG_01661 hypothetical protein
+13_1599: OHALGOHG_01662 hypothetical protein
+13_1600: OHALGOHG_01663 hypothetical protein
+13_1601: OHALGOHG_01664 hypothetical protein
+13_1602: OHALGOHG_01665 hypothetical protein
+13_1603: OHALGOHG_01666 hypothetical protein
+13_1604: OHALGOHG_01667 hypothetical protein
+13_1605: OHALGOHG_01668 Chromosomal replication initiator protein DnaA
+13_1606: OHALGOHG_01669 hypothetical protein
+13_1607: OHALGOHG_01670 hypothetical protein
+13_1608: OHALGOHG_01671 Protein RecT
+13_1609: OHALGOHG_01672 hypothetical protein
+13_1610: OHALGOHG_01673 hypothetical protein
+13_1611: OHALGOHG_01674 hypothetical protein
+13_1612: OHALGOHG_01675 hypothetical protein
+13_1613: OHALGOHG_01676 hypothetical protein
+13_1614: OHALGOHG_01677 hypothetical protein
+13_1615: OHALGOHG_01678 hypothetical protein
+13_1616: OHALGOHG_01679 hypothetical protein
+13_1617: OHALGOHG_01680 hypothetical protein
+13_1618: OHALGOHG_01681 hypothetical protein
+13_1619: OHALGOHG_01682 hypothetical protein
+13_1620: OHALGOHG_01683 hypothetical protein
+13_1621: OHALGOHG_01684 hypothetical protein
+13_1622: OHALGOHG_01685 hypothetical protein
+13_1623: OHALGOHG_01686 hypothetical protein
+13_1624: OHALGOHG_01687 hypothetical protein
+13_1625: OHALGOHG_01688 Tyrosine recombinase XerC
+13_1626: OHALGOHG_01689 Inner membrane protein YhaH
+13_1627: OHALGOHG_01691 Phosphoenolpyruvate carboxylase
+13_1628: OHALGOHG_01692 hypothetical protein
+13_1629: OHALGOHG_01693 hypothetical protein
+13_1630: OHALGOHG_01694 S-adenosylmethionine synthase
+13_1631: OHALGOHG_01695 hypothetical protein
+13_1632: OHALGOHG_01696 tRNA dimethylallyltransferase
+13_1633: OHALGOHG_01697 Glycerophosphodiester phosphodiesterase
+13_1634: OHALGOHG_01698 hypothetical protein
+13_1635: OHALGOHG_01699 Thiosulfate sulfurtransferase GlpE
+13_1636: OHALGOHG_01700 Adapter protein MecA 1
+13_1637: OHALGOHG_01701 Regulatory protein Spx
+13_1638: OHALGOHG_01706 hypothetical protein
+13_1639: OHALGOHG_01707 General stress protein 13
+13_1640: OHALGOHG_01708 Putative peptidyl-prolyl cis-trans isomerase
+13_1641: OHALGOHG_01709 DNA-directed RNA polymerase subunit omega
+13_1642: OHALGOHG_01710 Guanylate kinase
+13_1643: OHALGOHG_01711 hypothetical protein
+13_1644: OHALGOHG_01712 hypothetical protein
+13_1645: OHALGOHG_01713 hypothetical protein
+13_1646: OHALGOHG_01714 Endonuclease MutS2
+13_1647: OHALGOHG_01715 hypothetical protein
+13_1648: OHALGOHG_01716 Cell division protein ZapA
+13_1649: OHALGOHG_01717 hypothetical protein
+13_1650: OHALGOHG_01718 Ribonuclease HIII
+13_1651: OHALGOHG_01719 hypothetical protein
+13_1652: OHALGOHG_01720 hypothetical protein
+13_1653: OHALGOHG_01721 Ribonuclease Y
+13_1654: OHALGOHG_01722 SsrA-binding protein
+13_1655: OHALGOHG_01723 Ribonuclease R
+13_1656: OHALGOHG_01724 putative protein-export membrane protein SecG
+13_1657: OHALGOHG_01725 Putative TrmH family tRNA/rRNA methyltransferase
+13_1658: OHALGOHG_01726 Membrane protein insertase MisCB
+13_1659: OHALGOHG_01727 Acylphosphatase
+13_1660: OHALGOHG_01728 Signal transduction histidine-protein kinase ArlS
+13_1661: OHALGOHG_01729 Response regulator ArlR
+13_1662: OHALGOHG_01730 hypothetical protein
+13_1663: OHALGOHG_01731 hypothetical protein
+13_1664: OHALGOHG_01732 Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+13_1665: OHALGOHG_01733 Ribosomal silencing factor RsfS
+13_1666: OHALGOHG_01734 hypothetical protein
+13_1667: OHALGOHG_01735 Nicotinate-nucleotide adenylyltransferase
+13_1668: OHALGOHG_01736 RNA-binding protein YhbY
+13_1669: OHALGOHG_01737 putative protein YqeH
+13_1670: OHALGOHG_01738 Phosphoglycolate phosphatase
+13_1671: OHALGOHG_01739 hypothetical protein
+13_1672: OHALGOHG_01740 Inner membrane protein YagU
+13_1673: OHALGOHG_01741 hypothetical protein
+13_1674: OHALGOHG_01742 hypothetical protein
+13_1675: OHALGOHG_01743 Putative HTH-type transcriptional regulator YwnA
+13_1676: OHALGOHG_01744 Glucosyltransferase-SI
+13_1677: OHALGOHG_01745 hypothetical protein
+13_1678: OHALGOHG_01746 hypothetical protein
+13_1679: OHALGOHG_01747 HTH-type transcriptional repressor RghR
+13_1680: OHALGOHG_01748 hypothetical protein
+13_1681: OHALGOHG_01749 Glucosyltransferase-SI
+13_1682: OHALGOHG_01750 hypothetical protein
+13_1683: OHALGOHG_01751 hypothetical protein
+13_1684: OHALGOHG_01752 hypothetical protein
+13_1685: OHALGOHG_01753 D-lactate dehydrogenase
+13_1686: OHALGOHG_01754 1,4-dihydroxy-2-naphthoate octaprenyltransferase
+13_1687: OHALGOHG_01755 hypothetical protein
+13_1688: OHALGOHG_01756 hypothetical protein
+13_1689: OHALGOHG_01757 Aminopeptidase C
+13_1690: OHALGOHG_01758 hypothetical protein
+13_1691: OHALGOHG_01759 60 kDa chaperonin
+13_1692: OHALGOHG_01760 10 kDa chaperonin
+13_1693: OHALGOHG_01761 hypothetical protein
+13_1694: OHALGOHG_01762 hypothetical protein
+13_1695: OHALGOHG_01763 PTS system mannose-specific EIID component
+13_1696: OHALGOHG_01764 PTS system sorbose-specific EIIC component
+13_1697: OHALGOHG_01765 PTS system mannose-specific EIIAB component
+13_1698: OHALGOHG_01766 putative mannose-6-phosphate isomerase GmuF
+13_1699: OHALGOHG_01767 FMN reductase [NAD(P)H]
+13_1700: OHALGOHG_01768 hypothetical protein
+13_1701: OHALGOHG_01769 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+13_1702: OHALGOHG_01770 UDP-N-acetylmuramoylpentapeptide-lysine N(6)-alanyltransferase
+13_1703: OHALGOHG_01771 Redox-sensing transcriptional repressor Rex
+13_1704: OHALGOHG_01772 tRNA N6-adenosine threonylcarbamoyltransferase
+13_1705: OHALGOHG_01773 Ribosomal-protein-alanine acetyltransferase
+13_1706: OHALGOHG_01774 Ribosomal-protein-alanine acetyltransferase
+13_1707: OHALGOHG_01775 tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+13_1708: OHALGOHG_01776 Phosphoenolpyruvate-protein phosphotransferase
+13_1709: OHALGOHG_01777 Phosphocarrier protein HPr
+13_1710: OHALGOHG_01778 Carboxypeptidase 1
+13_1711: OHALGOHG_01779 Threonylcarbamoyl-AMP synthase
+13_1712: OHALGOHG_01780 Release factor glutamine methyltransferase
+13_1713: OHALGOHG_01781 Peptide chain release factor 1
+13_1714: OHALGOHG_01782 Thymidine kinase
+13_1715: OHALGOHG_01783 Peptidoglycan DL-endopeptidase CwlO
+13_1716: OHALGOHG_01784 dITP/XTP pyrophosphatase
+13_1717: OHALGOHG_01785 UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+13_1718: OHALGOHG_01786 Cobyric acid synthase
+13_1719: OHALGOHG_01787 hypothetical protein
+13_1720: OHALGOHG_01788 Low-affinity putrescine importer PlaP
+13_1721: OHALGOHG_01789 hypothetical protein
+13_1722: OHALGOHG_01790 hypothetical protein
+13_1723: OHALGOHG_01791 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+13_1724: OHALGOHG_01792 5,10-methylenetetrahydrofolate reductase
+13_1725: OHALGOHG_01793 Putative glutamine amidotransferase
+13_1726: OHALGOHG_01794 Dipeptide-binding protein DppE
+13_1727: OHALGOHG_01795 L-methionine gamma-lyase
+13_1728: OHALGOHG_01796 hypothetical protein
+13_1729: OHALGOHG_01797 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+13_1730: OHALGOHG_01798 S-ribosylhomocysteine lyase
+13_1731: OHALGOHG_01799 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+13_1732: OHALGOHG_01800 Cystathionine beta-lyase MetC
+13_1733: OHALGOHG_01801 Cystathionine gamma-synthase/O-acetylhomoserine (thiol)-lyase
+13_1734: OHALGOHG_01802 Homoserine O-acetyltransferase
+13_1735: OHALGOHG_01803 Thioredoxin-like protein YdbP
+13_1736: OHALGOHG_01804 Serine protease Do-like HtrA
+13_1737: OHALGOHG_01805 Sensor histidine kinase ResE
+13_1738: OHALGOHG_01806 Response regulator ArlR
+13_1739: OHALGOHG_01807 Endoribonuclease EndoA
+13_1740: OHALGOHG_01808 Alanine racemase
+13_1741: OHALGOHG_01809 Holo-[acyl-carrier-protein] synthase
+13_1742: OHALGOHG_01810 Protein DltD
+13_1743: OHALGOHG_01811 D-alanyl carrier protein
+13_1744: OHALGOHG_01812 Peptidoglycan O-acetyltransferase
+13_1745: OHALGOHG_01813 D-alanine--D-alanyl carrier protein ligase
+13_1746: OHALGOHG_01814 hypothetical protein
+13_1747: OHALGOHG_01815 Lichenan permease IIC component
+13_1748: OHALGOHG_01816 hypothetical protein
+13_1749: OHALGOHG_01817 hypothetical protein
+13_1750: OHALGOHG_01818 Putative TrmH family tRNA/rRNA methyltransferase
+13_1751: OHALGOHG_01819 Mini-ribonuclease 3
+13_1752: OHALGOHG_01820 DNA-directed RNA polymerase subunit beta'
+13_1753: OHALGOHG_01821 DNA-directed RNA polymerase subunit beta
+13_1754: OHALGOHG_01832 hypothetical protein
+13_1755: OHALGOHG_01833 D-lactate dehydrogenase
+13_1756: OHALGOHG_01834 Putative N-acetyl-LL-diaminopimelate aminotransferase
+13_1757: OHALGOHG_01835 Guanylate kinase
+13_1758: OHALGOHG_01836 putative amino acid permease YhdG
+13_1759: OHALGOHG_01837 Septation ring formation regulator EzrA
+13_1760: OHALGOHG_01838 30S ribosomal protein S4
+13_1761: OHALGOHG_01839 HTH-type transcriptional regulator SgrR
+13_1762: OHALGOHG_01840 Multidrug resistance protein MdtH
+13_1763: OHALGOHG_01841 putative protein YueI
+13_1764: OHALGOHG_01842 Replication-associated recombination protein A
+13_1765: OHALGOHG_01843 Putative universal stress protein
+13_1766: OHALGOHG_01844 Lysine-specific permease
+13_1767: OHALGOHG_01845 hypothetical protein
+13_1768: OHALGOHG_01846 Biofilm regulatory protein A
+13_1769: OHALGOHG_01847 putative protein
+13_1770: OHALGOHG_01848 Oligopeptide-binding protein OppA
+13_1771: OHALGOHG_01849 Serine/threonine exchanger SteT
+13_1772: OHALGOHG_01850 Tryptophan--tRNA ligase 2
+13_1773: OHALGOHG_01851 GTPase HflX
+13_1774: OHALGOHG_01854 Putative transport protein
+13_1775: OHALGOHG_01855 Adenine DNA glycosylase
+13_1776: OHALGOHG_01856 hypothetical protein
+13_1777: OHALGOHG_01857 putative multidrug resistance protein EmrY
+13_1778: OHALGOHG_01858 Pyrroline-5-carboxylate reductase
+13_1779: OHALGOHG_01860 NADH oxidase
+13_1780: OHALGOHG_01861 hypothetical protein
+13_1781: OHALGOHG_01862 ATP synthase epsilon chain
+13_1782: OHALGOHG_01863 ATP synthase subunit beta
+13_1783: OHALGOHG_01864 ATP synthase gamma chain
+13_1784: OHALGOHG_01865 ATP synthase subunit alpha
+13_1785: OHALGOHG_01866 ATP synthase subunit delta
+13_1786: OHALGOHG_01867 ATP synthase subunit b
+13_1787: OHALGOHG_01868 ATP synthase subunit c
+13_1788: OHALGOHG_01869 ATP synthase subunit a
+13_1789: OHALGOHG_01870 Uracil permease
+13_1790: OHALGOHG_01871 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+13_1791: OHALGOHG_01872 Cold shock-like protein CspLA
+13_1792: OHALGOHG_01873 hypothetical protein
+13_1793: OHALGOHG_01874 Riboflavin transporter RibZ
+13_1794: OHALGOHG_01875 Pantothenate kinase
+13_1795: OHALGOHG_01876 DNA helicase IV
+13_1796: OHALGOHG_01877 hypothetical protein
+13_1797: OHALGOHG_01878 hypothetical protein
+13_1798: OHALGOHG_01879 hypothetical protein
+13_1799: OHALGOHG_01880 hypothetical protein
+13_1800: OHALGOHG_01881 hypothetical protein
+13_1801: OHALGOHG_01882 hypothetical protein
+13_1802: OHALGOHG_01883 hypothetical protein
+13_1803: OHALGOHG_01884 Xaa-Pro dipeptidase
+13_1804: OHALGOHG_01885 ESAT-6 secretion accessory factor EsaA
+13_1805: OHALGOHG_01886 hypothetical protein
+13_1806: OHALGOHG_01887 2-aminoadipate transaminase
+13_1807: OHALGOHG_01888 hypothetical protein
+13_1808: OHALGOHG_01889 Glucosyltransferase-SI
+13_1809: OHALGOHG_01890 Spermidine N(1)-acetyltransferase
+13_1810: OHALGOHG_01891 putative HTH-type transcriptional regulator YvdT
+13_1811: OHALGOHG_01892 Shikimate kinase
+13_1812: OHALGOHG_01893 hypothetical protein
+13_1813: OHALGOHG_01894 hypothetical protein
+13_1814: OHALGOHG_01895 Spermidine N(1)-acetyltransferase
+13_1815: OHALGOHG_01896 hypothetical protein
+13_1816: OHALGOHG_01897 hypothetical protein
+13_1817: OHALGOHG_01898 hypothetical protein
+13_1818: OHALGOHG_01899 hypothetical protein
+13_1819: OHALGOHG_01900 hypothetical protein
+13_1820: OHALGOHG_01901 hypothetical protein
+13_1821: OHALGOHG_01902 hypothetical protein
+13_1822: OHALGOHG_01903 hypothetical protein
+13_1823: OHALGOHG_01904 hypothetical protein
+13_1824: OHALGOHG_01905 hypothetical protein
+13_1825: OHALGOHG_01906 Ribonuclease BN
+13_1826: OHALGOHG_01907 hypothetical protein
+13_1827: OHALGOHG_01909 putative ABC transporter ATP-binding protein YheS
+13_1828: OHALGOHG_01910 hypothetical protein
+13_1829: OHALGOHG_01911 hypothetical protein
+13_1830: OHALGOHG_01912 hypothetical protein
+13_1831: OHALGOHG_01913 Alcohol dehydrogenase 1
+13_1832: OHALGOHG_01914 Putative niacin/nicotinamide transporter NaiP
+13_1833: OHALGOHG_01915 Phosphoglycerate kinase
+13_1834: OHALGOHG_01916 Glycosyltransferase stabilizing protein Gtf2
+13_1835: OHALGOHG_01917 Glycosyltransferase Gtf1
+13_1836: OHALGOHG_01920 hypothetical protein
+13_1837: OHALGOHG_01921 Neutral endopeptidase
+13_1838: OHALGOHG_01922 Oligopeptide transport ATP-binding protein OppF
+13_1839: OHALGOHG_01923 Oligopeptide transport ATP-binding protein OppD
+13_1840: OHALGOHG_01924 Oligopeptide transport system permease protein OppC
+13_1841: OHALGOHG_01925 Oligopeptide transport system permease protein OppB
+13_1842: OHALGOHG_01926 Oligopeptide-binding protein OppA
+13_1843: OHALGOHG_01927 putative glutamine ABC transporter permease protein GlnP
+13_1844: OHALGOHG_01928 putative glutamine ABC transporter permease protein GlnM
+13_1845: OHALGOHG_01929 ABC transporter glutamine-binding protein GlnH
+13_1846: OHALGOHG_01930 Glutamine transport ATP-binding protein GlnQ
+13_1847: OHALGOHG_01931 putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+13_1848: OHALGOHG_01932 putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+13_1849: OHALGOHG_01933 hypothetical protein
+13_1850: OHALGOHG_01934 Aspartate-semialdehyde dehydrogenase
+13_1851: OHALGOHG_01935 Lysine racemase
+13_1852: OHALGOHG_01936 Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+13_1853: OHALGOHG_01937 Putative HTH-type transcriptional regulator
+13_1854: OHALGOHG_01938 ESAT-6 secretion accessory factor EsaA
+13_1855: OHALGOHG_01939 Ribosomal RNA large subunit methyltransferase H
+13_1856: OHALGOHG_01940 Serine protease Do-like HtrA
+13_1857: OHALGOHG_01941 hypothetical protein
+13_1858: OHALGOHG_01942 hypothetical protein
+13_1859: OHALGOHG_01943 Sensor protein kinase WalK
+13_1860: OHALGOHG_01944 Transcriptional regulatory protein WalR
+13_1861: OHALGOHG_01945 Ribose-phosphate pyrophosphokinase
+13_1862: OHALGOHG_01946 Thiol peroxidase
+13_1863: OHALGOHG_01947 Putative phosphatase
+13_1864: OHALGOHG_01948 3-isopropylmalate dehydrogenase
+13_1865: OHALGOHG_01949 2-iminobutanoate/2-iminopropanoate deaminase
+13_1866: OHALGOHG_01950 L-threonine dehydratase biosynthetic IlvA
+13_1867: OHALGOHG_01951 Ketol-acid reductoisomerase (NADP(+))
+13_1868: OHALGOHG_01952 hypothetical protein
+13_1869: OHALGOHG_01953 Acetolactate synthase large subunit
+13_1870: OHALGOHG_01954 putative ABC transporter ATP-binding protein YlmA
+13_1871: OHALGOHG_01955 Xylulose-5-phosphate phosphoketolase
+13_1872: OHALGOHG_01956 HTH-type transcriptional regulator GmuR
+13_1873: OHALGOHG_01957 Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+13_1874: OHALGOHG_01958 hypothetical protein
+13_1875: OHALGOHG_01959 Replicative DNA helicase
+13_1876: OHALGOHG_01960 50S ribosomal protein L9
+13_1877: OHALGOHG_01961 Cyclic-di-AMP phosphodiesterase GdpP
+13_1878: OHALGOHG_01962 30S ribosomal protein S18
+13_1879: OHALGOHG_01963 Single-stranded DNA-binding protein A
+13_1880: OHALGOHG_01964 30S ribosomal protein S6
+13_1881: OHALGOHG_01965 Putative dipeptidase
+13_1882: OHALGOHG_01966 Energy-coupling factor transporter transmembrane protein EcfT
+13_1883: OHALGOHG_01967 Putative HMP/thiamine import ATP-binding protein YkoD
+13_1884: OHALGOHG_01968 hypothetical protein
+13_1885: OHALGOHG_01969 Adenosyl-chloride synthase
+13_1886: OHALGOHG_01970 ATP-dependent DNA helicase RecQ
+13_1887: OHALGOHG_01971 hypothetical protein
+13_1888: OHALGOHG_01972 hypothetical protein
+13_1889: OHALGOHG_01973 hypothetical protein
+13_1890: OHALGOHG_01974 hypothetical protein
+13_1891: OHALGOHG_01975 Lactococcin-A immunity protein
+13_1892: OHALGOHG_01976 hypothetical protein
+13_1893: OHALGOHG_01977 hypothetical protein
+13_1894: OHALGOHG_01978 hypothetical protein
+13_1895: OHALGOHG_01979 hypothetical protein
+13_1896: OHALGOHG_01980 hypothetical protein
+13_1897: OHALGOHG_01981 hypothetical protein
+13_1898: OHALGOHG_01982 hypothetical protein
+13_1899: OHALGOHG_01983 hypothetical protein
+13_1900: OHALGOHG_01984 hypothetical protein
+13_1901: OHALGOHG_01985 L-ribulose-5-phosphate 4-epimerase
+13_1902: OHALGOHG_01986 L-ribulose-5-phosphate 3-epimerase UlaE
+13_1903: OHALGOHG_01987 3-keto-L-gulonate-6-phosphate decarboxylase UlaD
+13_1904: OHALGOHG_01988 Ascorbate-specific PTS system EIIB component
+13_1905: OHALGOHG_01989 Ascorbate-specific PTS system EIIC component
+13_1906: OHALGOHG_01990 Mannitol-specific cryptic phosphotransferase enzyme IIA component
+13_1907: OHALGOHG_01991 putative L-ascorbate-6-phosphate lactonase UlaG
+13_1908: OHALGOHG_01992 hypothetical protein
+13_1909: OHALGOHG_01993 Sugar phosphatase YidA
+13_1910: OHALGOHG_01994 hypothetical protein
+13_1911: OHALGOHG_01995 hypothetical protein
+13_1912: OHALGOHG_01996 hypothetical protein
+13_1913: OHALGOHG_01997 Transcriptional regulator SlyA
+13_1914: OHALGOHG_01998 hypothetical protein
+13_1915: OHALGOHG_01999 Na(+)/H(+) antiporter NhaC
+13_1916: OHALGOHG_02000 hypothetical protein
+13_1917: OHALGOHG_02001 putative oxidoreductase
+13_1918: OHALGOHG_02002 putative HTH-type transcriptional regulator YtcD
+13_1919: OHALGOHG_02003 putative oxidoreductase
+13_1920: OHALGOHG_02004 Organic hydroperoxide resistance transcriptional regulator
+13_1921: OHALGOHG_02005 Aldo-keto reductase IolS
+13_1922: OHALGOHG_02006 hypothetical protein
+13_1923: OHALGOHG_02007 Multidrug resistance protein MdtH
+13_1924: OHALGOHG_02008 hypothetical protein
+13_1925: OHALGOHG_02009 Glucose-6-phosphate 1-dehydrogenase
+13_1926: OHALGOHG_02010 D-alanyl-D-alanine carboxypeptidase DacA
+13_1927: OHALGOHG_02011 Transcriptional regulator AdcR
+13_1928: OHALGOHG_02012 Manganese ABC transporter substrate-binding lipoprotein
+13_1929: OHALGOHG_02013 Demethylmenaquinone methyltransferase
+13_1930: OHALGOHG_02014 2-succinylbenzoate--CoA ligase
+13_1931: OHALGOHG_02015 hypothetical protein
+13_1932: OHALGOHG_02016 High-affinity nickel-transport protein NixA
+13_1933: OHALGOHG_02017 hypothetical protein
+13_1934: OHALGOHG_02018 hypothetical protein
+13_1935: OHALGOHG_02019 hypothetical protein
+13_1936: OHALGOHG_02020 hypothetical protein
+13_1937: OHALGOHG_02021 Inner membrane metabolite transport protein YdjE
+13_1938: OHALGOHG_02022 3-isopropylmalate dehydratase small subunit
+13_1939: OHALGOHG_02023 3-isopropylmalate dehydratase large subunit
+13_1940: OHALGOHG_02024 3-isopropylmalate dehydrogenase
+13_1941: OHALGOHG_02025 2-isopropylmalate synthase
+13_1942: OHALGOHG_02026 Fe-S protein maturation auxiliary factor SufT
+13_1943: OHALGOHG_02027 hypothetical protein
+13_1944: OHALGOHG_02028 Iron-sulfur cluster assembly scaffold protein IscU
+13_1945: OHALGOHG_02029 Cysteine desulfurase SufS
+13_1946: OHALGOHG_02030 hypothetical protein
+13_1947: OHALGOHG_02031 Vegetative protein 296
+13_1948: OHALGOHG_02032 hypothetical protein
+13_1949: OHALGOHG_02033 Dihydroxy-acid dehydratase
+13_1950: OHALGOHG_02034 Fe-S protein maturation auxiliary factor SufT
+13_1951: OHALGOHG_02035 Pantothenate precursors transporter PanS
+13_1952: OHALGOHG_02036 D-lactate dehydrogenase
+13_1953: OHALGOHG_02037 Tyrosine--tRNA ligase
+13_1954: OHALGOHG_02038 hypothetical protein
+13_1955: OHALGOHG_02039 hypothetical protein
+13_1956: OHALGOHG_02040 hypothetical protein
+13_1957: OHALGOHG_02041 Acetyl esterase
+13_1958: OHALGOHG_02042 Glutathione biosynthesis bifunctional protein GshAB
+13_1959: OHALGOHG_02043 Macrolide export ATP-binding/permease protein MacB
+13_1960: OHALGOHG_02044 putative ABC transporter ATP-binding protein YknY
+13_1961: OHALGOHG_02045 hypothetical protein
+13_1962: OHALGOHG_02046 hypothetical protein
+13_1963: OHALGOHG_02047 hypothetical protein
+13_1964: OHALGOHG_02048 2-hydroxyhexa-2,4-dienoate hydratase
+13_1965: OHALGOHG_02050 hypothetical protein
+13_1966: OHALGOHG_02051 HTH-type transcriptional regulator CysL
+13_1967: OHALGOHG_02052 Xanthine phosphoribosyltransferase
+13_1968: OHALGOHG_02053 Cobalt/magnesium transport protein CorA
+13_1969: OHALGOHG_02054 hypothetical protein
+13_1970: OHALGOHG_02055 Signal peptidase IB
+13_1971: OHALGOHG_02056 Membrane protein insertase MisCA
+13_1972: OHALGOHG_02057 Ribonuclease P protein component
+13_1973: OHALGOHG_02058 50S ribosomal protein L34
+13_1974: OHALGOHG_02059 Transcriptional activatory protein AadR
+13_1975: OHALGOHG_02060 NADH oxidase
+13_1976: OHALGOHG_02061 hypothetical protein
+13_1977: OHALGOHG_02062 2-hydroxy-3-oxopropionate reductase
+13_1978: OHALGOHG_02063 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+13_1979: OHALGOHG_02064 hypothetical protein
+13_1980: OHALGOHG_02065 hypothetical protein
+13_1981: OHALGOHG_02066 Carbonic anhydrase
+13_1982: OHALGOHG_02067 hypothetical protein
+13_1983: OHALGOHG_02068 hypothetical protein
+13_1984: OHALGOHG_02069 hypothetical protein
+13_1985: OHALGOHG_02070 Cadmium-transporting ATPase
+13_1986: OHALGOHG_02071 Copper chaperone CopZ
+13_1987: OHALGOHG_02072 DNA protection during starvation protein
+13_1988: OHALGOHG_02073 Nitrogen fixation regulation protein FixK
+13_1989: OHALGOHG_02074 hypothetical protein
+13_1990: OHALGOHG_02075 Tyrosine recombinase XerC
+13_1991: OHALGOHG_02076 hypothetical protein
+13_1992: OHALGOHG_02077 putative iron export permease protein FetB
+13_1993: OHALGOHG_02078 putative iron export ATP-binding protein FetA
+13_1994: OHALGOHG_02079 hypothetical protein
+13_1995: OHALGOHG_02080 Arsenate reductase
+13_1996: OHALGOHG_02081 hypothetical protein
+13_1997: OHALGOHG_02082 hypothetical protein
+13_1998: OHALGOHG_02083 hypothetical protein
+13_1999: OHALGOHG_02084 hypothetical protein
+13_2000: OHALGOHG_02085 hypothetical protein
+13_2001: OHALGOHG_02086 hypothetical protein
+13_2002: OHALGOHG_02087 hypothetical protein
+13_2003: OHALGOHG_02088 hypothetical protein
+13_2004: OHALGOHG_02089 Sporulation initiation inhibitor protein Soj
+13_2005: OHALGOHG_02090 hypothetical protein
+13_2006: OHALGOHG_02091 hypothetical protein
+13_2007: OHALGOHG_02092 hypothetical protein
+13_2008: OHALGOHG_02093 hypothetical protein
+13_2009: OHALGOHG_02094 putative protein YqgN
+13_2010: OHALGOHG_02095 hypothetical protein
+13_2011: OHALGOHG_02096 hypothetical protein
+13_2012: OHALGOHG_02097 Serine recombinase PinR
+13_2013: OHALGOHG_02098 hypothetical protein
+13_2014: OHALGOHG_02099 Putative fluoride ion transporter CrcB
+13_2015: OHALGOHG_02100 Putative fluoride ion transporter CrcB
+13_2016: OHALGOHG_02101 H(+)/Cl(-) exchange transporter ClcA
+13_2017: OHALGOHG_02102 Na(+)/H(+)-K(+) antiporter GerN
+13_2018: OHALGOHG_02103 hypothetical protein
+13_2019: OHALGOHG_02104 hypothetical protein
+13_2020: OHALGOHG_02105 hypothetical protein
+13_2021: OHALGOHG_02106 hypothetical protein
+13_2022: OHALGOHG_02107 hypothetical protein
+13_2023: OHALGOHG_02108 Multicopper oxidase mco
+13_2024: OHALGOHG_02109 hypothetical protein
+13_2025: OHALGOHG_02110 hypothetical protein
+13_2026: OHALGOHG_02111 Thioredoxin
+13_2027: OHALGOHG_02112 Coenzyme A disulfide reductase
