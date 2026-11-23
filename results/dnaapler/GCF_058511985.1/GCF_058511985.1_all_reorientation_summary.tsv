@@ -1,0 +1,3 @@
+Contig	Gene_Reoriented	Start	Strand	Top_Hit	Top_Hit_Length	Covered_Length	Coverage	Identical_AAs	Identity_Percentage	Overlapping_Contig_End
+NZ_CP196400.1 Fructobacillus sp. ESL1096 chromosome, complete genome	dnaA	683327	reverse	sp~Q04HR6~DNAA_OENOB	450	453	100.67	194	42.83	False
+NZ_CP196401.1 Fructobacillus sp. ESL1096 plasmid unnamed	repA	6153	forward	UniRef90_O52364	295	286	96.95	127	44.41	False

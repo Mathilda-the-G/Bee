@@ -1,0 +1,3 @@
+Contig	Gene_Reoriented	Start	Strand	Top_Hit	Top_Hit_Length	Covered_Length	Coverage	Identical_AAs	Identity_Percentage	Overlapping_Contig_End
+NZ_CP196398.1 Fructobacillus sp. ESL1098 chromosome, complete genome	dnaA	1108980	forward	sp~Q04HR6~DNAA_OENOB	450	453	100.67	194	42.83	False
+NZ_CP196399.1 Fructobacillus sp. ESL1098 plasmid unnamed	repA	23782	reverse	UniRef90_O52364	295	286	96.95	127	44.41	False

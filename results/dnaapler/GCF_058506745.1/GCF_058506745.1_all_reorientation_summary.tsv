@@ -1,0 +1,2 @@
+Contig	Gene_Reoriented	Start	Strand	Top_Hit	Top_Hit_Length	Covered_Length	Coverage	Identical_AAs	Identity_Percentage	Overlapping_Contig_End
+NZ_CP196376.1 Fructobacillus sp. ESL1138 chromosome, complete genome	dnaA	240953	reverse	sp~Q890K8~DNAA_LACPL	455	468	102.86	192	41.03	False

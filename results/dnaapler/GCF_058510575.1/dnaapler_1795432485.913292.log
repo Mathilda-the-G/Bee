@@ -1,0 +1,35 @@
+2026-11-23 12:14:45.930 | INFO     | dnaapler.utils.util:begin_dnaapler:74 - You are using dnaapler version 1.4.0
+2026-11-23 12:14:45.933 | INFO     | dnaapler.utils.util:begin_dnaapler:75 - Repository homepage is https://github.com/gbouras13/dnaapler
+2026-11-23 12:14:45.933 | INFO     | dnaapler.utils.util:begin_dnaapler:76 - Written by George Bouras: george.bouras@adelaide.edu.au
+2026-11-23 12:14:45.933 | INFO     | dnaapler.utils.util:begin_dnaapler:77 - Your input file is files/raw_data/ncbi_dataset/data_fructo/GCF_058510575.1/GCF_058510575.1_ASM5851057v1_genomic.fna
+2026-11-23 12:14:45.933 | INFO     | dnaapler.utils.util:begin_dnaapler:78 - Your output directory  is results/dnaapler/GCF_058510575.1
+2026-11-23 12:14:45.933 | INFO     | dnaapler.utils.util:begin_dnaapler:79 - You have specified 4 threads to use with MMseqs2
+2026-11-23 12:14:45.933 | INFO     | dnaapler.utils.util:begin_dnaapler:80 - You have specified all gene(s) to reorient your sequence
+2026-11-23 12:14:45.933 | INFO     | dnaapler.utils.util:check_mmseqs2_version:122 - Checking MMseqs2 installation.
+2026-11-23 12:14:46.037 | INFO     | dnaapler.utils.util:check_mmseqs2_version:142 - MMseqs2 version found is 18.8cc5c
+2026-11-23 12:14:46.037 | INFO     | dnaapler.utils.util:check_mmseqs2_version:156 - MMseqs2 version is ok.
+2026-11-23 12:14:46.038 | INFO     | dnaapler.utils.util:check_pyrodigal_version:95 - Checking pyrodigal installation.
+2026-11-23 12:14:46.038 | INFO     | dnaapler.utils.util:check_pyrodigal_version:106 - Pyrodigal version is v3.7.1
+2026-11-23 12:14:46.038 | INFO     | dnaapler.utils.util:check_pyrodigal_version:107 - Pyrodigal version is ok.
+2026-11-23 12:14:46.038 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --input files/raw_data/ncbi_dataset/data_fructo/GCF_058510575.1/GCF_058510575.1_ASM5851057v1_genomic.fna
+2026-11-23 12:14:46.038 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --output results/dnaapler/GCF_058510575.1
+2026-11-23 12:14:46.038 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --threads 4
+2026-11-23 12:14:46.038 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --force True
+2026-11-23 12:14:46.038 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --prefix GCF_058510575.1
+2026-11-23 12:14:46.038 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --evalue 1e-10
+2026-11-23 12:14:46.039 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --autocomplete none
+2026-11-23 12:14:46.039 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --seed_value 13
+2026-11-23 12:14:46.039 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --ignore 
+2026-11-23 12:14:46.039 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --custom_db 
+2026-11-23 12:14:46.039 | INFO     | dnaapler.utils.util:begin_dnaapler:85 - Parameter: --db all
+2026-11-23 12:14:46.053 | INFO     | dnaapler.utils.validation:validate_input_all:156 - Checking that the input file files/raw_data/ncbi_dataset/data_fructo/GCF_058510575.1/GCF_058510575.1_ASM5851057v1_genomic.fna is in FASTA or GFA format and has at least 1 entry.
+2026-11-23 12:14:46.060 | INFO     | dnaapler.utils.validation:check_file_format:105 - files/raw_data/ncbi_dataset/data_fructo/GCF_058510575.1/GCF_058510575.1_ASM5851057v1_genomic.fna is in FASTA format.
+2026-11-23 12:14:46.068 | INFO     | dnaapler.utils.validation:validate_input_all:161 - files/raw_data/ncbi_dataset/data_fructo/GCF_058510575.1/GCF_058510575.1_ASM5851057v1_genomic.fna has only one entry.
+2026-11-23 12:14:46.076 | INFO     | dnaapler.utils.validation:check_evalue:228 - You have specified an evalue of 1e-10.
+2026-11-23 12:14:46.076 | INFO     | dnaapler:all:1029 - No contigs specified to ignore.
+2026-11-23 12:14:46.102 | INFO     | dnaapler.utils.external_tools:run:52 - Started running mmseqs easy-search results/dnaapler/GCF_058510575.1/rotated_input.fasta /usr/local/lib/python3.13/site-packages/dnaapler/db/all_db results/dnaapler/GCF_058510575.1/GCF_058510575.1_MMseqs2_output.txt results/dnaapler/GCF_058510575.1/tmp_MMseqs2_output --search-type 2 --threads 4 -e 1e-10 --format-output query,qlen,target,tlen,alnlen,qstart,qend,tstart,tend,fident,nident,gapopen,mismatch,evalue,bits,qaln,taln ...
+2026-11-23 12:15:00.248 | INFO     | dnaapler.utils.external_tools:run:54 - Done running mmseqs easy-search results/dnaapler/GCF_058510575.1/rotated_input.fasta /usr/local/lib/python3.13/site-packages/dnaapler/db/all_db results/dnaapler/GCF_058510575.1/GCF_058510575.1_MMseqs2_output.txt results/dnaapler/GCF_058510575.1/tmp_MMseqs2_output --search-type 2 --threads 4 -e 1e-10 --format-output query,qlen,target,tlen,alnlen,qstart,qend,tstart,tend,fident,nident,gapopen,mismatch,evalue,bits,qaln,taln
+2026-11-23 12:15:00.440 | WARNING  | dnaapler.utils.processing:reorient_single_record_bulk:506 - The top MMseqs2 hit for the contig NZ_CP196389.1 did not begin with a valid start codon.
+2026-11-23 12:15:00.440 | WARNING  | dnaapler.utils.processing:reorient_single_record_bulk:509 - Searching with pyrodigal for the CDS overlapping the most with the top MMseqs2 hit to reorient with.
+2026-11-23 12:15:02.539 | INFO     | dnaapler.utils.util:end_dnaapler:173 - dnaapler has finished
+2026-11-23 12:15:02.540 | INFO     | dnaapler.utils.util:end_dnaapler:174 - Elapsed time: 16.63 seconds
