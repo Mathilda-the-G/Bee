@@ -20,11 +20,12 @@ from matplotlib.patches import Patch
  
 # ---- settings ----
 REPO = Path(__file__).resolve().parent.parent      # the Bee folder
-PROKKA = REPO / "results" / "prokka"
-OF_IN = REPO / "results" / "orthofinder" / "of_ingroup" / "Orthogroups"
-OF_ALL = REPO / "results" / "orthofinder" / "of_all" / "Orthogroups"
+PROKKA = REPO / "results" / "prokka" / "fructo_reoriented"           # Prokka on dnaapler-reoriented genomes
+OF_FRUCTO = REPO / "results" / "orthofinder" / "of_fructo" / "Orthogroups"      # 8 Fructobacillus
+OF_FRUCTO_OG = REPO / "results" / "orthofinder" / "of_fructo_outgroup" / "Orthogroups"  # 8 Fructobacillus + LMES
 OUTGROUP = "GCF_000014445.1"
-OUT = REPO / "results" / "circos"
+# 8 Fructobacillus, strict core (8/8); plots + summary.tsv
+OUT = REPO / "results" / "pyCirclize" / "fructobacillus_core_8of8"
 OUT.mkdir(parents=True, exist_ok=True)
  
 COLORS = {
@@ -72,14 +73,14 @@ def genes_in(cell):
  
  
 # ---- gene categories (done once, for all genomes) ----
-og_in = pd.read_csv(OF_IN / "Orthogroups.tsv", sep="\t", index_col=0) #Fructobacillus run
-unassigned = pd.read_csv(OF_IN / "Orthogroups_UnassignedGenes.tsv", sep="\t", index_col=0) #holds genes OrthoFinder couldn’t put in any group
-og_all = pd.read_csv(OF_ALL / "Orthogroups.tsv", sep="\t", index_col=0) #Run with outgroup
-GENOMES = list(og_in.columns)                      # the 8 Fructobacillus
+og_fructo = pd.read_csv(OF_FRUCTO / "Orthogroups.tsv", sep="\t", index_col=0) #Fructobacillus run
+unassigned = pd.read_csv(OF_FRUCTO / "Orthogroups_UnassignedGenes.tsv", sep="\t", index_col=0) #holds genes OrthoFinder couldn’t put in any group
+og_fructo_og = pd.read_csv(OF_FRUCTO_OG / "Orthogroups.tsv", sep="\t", index_col=0) #Run with outgroup
+GENOMES = list(og_fructo.columns)                      # the 8 Fructobacillus
 
 #Core, accessory, unique thresholds 
 category = {}
-for _, row in og_in.iterrows():
+for _, row in og_fructo.iterrows():
     n = sum(len(genes_in(c)) > 0 for c in row) #Count how many genomes have at least one gene in it
     cat = "core" if n == 8 else "accessory" if n >= 2 else "unique"
     for genome in GENOMES:
@@ -92,7 +93,7 @@ for genome in GENOMES:
 # Collect all Fructobacillus genes that share an orthogroup with LMES (from the outgroup run)
 #list of Fructobacillus genes whose family also exists in LMES
 with_outgroup = set()
-for _, row in og_all[og_all[OUTGROUP].notna()].iterrows():
+for _, row in og_fructo_og[og_fructo_og[OUTGROUP].notna()].iterrows():
     for genome in GENOMES:
         with_outgroup.update(genes_in(row[genome]))
  
@@ -105,14 +106,25 @@ def final_category(gene):
  
  
 # ---- short names from the metadata ----
-#links each accession to a short strain name, such as GCF_058511985.1 to ESL1096, used in the plot titles and file names.
+#links each accession to a short strain name (e.g. GCF_058511985.1 -> ESL1096) and to the species name
+#(e.g. "Fructobacillus sp."), used in the plot titles and file names.
 meta = pd.read_csv(REPO / "metadata" / "genome_metadata.tsv", sep="\t")
 NAMES = {acc: strain.split()[-1].replace("_", "")
          for acc, strain in zip(meta.accession, meta.species_strain)}
+SPECIES = {acc: " ".join(strain.split()[:2])
+           for acc, strain in zip(meta.accession, meta.species_strain)}
+
+def italic_species(species):
+    """Species name in italics for the plot title ('sp.' stays upright)."""
+    genus, epithet = species.split()
+    if epithet == "sp.":
+        return rf"$\it{{{genus}}}$ sp."
+    return rf"$\it{{{genus}\ {epithet}}}$"
  
 # ---- one plot per genome ----
 def plot_genome(genome):
     name = NAMES.get(genome, genome)
+    species = SPECIES.get(genome, "")
     gff = PROKKA / f"{genome}_annotated" / f"{genome}.gff"
  
     sizes, genes = read_gff(gff)
@@ -125,16 +137,13 @@ def plot_genome(genome):
     gbk = Genbank(PROKKA / f"{genome}_annotated" / f"{genome}.gbk")
     pos, skew = gbk.calc_gc_skew(seq=gbk.get_seqid2seq()[chrom])
     cum_skew = np.cumsum(skew)
-    ori = pos[np.argmin(cum_skew)]
-    ter = pos[np.argmax(cum_skew)]
-    dnaA = genes[genes.gene == "dnaA"]
-    d = abs(dnaA.start.iloc[0] - ori) if len(dnaA) else np.nan
-    dnaA_dist = min(d, size - d)
-    print(f"{name}: ori {ori:,.0f}, ter {ter:,.0f}, dnaA {dnaA_dist:,.0f} bp from ori")
+    ori = 0                                        # genomes start at dnaA (reoriented with dnaapler)
+    ter = pos[np.argmax(cum_skew)]                 # ter = maximum of the cumulative GC skew
+    skew_min = pos[np.argmin(cum_skew)]            # check: should be close to 0 (or to the genome size)
+    print(f"{name}: ter {ter:,.0f}, cumulative skew minimum at {skew_min:,.0f} (should be ~0 or ~{size:,})")
  
-    # rotate the whole circle so ori is at the top (positions stay the same)
-    start = -360 * ori / size
-    circos = Circos({chrom: size}, start=start, end=start + 360)
+    # genomes start at dnaA/ori, so position 0 is already at the top (no rotation needed)
+    circos = Circos({chrom: size})
     sector = circos.sectors[0]
 
     #Gray scale ring, label every 250 kb
@@ -165,16 +174,16 @@ def plot_genome(genome):
         sector.text(label, x=x, r=107, size=10, fontweight="bold")
 
     #Puts the name and size in the centre, turns the circle into a matplotlib figure, adds the colour legend and saves the PNG
-    circos.text(f"{name}\n{size/1e6:.2f} Mb", size=12)
+    circos.text(f"{italic_species(species)}\n{name}\n{size/1e6:.2f} Mb", size=12)
     fig = circos.plotfig()
     handles = [Patch(color=c, label=k) for k, c in COLORS.items()]
     fig.legend(handles=handles, loc="lower right", fontsize=8, frameon=False)
-    fig.savefig(OUT / f"{name}_circos.png", dpi=200)
+    fig.savefig(OUT / f"{species.replace('.', '').replace(' ', '_')}_{name}_circos.png", dpi=200)
 
     #counts the genes per category and returns one row of information for this genome
     counts = genes.category.value_counts().to_dict()
-    return {"genome": name, "accession": genome, "size_bp": size,
-            "ori": round(ori), "ter": round(ter), "dnaA_to_ori_bp": round(dnaA_dist), **counts}
+    return {"genome": name, "species": species, "accession": genome, "size_bp": size,
+            "ter": round(ter), "skew_min": round(skew_min), **counts}
  
  
 summary = pd.DataFrame([plot_genome(g) for g in GENOMES]).fillna(0)
