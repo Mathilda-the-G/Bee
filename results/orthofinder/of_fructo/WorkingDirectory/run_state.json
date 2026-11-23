@@ -1,39 +1,39 @@
 {
   "commands": {
     "FastTree": {
-      "command": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/orthofinder/bin/FastTree /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov12/WorkingDirectory/Alignments_ids/OG0000084.fa > /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov12/WorkingDirectory/Trees_ids/OG0000084.txt",
+      "command": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/FastTree /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/reoriented/Results_Nov23/WorkingDirectory/Alignments_ids/OG0000081.fa > /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/reoriented/Results_Nov23/WorkingDirectory/Trees_ids/OG0000081.txt",
       "invocation": 1,
-      "program": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/orthofinder/bin/FastTree",
+      "program": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/FastTree",
       "stage": "Build alignments and gene trees"
     },
     "FastTree (species tree)": {
-      "command": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/orthofinder/bin/FastTree /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov12/WorkingDirectory/Alignments_ids/SpeciesTreeAlignment.fa > /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov12/WorkingDirectory/SpeciesTree_unrooted_ids.txt",
+      "command": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/FastTree /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/reoriented/Results_Nov23/WorkingDirectory/Alignments_ids/SpeciesTreeAlignment.fa > /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/reoriented/Results_Nov23/WorkingDirectory/SpeciesTree_unrooted_ids.txt",
       "invocation": 1,
-      "program": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/orthofinder/bin/FastTree",
+      "program": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/FastTree",
       "stage": "Build alignments and gene trees"
     },
     "diamond blastp": {
-      "command": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/orthofinder/bin/diamond blastp --ignore-warnings -d /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov12/WorkingDirectory/diamondDBSpecies0 -q /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov12/WorkingDirectory/Species0.fa -o /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov12/WorkingDirectory/Blast0_0.txt --matrix BLOSUM62 --gapopen 11 --gapextend 1 --more-sensitive -p 1 --quiet -e 0.001 --compress 1",
+      "command": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/diamond blastp --ignore-warnings -d /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/reoriented/Results_Nov23/WorkingDirectory/diamondDBSpecies0 -q /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/reoriented/Results_Nov23/WorkingDirectory/Species0.fa -o /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/reoriented/Results_Nov23/WorkingDirectory/Blast0_0.txt --matrix BLOSUM62 --gapopen 11 --gapextend 1 --more-sensitive -p 1 --quiet -e 0.001 --compress 1",
       "invocation": 1,
-      "program": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/orthofinder/bin/diamond",
+      "program": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/diamond",
       "stage": "Sequence search"
     },
     "diamond makedb": {
-      "command": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/orthofinder/bin/diamond makedb --ignore-warnings --in /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov12/WorkingDirectory/Species0.fa -d /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov12/WorkingDirectory/diamondDBSpecies0",
+      "command": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/diamond makedb --ignore-warnings --in /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/reoriented/Results_Nov23/WorkingDirectory/Species0.fa -d /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/reoriented/Results_Nov23/WorkingDirectory/diamondDBSpecies0",
       "invocation": 1,
-      "program": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/orthofinder/bin/diamond",
+      "program": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/diamond",
       "stage": "Create search databases"
     },
     "famsa": {
-      "command": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/orthofinder/bin/famsa /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov12/WorkingDirectory/Sequences_ids/OG0000081.fa /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov12/WorkingDirectory/Alignments_ids/OG0000081.fa -t 1",
+      "command": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/famsa /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/reoriented/Results_Nov23/WorkingDirectory/Sequences_ids/OG0000079.fa /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/reoriented/Results_Nov23/WorkingDirectory/Alignments_ids/OG0000079.fa -t 1",
       "invocation": 1,
-      "program": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/orthofinder/bin/famsa",
+      "program": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/famsa",
       "stage": "Build alignments and gene trees"
     },
     "mcl": {
-      "command": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/orthofinder/bin/mcl /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov12/WorkingDirectory/OrthoFinder_graph.txt -I 1.2 -o /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov12/WorkingDirectory/clusters_OrthoFinder_I1.2.txt -te 1 -V all",
+      "command": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/mcl /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/reoriented/Results_Nov23/WorkingDirectory/OrthoFinder_graph.txt -I 1.2 -o /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/reoriented/Results_Nov23/WorkingDirectory/clusters_OrthoFinder_I1.2.txt -te 1 -V all",
       "invocation": 1,
-      "program": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/orthofinder/bin/mcl",
+      "program": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/mcl",
       "stage": "Infer orthogroups"
     }
   },
@@ -48,58 +48,58 @@
     "orthogroups": "WorkingDirectory/clusters_OrthoFinder_I1.2.txt_id_pairs.txt"
   },
   "programs": {
-    "FastTree": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/orthofinder/bin/FastTree",
-    "diamond": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/orthofinder/bin/diamond",
-    "famsa": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/orthofinder/bin/famsa",
-    "mcl": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/orthofinder/bin/mcl"
+    "FastTree": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/FastTree",
+    "diamond": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/diamond",
+    "famsa": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/famsa",
+    "mcl": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder/bin/mcl"
   },
   "python": {
-    "executable": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/bin/python3",
+    "executable": "/software/sse2/el9_epyc9005/easybuild/prefix/software/Python/3.13.5-GCCcore-14.3.0/bin/python",
     "orthofinder": {
-      "path": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/orthofinder",
+      "path": "/home/daer9945/.local/lib/python3.13/site-packages/orthofinder",
       "version": "3.2"
     },
     "packages": {
       "biopython": {
-        "path": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/Bio",
+        "path": "/home/daer9945/.local/lib/python3.13/site-packages/Bio",
         "version": "1.88"
       },
       "ete4": {
-        "path": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/ete4",
+        "path": "/home/daer9945/.local/lib/python3.13/site-packages/ete4",
         "version": "4.4.0"
       },
       "numpy": {
-        "path": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/numpy",
+        "path": "/home/daer9945/.local/lib/python3.13/site-packages/numpy",
         "version": "2.5.4"
       },
       "pandas": {
-        "path": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/pandas",
+        "path": "/home/daer9945/.local/lib/python3.13/site-packages/pandas",
         "version": "3.1.1"
       },
       "rich": {
-        "path": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/rich",
+        "path": "/home/daer9945/.local/lib/python3.13/site-packages/rich",
         "version": "15.0.0"
       },
       "scikit-learn": {
-        "path": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/sklearn",
+        "path": "/home/daer9945/.local/lib/python3.13/site-packages/sklearn",
         "version": "1.9.1"
       },
       "scipy": {
-        "path": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/lib/python3.13/site-packages/scipy",
+        "path": "/home/daer9945/.local/lib/python3.13/site-packages/scipy",
         "version": "1.18.1"
       }
     },
-    "prefix": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env",
+    "prefix": "/software/sse2/el9_epyc9005/easybuild/prefix/software/Python/3.13.5-GCCcore-14.3.0",
     "version": "3.13.5"
   },
   "run": {
     "analysis": "core",
     "invocations": [
       {
-        "command": "orthofinder -f /nobackup/proj/disk/naiss2026-4-1938/shared/Bee/files/proteins_annotated -t 4 -o /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder",
+        "command": "orthofinder -f /nobackup/proj/disk/naiss2026-4-1938/shared/Bee/files/proteins_annotated/fructo_reoriented -t 4 -o /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/reoriented",
         "directory": "/nobackup/proj/disk/naiss2026-4-1938/personal/daer9945",
         "number": 1,
-        "started": "2026-11-12T11:16:49",
+        "started": "2026-11-23T14:29:22",
         "version": "3.2"
       }
     ]
@@ -137,11 +137,11 @@
     "job": {
       "SLURM_CPUS_ON_NODE": "4",
       "SLURM_CPUS_PER_TASK": "4",
-      "SLURM_JOB_ID": "5192240",
+      "SLURM_JOB_ID": "5652732",
       "SLURM_MEM_PER_CPU": "2765"
     },
     "memory_mb": {
-      "available": 625117,
+      "available": 688171,
       "limit": null,
       "total": 773509
     },
