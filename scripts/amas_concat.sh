@@ -3,7 +3,7 @@
 PROJ=/nobackup/proj/disk/naiss2026-4-1938
 REPO=$PROJ/shared/Bee
 AMAS=$PROJ/apps/AMAS.py
-IN=$REPO/results/mafft/of_ingroup_Single_Copy
+IN=$REPO/results/mafft/of_all_Single_Copy
 OUT=$REPO/results/amas/fructo_mes_auto
 
 mkdir -p $OUT/renamed

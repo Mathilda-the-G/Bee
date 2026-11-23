@@ -1,0 +1,2 @@
+Alignment_name	No_of_taxa	Alignment_length	Total_matrix_cells	Undetermined_characters	Missing_percent	No_variable_sites	Proportion_variable_sites	Parsimony_informative_sites	Proportion_parsimony_informative	A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	B	J	Z	X	.	*	-	?
+concat.fasta	9	246755	2220795	54686	2.462	106065	0.43	64955	0.263	207569	3844	133396	129390	88128	150419	42325	133697	134439	218277	53330	90822	79387	111668	91726	117036	127595	165067	20576	67418	0	0	0	0	0	0	54686	0
