@@ -1,0 +1,1 @@
+seqkit seq -r -p GCF_058511285.1_ASM5851128v1_genomic.fna -o reverse_GCF_058511285.1_ASM5851128v1_genomic.fna
