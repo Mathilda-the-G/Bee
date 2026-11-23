@@ -19,4 +19,4 @@ module load Python/3.13.5-bare-gcc-2025b-eb
 . $APPS/of3_env/bin/activate
 
 # Run OrthoFinder
-orthofinder -f $BEE/files/proteins_annotated -t 4 -o $OUTPUTDIR
+orthofinder -f $BEE/files/proteins_annotated/fructo_reoriented -t 4 -o $OUTPUTDIR

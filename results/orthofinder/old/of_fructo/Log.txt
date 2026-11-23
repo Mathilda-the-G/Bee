@@ -1,0 +1,25 @@
+2026-11-12 11:16:49 : Started OrthoFinder version 3.2
+Command Line: /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/of3_env/bin/orthofinder -f /nobackup/proj/disk/naiss2026-4-1938/shared/Bee/files/proteins_annotated -t 4 -o /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder
+
+Search program: diamond
+MSA program: famsa
+Tree program: fasttree
+Scoring matrix: BLOSUM62
+Gap extend: 1
+Gap open: 11
+
+WorkingDirectory_Base: /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov12/WorkingDirectory/
+
+Species used: 
+0: GCF_024029775.1.faa
+1: GCF_058506745.1.faa
+2: GCF_058507945.1.faa
+3: GCF_058508565.1.faa
+4: GCF_058509935.1.faa
+5: GCF_058510575.1.faa
+6: GCF_058511285.1.faa
+7: GCF_058511985.1.faa
+
+FN_Orthogroups: /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov12/WorkingDirectory/clusters_OrthoFinder_I1.2.txt_id_pairs.txt
+WorkingDirectory_Trees: /nobackup/proj/disk/naiss2026-4-1938/personal/daer9945/OrthoFinder/Results_Nov12/WorkingDirectory/
+2026-11-12 11:18:33 : OrthoFinder run completed

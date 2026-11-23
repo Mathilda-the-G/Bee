@@ -19,4 +19,4 @@ module load Python/3.13.5-bare-gcc-2025b-eb
 . $APPS/of3_env/bin/activate
 
 # Add outgroup to the existing OrthoFinder analysis
-orthofinder --assign $BEE/files/proteins_annotated/a_kunkeei --core $OUTPUTDIR/Results_Nov12 -t 4
+orthofinder --assign $BEE/files/proteins_annotated/a_kunkeei --core $OUTPUTDIR/reoriented/Results_Nov23 -t 4

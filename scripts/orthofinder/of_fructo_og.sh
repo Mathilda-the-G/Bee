@@ -2,11 +2,11 @@
 
 #SBATCH -A naiss2026-4-1938-cpu
 #SBATCH -p cpu
-#SBATCH -J orthofinder_all
+#SBATCH -J of_fructo_og
 #SBATCH -t 00:10:00
 #SBATCH -c 4
-#SBATCH -e of_all.err
-#SBATCH -o of_all.out
+#SBATCH -e of_fructo_og.err
+#SBATCH -o of_fructo_og.out
 
 APPS=/nobackup/proj/disk/naiss2026-4-1938/apps
 BEE=/nobackup/proj/disk/naiss2026-4-1938/shared/Bee
@@ -19,4 +19,4 @@ module load Python/3.13.5-bare-gcc-2025b-eb
 . $APPS/of3_env/bin/activate
 
 # Add outgroup to the existing OrthoFinder analysis
-orthofinder --assign $BEE/files/proteins_annotated/outgroup --core $OUTPUTDIR/Results_Nov12 -t 4
+orthofinder --assign $BEE/files/proteins_annotated/outgroup --core $OUTPUTDIR/reoriented/Results_Nov23 -t 4
