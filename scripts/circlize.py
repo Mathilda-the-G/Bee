@@ -22,7 +22,7 @@ from matplotlib.patches import Patch
 REPO = Path(__file__).resolve().parent.parent      # the Bee folder
 PROKKA = REPO / "results" / "prokka" / "fructo_reoriented"           # Prokka on dnaapler-reoriented genomes
 OF_FRUCTO = REPO / "results" / "orthofinder" / "of_fructo" / "Orthogroups"      # 8 Fructobacillus
-OF_FRUCTO_OG = REPO / "results" / "orthofinder" / "of_fructo_outgroup" / "Orthogroups"  # 8 Fructobacillus + LMES
+OF_FRUCTO_OG = REPO / "results" / "orthofinder" / "of_fructo_mes" / "Orthogroups"  # 8 Fructobacillus + LMES
 OUTGROUP = "GCF_000014445.1"
 # 8 Fructobacillus, strict core (8/8); plots + summary.tsv
 OUT = REPO / "results" / "pyCirclize" / "fructobacillus_core_8of8"
@@ -151,26 +151,36 @@ def plot_genome(genome):
     axis.axis(fc="lightgrey", ec="none")
     axis.xticks_by_interval(250_000, label_formatter=lambda v: f"{v/1e6:.2f} Mb")
 
-    #+ strand outside, - strand inside
-    fwd = sector.add_track((88, 96))
-    rev = sector.add_track((79, 87))
+    #Outer rings: all genes in grey, + strand outside, - strand inside
+    fwd = sector.add_track((92, 97))
+    rev = sector.add_track((86, 91))
     for g in genes.itertuples():
         track = fwd if g.strand == "+" else rev
-        track.rect(g.start - 1, g.end, fc=COLORS[g.category], lw=0)
+        track.rect(g.start - 1, g.end, fc="#9e9e9e", lw=0)
+
+    #Middle rings: one ring per gene category (both strands), in the legend order, outside -> inside
+    r_out, width, gap = 84, 5, 1
+    for cat, color in COLORS.items():
+        track = sector.add_track((r_out - width, r_out))
+        track.axis(fc="#f4f4f4", ec="none")            # faint background so empty rings stay visible
+        for g in genes[genes.category == cat].itertuples():
+            track.rect(g.start - 1, g.end, fc=color, lw=0)
+        r_out -= width + gap
+    r_in = r_out + gap                                   # inner edge of the last category ring
 
     #GC skew ring
     lim = np.abs(skew).max()
-    sk = sector.add_track((62, 76))
+    sk = sector.add_track((r_in - 14, r_in - 2))
     sk.fill_between(pos, np.where(skew > 0, skew, 0), vmin=-lim, vmax=lim, color="#7d3c98", lw=0)
     sk.fill_between(pos, np.where(skew < 0, skew, 0), vmin=-lim, vmax=lim, color="#d4ac0d", lw=0)
 
     #Cumulative skew, black line
-    cs = sector.add_track((46, 60))
+    cs = sector.add_track((r_in - 28, r_in - 16))
     cs.line(pos, cum_skew, vmin=cum_skew.min(), vmax=cum_skew.max(), color="black", lw=1)
 
     #Marks ori and ter
     for label, x in (("ori", ori), ("ter", ter)):
-        sector.rect(max(0, x - 2000), min(size, x + 2000), r_lim=(46, 100), fc="black", lw=0)
+        sector.rect(max(0, x - 2000), min(size, x + 2000), r_lim=(r_in - 28, 100), fc="black", lw=0)
         sector.text(label, x=x, r=107, size=10, fontweight="bold")
 
     #Puts the name and size in the centre, turns the circle into a matplotlib figure, adds the colour legend and saves the PNG
