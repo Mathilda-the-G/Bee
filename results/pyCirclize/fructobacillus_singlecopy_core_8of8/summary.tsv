@@ -1,0 +1,9 @@
+genome	species	accession	size_bp	ter	skew_min	single-copy core, Fructobacillus-specific	single-copy core, shared with LMES	accessory	unique	multi-copy core (not plotted)
+KI3B9	Fructobacillus americanaquae	GCF_024029775.1	1414204	685790	1414204	77	759	180	97	227
+ESL1138	Fructobacillus sp.	GCF_058506745.1	1384960	703072	1384	75	759	249	2	210
+ESL1129	Fructobacillus sp.	GCF_058507945.1	1384929	703072	1384	75	759	249	2	210
+ESL1117	Fructobacillus sp.	GCF_058508565.1	1442580	702254	1442580	76	759	251	1	221
+ESL1107	Fructobacillus sp.	GCF_058509935.1	1442529	702254	1442529	76	759	251	2	221
+ESL1105	Fructobacillus sp.	GCF_058510575.1	1443655	702741	1443655	76	759	246	3	226
+ESL1098	Fructobacillus sp.	GCF_058511285.1	1438666	694554	1438666	76	759	252	2	218
+ESL1096	Fructobacillus sp.	GCF_058511985.1	1438033	694554	1438033	76	759	253	2	219
