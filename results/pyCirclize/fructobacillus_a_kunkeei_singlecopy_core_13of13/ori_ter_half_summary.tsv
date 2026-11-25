@@ -1,0 +1,16 @@
+genus	genome	n_core_genes	ori_half	ter_half	ori_half_%	ter_half_%
+Fructobacillus	all (8 genomes pooled)	5144	2497	2647	48.5	51.5
+Apilactobacillus	all (5 genomes pooled)	3215	858	2357	26.7	73.3
+Fructobacillus	KI3B9	643	331	312	51.5	48.5
+Fructobacillus	ESL1138	643	329	314	51.2	48.8
+Fructobacillus	ESL1129	643	329	314	51.2	48.8
+Fructobacillus	ESL1117	643	300	343	46.7	53.3
+Fructobacillus	ESL1107	643	300	343	46.7	53.3
+Fructobacillus	ESL1105	643	300	343	46.7	53.3
+Fructobacillus	ESL1098	643	304	339	47.3	52.7
+Fructobacillus	ESL1096	643	304	339	47.3	52.7
+Apilactobacillus	A0901	643	175	468	27.2	72.8
+Apilactobacillus	A1001	643	167	476	26.0	74.0
+Apilactobacillus	H3B1-04J	643	176	467	27.4	72.6
+Apilactobacillus	H4B5-05J	643	168	475	26.1	73.9
+Apilactobacillus	A1404	643	172	471	26.7	73.3

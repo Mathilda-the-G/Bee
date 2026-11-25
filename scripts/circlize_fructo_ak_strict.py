@@ -144,6 +144,15 @@ def plot_genome(genome):
     ter = pos[np.argmax(cum_skew)]                 # ter = maximum of the cumulative GC skew
     skew_min = pos[np.argmin(cum_skew)]            # check: should be close to 0 (or to the genome size)
     print(f"{name}: ter {ter:,.0f}, cumulative skew minimum at {skew_min:,.0f} (should be ~0 or ~{size:,})")
+
+    # ---- ori half or ter half? ----
+    # Each replichore (ori -> ter on the right, ter -> ori on the left) is split in two at its midpoint:
+    # genes in the half closer to ori form the upper half of the plot, genes closer to ter the lower half.
+    mid = (genes.start + genes.end) / 2
+    right = mid <= ter
+    rel = np.where(right, mid / ter, (size - mid) / (size - ter))   # 0 = ori, 1 = ter
+    genes["half"] = np.where(rel < 0.5, "ori", "ter")
+    POSITIONS.append(genes.assign(genome=name, genus=species.split()[0])[["genus", "genome", "category", "half"]])
  
     # genomes start at dnaA/ori, so position 0 is already at the top (no rotation needed)
     circos = Circos({chrom: size})
@@ -199,6 +208,7 @@ def plot_genome(genome):
             "ter": round(ter), "skew_min": round(skew_min), **counts}
  
  
+POSITIONS = []                                    # filled with one table per genome in plot_genome()
 summary = pd.DataFrame([plot_genome(g) for g in GENOMES]).fillna(0)
 cols = [c for c in summary.columns if c not in COLORS] + list(COLORS)   # categories in legend order
 cols = [c for c in cols if c != "multi-copy core (not plotted)"] + ["multi-copy core (not plotted)"]
@@ -206,3 +216,25 @@ summary = summary.reindex(columns=cols, fill_value=0)
 summary[list(COLORS) + ["multi-copy core (not plotted)"]] = summary[list(COLORS) + ["multi-copy core (not plotted)"]].astype(int)
 summary.to_csv(OUT / "summary.tsv", sep="\t", index=False)
 print(summary.to_string(index=False))
+
+# ---- number and % of single-copy core genes in the ori half and the ter half ----
+# One row per genus (all its genomes added together) and one row per genome.
+CORE = "single-copy core (Fructobacillus + A. kunkeei)"
+pos_all = pd.concat(POSITIONS, ignore_index=True)
+
+def half_counts(df):
+    sub = df[df.category == CORE]
+    n_ori, n_ter = (sub.half == "ori").sum(), (sub.half == "ter").sum()
+    n = n_ori + n_ter
+    return {"n_core_genes": n, "ori_half": n_ori, "ter_half": n_ter,
+            "ori_half_%": round(100 * n_ori / n, 1) if n else np.nan,
+            "ter_half_%": round(100 * n_ter / n, 1) if n else np.nan}
+
+per_genus = pd.DataFrame([{"genus": genus, "genome": f"all ({df.genome.nunique()} genomes pooled)", **half_counts(df)}
+                          for genus, df in pos_all.groupby("genus", sort=False)])
+per_genome = pd.DataFrame([{"genus": genus, "genome": g, **half_counts(df)}
+                           for (genus, g), df in pos_all.groupby(["genus", "genome"], sort=False)])
+half_summary = pd.concat([per_genus, per_genome], ignore_index=True)
+half_summary.to_csv(OUT / "ori_ter_half_summary.tsv", sep="\t", index=False)
+print()
+print(half_summary.to_string(index=False))
